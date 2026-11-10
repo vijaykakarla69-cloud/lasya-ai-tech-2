@@ -12,7 +12,7 @@
       "has": [
         {
           "type": "host",
-          "value": "lasya-ai-tech-landing-page-site.vercel.app"
+          "value": "^lasya-ai-tech-landing-page-site(?:-git-main-[^.]+)?\\.vercel\\.app$"
         }
       ],
       "permanent": true
