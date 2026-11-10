@@ -1,0 +1,494 @@
+{
+  "data": {
+    "id": 39,
+    "documentId": "zfnew9htzm74ouo1ajwku1l2",
+    "title": "What we offers",
+    "subtitle": "Explore Our Technologies",
+    "description": "By doing a financial analysis of these statements, you can see\nwhether you have enough working capital.",
+    "createdAt": "2025-01-21T10:53:04.002Z",
+    "updatedAt": "2025-06-04T10:20:04.713Z",
+    "publishedAt": "2025-06-04T10:20:04.865Z",
+    "technologies": [
+      {
+        "id": 549,
+        "title": "AI Model Development",
+        "description": "Build custom AI models that align with your business goals. From data preprocessing to deployment",
+        "images": [
+          {
+            "id": 967,
+            "documentId": "jdep4vvhivhwvd2ww3zd0mnt",
+            "name": "icon-1 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_5ddbb145c8",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.84,
+            "url": "/assets/technology-images/icon-1 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-06-03T08:16:53.581Z",
+            "updatedAt": "2025-06-03T08:16:53.581Z",
+            "publishedAt": "2025-06-03T08:16:53.582Z"
+          }
+        ]
+      },
+      {
+        "id": 550,
+        "title": "Natural Language Processing (NLP)",
+        "description": "Enable machines to understand and process human language. Perfect for chatbots, sentiment analysis, text extraction, and document automation.",
+        "images": [
+          {
+            "id": 969,
+            "documentId": "v8nbb9hd0mjswb6zi118fg4b",
+            "name": "icon-2 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_3_bb3f2a7181",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 1.02,
+            "url": "/assets/technology-images/icon-2 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-06-03T08:18:16.449Z",
+            "updatedAt": "2025-06-03T08:18:16.449Z",
+            "publishedAt": "2025-06-03T08:18:16.450Z"
+          }
+        ]
+      },
+      {
+        "id": 551,
+        "title": "AI & Data Analytics",
+        "description": "Uncover patterns and trends with AI-driven insights. Use predictive modeling, real-time dashboards, and smart analytics to enhance strategic decision-making.",
+        "images": [
+          {
+            "id": 904,
+            "documentId": "n31mpouo31odu50ljjkdss77",
+            "name": "icon1.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_3_2_0c09c24f78",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 1.24,
+            "url": "/assets/technology-images/icon1.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-05-31T10:02:48.721Z",
+            "updatedAt": "2025-05-31T10:02:48.721Z",
+            "publishedAt": "2025-05-31T10:02:48.722Z"
+          }
+        ]
+      },
+      {
+        "id": 552,
+        "title": "Machine Learning Solutions",
+        "description": "Create scalable ML models for personalized recommendations, fraud detection, and process optimization to elevate operational efficiency.",
+        "images": [
+          {
+            "id": 47,
+            "documentId": "kcj1qz5hz677gemp9xy94bqt",
+            "name": "icon-5 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_2_3ae418dfa4",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 12.81,
+            "url": "/assets/technology-images/icon-5 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-12-11T09:57:51.736Z",
+            "updatedAt": "2024-12-11T09:57:51.736Z",
+            "publishedAt": "2024-12-11T09:57:51.736Z"
+          }
+        ]
+      },
+      {
+        "id": 553,
+        "title": "Computer Vision Services",
+        "description": "Integrate AI for image and video recognition. Ideal for facial detection, defect inspection, and visual process automation across industries.",
+        "images": [
+          {
+            "id": 44,
+            "documentId": "f26m3srl7fhvg0ee7wdxecot",
+            "name": "icon-6.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_b181034d73",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 10.26,
+            "url": "/assets/technology-images/icon-6.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-12-11T09:57:51.698Z",
+            "updatedAt": "2024-12-11T09:57:51.698Z",
+            "publishedAt": "2024-12-11T09:57:51.699Z"
+          }
+        ]
+      },
+      {
+        "id": 554,
+        "title": "AI-Powered Chatbots",
+        "description": "Deploy intelligent chatbots for 24/7 support. Automate conversations, reduce response time, and deliver consistent user experiences with AI.",
+        "images": [
+          {
+            "id": 337,
+            "documentId": "qtouc0t9nw6s67qkx9sjliou",
+            "name": "icon-1 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_2_ffec903e42",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 4.25,
+            "url": "/assets/technology-images/icon-1 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:10:40.530Z",
+            "updatedAt": "2025-01-22T07:10:40.530Z",
+            "publishedAt": "2025-01-22T07:10:40.530Z"
+          }
+        ]
+      },
+      {
+        "id": 540,
+        "title": "Web Development",
+        "description": "Build responsive websites that engage users and drive growth. Tailored to match your business goals with innovative designs.",
+        "images": [
+          {
+            "id": 336,
+            "documentId": "cn7dafh2ky6sulbsic12vr7p",
+            "name": "icon-1 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_1_7eceb0a00f",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.84,
+            "url": "/assets/technology-images/icon-1 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:08:25.806Z",
+            "updatedAt": "2025-01-22T07:08:25.806Z",
+            "publishedAt": "2025-01-22T07:08:25.807Z"
+          }
+        ]
+      },
+      {
+        "id": 541,
+        "title": "Android App Development",
+        "description": "Build feature-rich Android apps for a variety of devices. Deliver customized apps to meet diverse user needs.",
+        "images": [
+          {
+            "id": 337,
+            "documentId": "qtouc0t9nw6s67qkx9sjliou",
+            "name": "icon-2 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_2_ffec903e42",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 4.25,
+            "url": "/assets/technology-images/icon-2 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:10:40.530Z",
+            "updatedAt": "2025-01-22T07:10:40.530Z",
+            "publishedAt": "2025-01-22T07:10:40.530Z"
+          }
+        ]
+      },
+      {
+        "id": 542,
+        "title": "Python Development Services",
+        "description": "Create versatile applications using Python for various needs. Unlock potential with Python's powerful libraries and tools.",
+        "images": [
+          {
+            "id": 338,
+            "documentId": "xp0h2rsrgt4xu2kcav7l2g0t",
+            "name": "icon1.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_3_83b2267f7a",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 1.02,
+            "url": "/assets/technology-images/icon1.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:10:51.278Z",
+            "updatedAt": "2025-01-22T07:10:51.278Z",
+            "publishedAt": "2025-01-22T07:10:51.278Z"
+          }
+        ]
+      },
+      {
+        "id": 543,
+        "title": "Mobile App Development",
+        "description": "Create user-friendly mobile apps for both Android and iOS. Ensure seamless performance and top-notch user experiences.",
+        "images": [
+          {
+            "id": 339,
+            "documentId": "s2jbhbbh71q6c1rdmlfbssgk",
+            "name": "icon-5 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_4_004a2719d0",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 12.41,
+            "url": "/assets/technology-images/icon-5 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:11:02.044Z",
+            "updatedAt": "2025-01-22T07:11:02.044Z",
+            "publishedAt": "2025-01-22T07:11:02.045Z"
+          }
+        ]
+      },
+      {
+        "id": 544,
+        "title": "Flutter App Development",
+        "description": "Design cross-platform apps using Flutter for faster delivery. Achieve efficiency with a single codebase for all platforms.",
+        "images": [
+          {
+            "id": 340,
+            "documentId": "sd1e5k9yksarzm6m0c3h863b",
+            "name": "icon-6.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_5_15a68075c9",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 12.78,
+            "url": "/assets/technology-images/icon-6.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:11:13.541Z",
+            "updatedAt": "2025-01-22T07:11:13.541Z",
+            "publishedAt": "2025-01-22T07:11:13.541Z"
+          }
+        ]
+      },
+      {
+        "id": 545,
+        "title": ".Net Development Services",
+        "description": "Build secure, scalable solutions using .Net technologies. Ideal for enterprise-grade and robust applications.",
+        "images": [
+          {
+            "id": 341,
+            "documentId": "hiqkwhdvjjbivg7dz1ea3gjt",
+            "name": "icon-2 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_6_e9a6bbd10d",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 10.25,
+            "url": "/assets/technology-images/icon-2 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:11:24.179Z",
+            "updatedAt": "2025-01-22T07:11:24.179Z",
+            "publishedAt": "2025-01-22T07:11:24.180Z"
+          }
+        ]
+      },
+      {
+        "id": 546,
+        "title": "PHP Development Services",
+        "description": "Develop dynamic backend solutions using PHP technologies. Ensure reliability and scalability for all your web needs.",
+        "images": [
+          {
+            "id": 337,
+            "documentId": "qtouc0t9nw6s67qkx9sjliou",
+            "name": "icon1.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_2_ffec903e42",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 4.25,
+            "url": "/assets/technology-images/icon1.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:10:40.530Z",
+            "updatedAt": "2025-01-22T07:10:40.530Z",
+            "publishedAt": "2025-01-22T07:10:40.530Z"
+          }
+        ]
+      },
+      {
+        "id": 547,
+        "title": "Node.js Development Services",
+        "description": "Build fast, scalable APIs and apps with Node.js environment. Perfect for real-time applications and large-scale systems.",
+        "images": [
+          {
+            "id": 336,
+            "documentId": "cn7dafh2ky6sulbsic12vr7p",
+            "name": "icon-5 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_1_7eceb0a00f",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.84,
+            "url": "/assets/technology-images/icon-5 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:08:25.806Z",
+            "updatedAt": "2025-01-22T07:08:25.806Z",
+            "publishedAt": "2025-01-22T07:08:25.807Z"
+          }
+        ]
+      },
+      {
+        "id": 548,
+        "title": "iOS Development",
+        "description": "Develop high-quality iOS apps with seamless user experiences. Optimize for Apple's ecosystem to captivate your audience.",
+        "images": [
+          {
+            "id": 338,
+            "documentId": "xp0h2rsrgt4xu2kcav7l2g0t",
+            "name": "icon-6.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_3_83b2267f7a",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 1.02,
+            "url": "/assets/technology-images/icon-6.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-22T07:10:51.278Z",
+            "updatedAt": "2025-01-22T07:10:51.278Z",
+            "publishedAt": "2025-01-22T07:10:51.278Z"
+          }
+        ]
+      }
+      
+    ],
+    "seo": [
+      {
+        "id": 625,
+        "meta_title": "Technologies | LasyaAiTech - Empowering Businesses with Cutting-Edge Software Solutions",
+        "meta_description": "Explore LasyaAiTech's technology expertise in web development, mobile app development, Python, Node.js, Android, Flutter, and more. Our team leverages advanced tools and frameworks to deliver high-performance, scalable, and secure software solutions across industries.",
+        "meta_keywords": "technology services, web development, mobile app development, Flutter app development, Node.js development, Android app development, Python development, .Net development, iOS development, scalable solutions, custom software, high-performance applications, enterprise software solutions",
+        "meta_image": [
+          {
+            "id": 702,
+            "documentId": "dzfnlhviz8himtkl90938tkx",
+            "name": "img-4 (1).png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 642,
+            "height": 415,
+            "formats": {
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_img_4_1_a36ddc118a.png",
+                "hash": "small_img_4_1_a36ddc118a",
+                "mime": "image/png",
+                "name": "small_img-4 (1).png",
+                "path": null,
+                "size": 58.63,
+                "width": 500,
+                "height": 323,
+                "sizeInBytes": 58626
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_img_4_1_a36ddc118a.png",
+                "hash": "thumbnail_img_4_1_a36ddc118a",
+                "mime": "image/png",
+                "name": "thumbnail_img-4 (1).png",
+                "path": null,
+                "size": 25.07,
+                "width": 241,
+                "height": 156,
+                "sizeInBytes": 25069
+              }
+            },
+            "hash": "img_4_1_a36ddc118a",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 14.72,
+            "url": "/uploads/img_4_1_a36ddc118a.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-30T07:11:04.295Z",
+            "updatedAt": "2025-01-30T07:11:04.295Z",
+            "publishedAt": "2025-01-30T07:11:04.295Z"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+
+  }
+}

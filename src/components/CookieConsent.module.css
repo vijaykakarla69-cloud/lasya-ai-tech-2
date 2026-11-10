@@ -1,0 +1,626 @@
+.cookieContainer {
+  position: fixed;
+  bottom: 24px;
+  left: 24px;
+  background: #2d2d2d;
+  border-radius: 12px;
+  padding: 24px;
+  max-width: 550px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+  color: #ffffff;
+  overflow-y: auto;
+  animation: slideIn 0.5s ease-out;
+}
+
+.cookieContainerStatic {
+  position: fixed;
+  bottom: 24px;
+  left: 24px;
+  background: #2d2d2d;
+  border-radius: 12px;
+  padding: 24px;
+  max-width: 550px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+  color: #ffffff;
+}
+
+.cookieContent {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.cookieIcon {
+  align-self: flex-start;
+  margin-bottom: 8px;
+}
+
+.cookieIcon img {
+  width: 80px;
+  height: 80px;
+}
+
+.cookieTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0 0 12px 0;
+  color: #fff;
+}
+
+.cookieText {
+  text-align: left;
+  padding: 0 8px;
+}
+
+.cookieText p {
+  margin: 8px 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.cookieHighlight {
+  color: #00a4a3 !important;
+  font-weight: 500;
+  font-size: 1rem !important;
+  margin-top: 12px !important;
+}
+
+.buttonGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+}
+
+.mainButtons {
+  display: flex;
+  gap: 12px;
+  width: 100%;
+}
+
+.primaryButton,
+.secondaryButton {
+  flex: 1;
+  padding: 12px 20px;
+  font-size: 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.primaryButton {
+  background: #00a4a3;
+  color: white;
+}
+
+.primaryButton:hover {
+  background: #008a89;
+}
+
+.secondaryButton {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.secondaryButton:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.customizeButton {
+  width: 100%;
+  background: transparent;
+  color: #00a4a3;
+  border: none;
+  padding: 8px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  transition: color 0.2s ease;
+}
+
+.customizeButton:hover {
+  color: #008a89;
+  text-decoration: underline;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.preferencesModal {
+  background: #2d2d2d;
+  border-radius: 8px;
+  width: 95%;
+  max-width: 750px;
+  max-height: 85vh;
+  overflow-y: auto;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.modalHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 24px;
+  background: #222222;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.modalLogo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.modalLogo img {
+  width: 24px;
+  height: 24px;
+}
+
+.modalLogo h2 {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+  line-height: 24px;
+}
+
+.modalTitle {
+  color: #ffffff;
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.logo {
+  width: 24px;
+  height: 24px;
+}
+
+.modalTitle h2 {
+  font-size: 18px;
+  margin: 0;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.closeButton {
+  background: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 8px;
+  font-size: 24px;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+
+.closeButton:hover {
+  opacity: 1;
+}
+
+.modalContent {
+  padding: 24px;
+}
+
+.modalDescription {
+  color: #e1e1e1;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+
+.cookieTypes {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.cookieType {
+  background: #222222;
+  border-radius: 6px;
+  padding: 16px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.cookieTypeHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.cookieTypeHeader h3 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.cookieType p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #e1e1e1;
+}
+
+.alwaysActive {
+  color: #00a4a3;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 44px;
+  height: 22px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.2);
+  transition: .2s;
+  border-radius: 34px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  transition: .2s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #00a4a3;
+}
+
+input:checked + .slider:before {
+  transform: translateX(22px);
+}
+
+.modalFooter {
+  padding: 16px 24px;
+  background: #222222;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+}
+
+.modalFooter button {
+  padding: 14px 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+  font-weight: 500;
+}
+
+.modalFooter .primaryButton {
+  background: #00a4a3;
+  color: white;
+}
+
+.modalFooter .secondaryButton {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.acceptAllButton {
+  background: #00a4a3;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  width: auto;
+  margin: 20px 0;
+}
+
+.acceptAllButton:hover {
+  background: #008a89;
+}
+
+.logoWrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.logoText {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  height: 24px;
+  line-height: 24px;
+}
+
+.cookiePolicy {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.policyLink {
+  color: #00a4a3;
+  text-decoration: underline;
+  font-size: 14px;
+}
+
+.policyLink:hover {
+  color: #008a89;
+}
+
+@media (max-width: 768px) {
+  .cookieContainer {
+    max-width: 280px;
+    padding: 12px;
+    bottom: 10px;
+    left: 10px;
+    right: auto;
+    transform: none;
+    position: fixed;
+  }
+
+  .cookieContainerStatic {
+    max-width: 280px;
+    padding: 12px;
+    bottom: 10px;
+    left: 10px;
+    right: auto;
+    transform: none;
+    position: fixed;
+  }
+
+  .cookieContent {
+    gap: 8px;
+  }
+
+  .cookieIcon {
+    margin-bottom: 4px;
+  }
+
+  .cookieIcon img {
+    width: 32px;
+    height: 32px;
+  }
+
+  .cookieTitle {
+    font-size: 14px;
+    margin: 0 0 4px 0;
+  }
+
+  .cookieText {
+    padding: 0;
+  }
+
+  .cookieText p {
+    font-size: 11px;
+    line-height: 1.3;
+    margin: 4px 0;
+  }
+
+  .cookieHighlight {
+    font-size: 11px !important;
+    margin-top: 4px !important;
+  }
+
+  .buttonGroup {
+    gap: 4px;
+    margin-top: 6px;
+  }
+
+  .mainButtons {
+    gap: 4px;
+  }
+
+  .primaryButton,
+  .secondaryButton {
+    padding: 6px 10px;
+    font-size: 11px;
+  }
+
+  .customizeButton {
+    padding: 4px;
+    font-size: 10px;
+  }
+
+  .modalOverlay {
+    padding: 10px;
+  }
+
+  .preferencesModal {
+    width: 90%;
+    max-height: 70vh;
+    margin: 0 auto;
+  }
+
+  .modalHeader {
+    padding: 12px;
+  }
+
+  .modalContent {
+    padding: 12px;
+  }
+
+  .modalTitle {
+    font-size: 16px;
+    margin-bottom: 12px;
+  }
+
+  .modalDescription {
+    font-size: 12px;
+    line-height: 1.4;
+    margin-bottom: 12px;
+  }
+
+  .cookieTypes {
+    gap: 8px;
+  }
+
+  .cookieType {
+    padding: 12px;
+  }
+
+  .cookieTypeHeader h3 {
+    font-size: 13px;
+  }
+
+  .cookieType p {
+    font-size: 11px;
+    line-height: 1.3;
+    margin: 6px 0;
+  }
+
+  .cookieExamples small {
+    font-size: 10px;
+  }
+
+  .switch {
+    width: 36px;
+    height: 18px;
+  }
+
+  .slider:before {
+    height: 14px;
+    width: 14px;
+    left: 2px;
+    bottom: 2px;
+  }
+
+  input:checked + .slider:before {
+    transform: translateX(18px);
+  }
+
+  .modalFooter {
+    padding: 12px;
+    gap: 8px;
+  }
+
+  .modalFooter button {
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  .acceptAllButton {
+    padding: 8px 16px;
+    font-size: 12px;
+    margin: 12px 0;
+  }
+
+  .alwaysActive {
+    font-size: 11px;
+  }
+
+  .policyLink {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 380px) {
+  .cookieContainer {
+    max-width: 90vw;
+    padding: 12px;
+    transform: scale(0.85);
+  }
+
+  .cookieIcon img {
+    width: 32px;
+    height: 32px;
+  }
+
+  .cookieText p {
+    font-size: 11px;
+  }
+
+  .primaryButton,
+  .secondaryButton {
+    padding: 6px 10px;
+    font-size: 11px;
+  }
+
+  .preferencesModal {
+    width: 95%;
+    max-height: 75vh;
+  }
+
+  .modalContent {
+    padding: 10px;
+  }
+
+  .cookieType {
+    padding: 10px;
+  }
+
+  .modalFooter button {
+    padding: 6px 10px;
+    font-size: 11px;
+  }
+}
+
+.mobile-only {
+  display: none;
+}
+
+.desktop-only {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .mobile-only {
+    display: block;
+  }
+  .desktop-only {
+    display: none;
+  }
+}

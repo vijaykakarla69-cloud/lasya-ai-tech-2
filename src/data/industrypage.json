@@ -1,0 +1,594 @@
+{
+  "data": {
+    "id": 19,
+    "documentId": "d1cj2ud5dyh65egct6b7p9tq",
+    "title": "Explore Our Industries",
+    "subtitle": "Explore Our Industries",
+    "description": "By doing a financial analysis of these statements, you can see\nwhether you have enough working capital.",
+    "createdAt": "2025-01-20T10:38:18.862Z",
+    "updatedAt": "2025-06-04T07:22:19.979Z",
+    "publishedAt": "2025-06-04T07:22:20.035Z",
+    "lapl_industries": [
+      {
+        "id": 17,
+        "documentId": "mkvxmoajqx7o9e3ivwai0vit",
+        "slug": "fintech",
+        "title": "Fintech",
+        "description": "Short for \"financial technology,\" this sector focuses on innovative solutions to enhance and automate financial services, such as payment systems, banking apps, and digital lending.",
+        "createdAt": "2025-01-20T10:47:29.667Z",
+        "updatedAt": "2025-01-20T10:56:05.103Z",
+        "publishedAt": "2025-01-20T10:56:05.147Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "icon-1 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/icon-1 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 762,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 107,
+          "documentId": "p3owbujz7db0jpeej8exxq9d",
+          "slug": "fintech",
+          "createdAt": "2025-01-20T07:47:37.854Z",
+          "updatedAt": "2025-02-01T14:44:51.030Z",
+          "publishedAt": "2025-02-01T14:44:51.280Z"
+        }
+      },
+      {
+        "id": 24,
+        "documentId": "e59bf6j1u8k660iy9fofih2v",
+        "slug": "e-commerce-development",
+        "title": "E-commerce Development",
+        "description": "The creation and optimization of online platforms that facilitate buying and selling of goods or services, often integrating features like payment gateways, product listings, and customer management.",
+        "createdAt": "2025-01-20T10:54:56.716Z",
+        "updatedAt": "2025-02-10T13:16:53.271Z",
+        "publishedAt": "2025-02-10T13:16:53.314Z",
+        "image": [
+          {
+            "id": 44,
+            "documentId": "f26m3srl7fhvg0ee7wdxecot",
+            "name": "icon-2 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_b181034d73",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 10.26,
+            "url": "/assets/industrypage-images/icon-2 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-12-11T09:57:51.698Z",
+            "updatedAt": "2024-12-11T09:57:51.698Z",
+            "publishedAt": "2024-12-11T09:57:51.699Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 1199,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 107,
+          "documentId": "p3owbujz7db0jpeej8exxq9d",
+          "slug": "fintech",
+          "createdAt": "2025-01-20T07:47:37.854Z",
+          "updatedAt": "2025-02-01T14:44:51.030Z",
+          "publishedAt": "2025-02-01T14:44:51.280Z"
+        }
+      },
+      {
+        "id": 20,
+        "documentId": "k4cupis48fjm5an7w22viqo1",
+        "slug": "health-fitness",
+        "title": "Health & Fitness",
+        "description": "A sector focused on products and services that promote physical and mental well-being, such as fitness apps, wearable technology, and wellness programs.",
+        "createdAt": "2025-01-20T10:51:42.209Z",
+        "updatedAt": "2025-01-20T10:56:22.626Z",
+        "publishedAt": "2025-01-20T10:56:22.662Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "icon1.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/icon1.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 765,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 107,
+          "documentId": "p3owbujz7db0jpeej8exxq9d",
+          "slug": "fintech",
+          "createdAt": "2025-01-20T07:47:37.854Z",
+          "updatedAt": "2025-02-01T14:44:51.030Z",
+          "publishedAt": "2025-02-01T14:44:51.280Z"
+        }
+      },
+      {
+        "id": 23,
+        "documentId": "uolp7geuh33w07o1v6piu3mk",
+        "slug": "travel-hospitality",
+        "title": "Travel & Hospitality",
+        "description": "Industries that provide services for travel, accommodation, and leisure experiences, including airlines, hotels, and tour operators.",
+        "createdAt": "2025-01-20T10:48:57.421Z",
+        "updatedAt": "2025-01-20T10:58:07.822Z",
+        "publishedAt": "2025-01-20T10:58:07.858Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "icon-5 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/icon-5 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 768,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 107,
+          "documentId": "p3owbujz7db0jpeej8exxq9d",
+          "slug": "fintech",
+          "createdAt": "2025-01-20T07:47:37.854Z",
+          "updatedAt": "2025-02-01T14:44:51.030Z",
+          "publishedAt": "2025-02-01T14:44:51.280Z"
+        }
+      },
+      {
+        "id": 22,
+        "documentId": "c68rc1dhwqilowqb7nqwkrvh",
+        "slug": "startups",
+        "title": "Startups",
+        "description": "Newly established companies designed to grow quickly by developing innovative solutions, products, or services, often driven by technology.",
+        "createdAt": "2025-01-20T10:40:25.198Z",
+        "updatedAt": "2025-01-20T10:57:55.108Z",
+        "publishedAt": "2025-01-20T10:57:55.144Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "icon-6.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/icon-6.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 767,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 107,
+          "documentId": "p3owbujz7db0jpeej8exxq9d",
+          "slug": "fintech",
+          "createdAt": "2025-01-20T07:47:37.854Z",
+          "updatedAt": "2025-02-01T14:44:51.030Z",
+          "publishedAt": "2025-02-01T14:44:51.280Z"
+        }
+      },
+      {
+        "id": 21,
+        "documentId": "frnszyt9g6zts6md1cr54dcm",
+        "slug": "media",
+        "title": "Media",
+        "description": "Companies or platforms that create, distribute, or manage content like news, entertainment, or educational materials across various formats, including digital, print, and video.",
+        "createdAt": "2025-01-20T10:49:45.530Z",
+        "updatedAt": "2025-01-20T10:57:40.903Z",
+        "publishedAt": "2025-01-20T10:57:40.948Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "kick.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/kick.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 766,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 107,
+          "documentId": "p3owbujz7db0jpeej8exxq9d",
+          "slug": "fintech",
+          "createdAt": "2025-01-20T07:47:37.854Z",
+          "updatedAt": "2025-02-01T14:44:51.030Z",
+          "publishedAt": "2025-02-01T14:44:51.280Z"
+        }
+      },
+      {
+        "id": 40,
+        "documentId": "t8gujme7nliktl1kqckd5bsv",
+        "slug": "legaltech",
+        "title": "LegalTech",
+        "description": "Deliver faster, more accurate legal services with intelligent document processing, contract analysis, case prediction, and compliance automation powered by machine learning.\n\n",
+        "createdAt": "2025-06-03T14:02:23.262Z",
+        "updatedAt": "2025-06-03T14:22:35.360Z",
+        "publishedAt": "2025-06-03T14:22:35.404Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "hand.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/hand.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 1372,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 145,
+          "documentId": "zar3grjm3vbx8s8za4qznw0v",
+          "slug": "legaltech",
+          "createdAt": "2025-06-03T04:04:26.924Z",
+          "updatedAt": "2025-06-04T11:06:34.828Z",
+          "publishedAt": "2025-06-04T11:06:35.213Z"
+        }
+      },
+      {
+        "id": 49,
+        "documentId": "pxg1hbd6glbqt1pizbdrbhu5",
+        "slug": "cyber-security-solutions",
+        "title": "Cybersecurity Solutions",
+        "description": "Protect digital ecosystems using AI-powered threat detection, real-time anomaly monitoring, behavioral analytics, and automated breach response workflows.",
+        "createdAt": "2025-06-04T05:17:13.053Z",
+        "updatedAt": "2025-06-04T06:35:37.610Z",
+        "publishedAt": "2025-06-04T06:35:37.687Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "rocket.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/rocket.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 1402,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 150,
+          "documentId": "su4ulypz9yb54gvjodb4t4tw",
+          "slug": "cyber-security-solutions",
+          "createdAt": "2025-06-04T05:57:22.970Z",
+          "updatedAt": "2025-07-18T10:17:11.560Z",
+          "publishedAt": "2025-07-18T10:17:11.907Z"
+        }
+      },
+      {
+        "id": 48,
+        "documentId": "ufz0be79bsqb1mg76tem5py7",
+        "slug": "supply-chain-intelligence",
+        "title": "Supply Chain Intelligence",
+        "description": "Redefine risk evaluation and fraud prevention through predictive analytics, automated claims processing, and smart underwriting engines built on advanced AI models.",
+        "createdAt": "2025-06-04T05:24:18.393Z",
+        "updatedAt": "2025-06-04T06:32:42.974Z",
+        "publishedAt": "2025-06-04T06:32:43.074Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "icon-1 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/icon-1 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 1401,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 148,
+          "documentId": "zn3wgtkmebu3iba2hh9ef452",
+          "slug": "supply-chain-intelligence",
+          "createdAt": "2025-06-04T06:06:27.478Z",
+          "updatedAt": "2025-06-04T11:11:03.709Z",
+          "publishedAt": "2025-06-04T11:11:04.073Z"
+        }
+      },
+      {
+        "id": 51,
+        "documentId": "uxzasgngcgaa4n61v8xr76en",
+        "slug": "insurance-innovation",
+        "title": "Insurance Innovation",
+        "description": "Redefine risk evaluation and fraud prevention through predictive analytics, automated claims processing, and smart underwriting engines built on advanced AI models.",
+        "createdAt": "2025-06-04T05:18:52.266Z",
+        "updatedAt": "2025-06-04T06:54:59.878Z",
+        "publishedAt": "2025-06-04T06:54:59.927Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "icon-2 (1).svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/icon-2 (1).svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 1413,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": {
+          "id": 147,
+          "documentId": "sm9q6s53e6mgvkw07ttiqk83",
+          "slug": "insurance-innovation",
+          "createdAt": "2025-06-04T06:37:28.975Z",
+          "updatedAt": "2025-06-04T11:08:22.521Z",
+          "publishedAt": "2025-06-04T11:08:22.887Z"
+        }
+      },
+      {
+        "id": 54,
+        "documentId": "vatgcz4ihigptlwdsi6m1pqk",
+        "slug": "public-sector-transformation",
+        "title": "Public Sector Transformation",
+        "description": "Modernize civic infrastructure with AI-enhanced solutions for case routing, fraud detection, citizen services, and operational efficiency in government systems.",
+        "createdAt": "2025-06-04T05:25:32.552Z",
+        "updatedAt": "2025-06-04T07:20:30.089Z",
+        "publishedAt": "2025-06-04T07:20:30.154Z",
+        "image": [
+          {
+            "id": 130,
+            "documentId": "dio06zhrfxbzbeyvdghncpe8",
+            "name": "icon1.svg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 48,
+            "height": 48,
+            "formats": null,
+            "hash": "icon_1_503c576f88",
+            "ext": ".svg",
+            "mime": "image/svg+xml",
+            "size": 3.85,
+            "url": "/assets/industrypage-images/icon1.svg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-20T10:40:00.885Z",
+            "updatedAt": "2025-01-20T10:40:00.885Z",
+            "publishedAt": "2025-01-20T10:40:00.885Z"
+          }
+        ],
+        "button": [
+          {
+            "id": 1416,
+            "text": "learn more ",
+            "link": null
+          }
+        ],
+        "lapl_industry_page": null
+      }
+    ],
+    "seo": [
+      {
+        "id": 607,
+        "meta_title": "Explore Our Industry Expertise | LasyaAitech",
+        "meta_description": "Discover the industries we specialize in at LasyaAitech, including Fintech, E-commerce Development, Health & Fitness, Travel & Hospitality, Startups, and Media. We provide cutting-edge software solutions tailored to your industry's needs.\n",
+        "meta_keywords": "Fintech solutions, E-commerce development, Health & fitness apps, Travel industry software, Hospitality services, Startup technology, Media software, industry software solutions, LasyaAitech, technology services for industries\n",
+        "meta_image": [
+          {
+            "id": 41,
+            "documentId": "xpdp3isuij9b89rwm8bi30ut",
+            "name": "img-6.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 642,
+            "height": 416,
+            "formats": {
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_img_6_133d29ab32.png",
+                "hash": "small_img_6_133d29ab32",
+                "mime": "image/png",
+                "name": "small_img-6.png",
+                "path": null,
+                "size": 353.54,
+                "width": 500,
+                "height": 324,
+                "sizeInBytes": 353542
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_img_6_133d29ab32.png",
+                "hash": "thumbnail_img_6_133d29ab32",
+                "mime": "image/png",
+                "name": "thumbnail_img-6.png",
+                "path": null,
+                "size": 93.33,
+                "width": 241,
+                "height": 156,
+                "sizeInBytes": 93328
+              }
+            },
+            "hash": "img_6_133d29ab32",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 144.87,
+            "url": "/uploads/img_6_133d29ab32.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-12-10T14:10:29.197Z",
+            "updatedAt": "2024-12-10T14:10:29.197Z",
+            "publishedAt": "2024-12-10T14:10:29.197Z"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+
+  }
+}

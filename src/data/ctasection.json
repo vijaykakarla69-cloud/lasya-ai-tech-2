@@ -1,0 +1,98 @@
+{
+  "data": {
+      "id": 9,
+      "documentId": "tq5b7gejmoyaeettl11nriz8",
+      "title": "Accelerate Your Business with LasyaAitech",
+      "subtitle": "Partner with our expert software development team to bring your vision to life. Delivering innovative solutions and ensuring your project’s success every step of the way!",
+      "createdAt": "2024-12-21T18:26:59.213Z",
+      "updatedAt": "2024-12-21T20:07:10.814Z",
+      "publishedAt": "2024-12-21T20:07:10.863Z",
+      "image": [
+          {
+              "id": 17,
+              "image": [
+                  {
+                      "id": 52,
+                      "documentId": "dshu5hk3q6phiidgh5vj5luw",
+                      "name": "img-1.png",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 175,
+                      "height": 83,
+                      "formats": null,
+                      "hash": "img_1_a40d16cbda",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "size": 12.35,
+                      "url": "/assets/commoncta/commoncta.png",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2024-12-21T18:17:12.729Z",
+                      "updatedAt": "2024-12-21T18:17:12.729Z",
+                      "publishedAt": "2024-12-21T18:17:12.730Z"
+                  }
+              ]
+          },
+          {
+              "id": 18,
+              "image": [
+                  {
+                      "id": 53,
+                      "documentId": "cv04z3n6hy6zh3q4aofcopjq",
+                      "name": "img-2.png",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 183,
+                      "height": 84,
+                      "formats": null,
+                      "hash": "img_2_61ab640cb2",
+                      "ext": ".png",
+                      "mime": "image/png",
+                      "size": 13.64,
+                      "url": "/assets/commoncta/commoncta-2.png",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2024-12-21T18:18:16.987Z",
+                      "updatedAt": "2024-12-21T18:18:16.987Z",
+                      "publishedAt": "2024-12-21T18:18:16.987Z"
+                  }
+              ]
+          }
+      ],
+      "faq": [
+          {
+              "id": 41,
+              "question": "What are the key benefits of partnering with LasyaAitech?",
+              "answer": "We provide end-to-end software development services, from initial concept to deployment. Whether it's web development, mobile apps, or integrating cutting-edge technologies like AI, our solutions are tailored to your unique business needs, ensuring high performance, scalability, and exceptional user experiences."
+          },
+          {
+              "id": 42,
+              "question": "How does your software development process work?",
+              "answer": "We follow a structured approach, starting with an in-depth consultation to understand your requirements. Our team then drafts a clear project roadmap, ensuring transparency and regular updates throughout development. From prototyping to testing and deployment, we work collaboratively to bring your vision to life."
+          },
+          {
+              "id": 43,
+              "question": "Can LasyaAitech help us scale our existing software or migrate to new technology?",
+              "answer": "Absolutely! We specialize in upgrading existing systems, improving performance, and enabling seamless migration to modern technologies. Our team ensures minimal downtime and a smooth transition tailored to your growth objectives."
+          },
+          {
+              "id": 44,
+              "question": "Why should I choose LasyaAitech over other software development companies?",
+              "answer": "With a proven track record of delivering successful projects like MailBluster and ThemeWagon, we combine technical expertise with a client-first approach. Our agile methods and attention to detail ensure we exceed expectations and deliver measurable results."
+          },
+          {
+              "id": 45,
+              "question": " How do you ensure the security and scalability of your solutions?",
+              "answer": "We prioritize security at every stage of development, implementing industry-best practices to protect your data and systems. Our solutions are designed to be scalable, allowing your business to grow without limitations, ensuring long-term success."
+          }
+      ],
+      "button": {
+          "id": 584,
+          "text": "Get In Touch",
+          "link": "/contact"
+      }
+  },
+  "meta": {}
+}

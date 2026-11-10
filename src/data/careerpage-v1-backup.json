@@ -1,0 +1,805 @@
+{
+  "job_roles": [
+    {
+      "role_id": "full-stack-and-genai-developer",
+      "role_title": "Full Stack & Gen AI Developer",
+      "role_level": "Junior",
+      "experience_range": "0-2 years",
+      "work_mode": "Hybrid / Remote",
+      "career_sections": [
+        {
+          "id": "opportunity",
+          "title": "Your Opportunity",
+          "heading": "Position Overview",
+          "description": "Join our innovative team as a Full Stack & Gen AI Developer. Build cutting-edge web applications and AI solutions that impact millions of users worldwide. We're looking for passionate developers ready to work across both traditional full-stack development and emerging AI technologies.",
+          "key_features": [
+            {
+              "title": "What You'll Do",
+              "description": "• Develop modern web applications using cutting-edge technologies\n• Build AI-powered features using LLMs and generative models\n• Work on both frontend and backend development\n• Integrate AI APIs (OpenAI, Anthropic, Gemini) into applications\n• Participate in code reviews and technical discussions\n• Collaborate with data scientists and product teams"
+            },
+            {
+              "title": "Why Join Us",
+              "description": "• Work at the forefront of web and AI innovation\n• Direct impact on product development\n• Access to latest technologies and AI models\n• Flexible work environment\n• Fast-growing practice with extensive learning opportunities\n• Supportive team culture focused on growth"
+            }
+          ]
+        },
+        {
+          "id": "requirements",
+          "title": "Who Can Apply",
+          "heading": "Required Qualifications",
+          "description": "We're looking for developers passionate about both web development and AI, ready to take their next career step.",
+          "key_features": [
+            {
+              "title": "Education & Experience",
+              "description": "• Bachelor's degree in Computer Science, Engineering, or related field\n• 0-2 years of development experience\n• Experience with web development and/or AI projects\n• Strong foundation in computer science fundamentals\n• Academic or personal projects involving AI/ML preferred"
+            },
+            {
+              "title": "Technical Skills",
+              "description": "• Strong JavaScript proficiency (React/Angular/Vue)\n• Python programming expertise\n• Experience with Node.js/Express\n• Familiarity with AI/ML frameworks (TensorFlow, PyTorch)\n• Understanding of LLMs and prompt engineering\n• Database knowledge (SQL/NoSQL)\n• Version control with Git\n• RESTful API development experience"
+            }
+          ]
+        },
+        {
+          "id": "learning",
+          "title": "What You Will Learn",
+          "heading": "Your Learning Journey",
+          "description": "Master both full-stack development and AI technologies while growing into a well-rounded tech professional.",
+          "key_features": [
+            {
+              "title": "Technical Mastery",
+              "description": "Full-stack development with modern frameworks (React, Node.js, Python)\n• AI/ML integration and LLM implementation techniques\n• Cloud deployment and scalable architecture design\n• Database design and API development\n• DevOps practices and CI/CD pipelines"
+            },
+            {
+              "title": "Professional Growth",
+              "description": "Building AI-enhanced web applications\n• Prompt engineering and model optimization\n• Code quality and testing best practices\n• Cross-functional team collaboration\n• Technical documentation and knowledge sharing"
+            }
+          ]
+        },
+        {
+          "id": "growth",
+          "title": "Growth & Learning",
+          "heading": "Your Career Path",
+          "description": "We invest in your growth with structured learning paths and mentorship opportunities in both web and AI development.",
+          "key_features": [
+            {
+              "title": "Learning Opportunities",
+              "description": "• One-on-one mentorship with senior developers\n• Access to AI research and development resources\n• Regular technical workshops and training\n• Conference and certification opportunities\n• Internal knowledge sharing sessions"
+            },
+            {
+              "title": "Career Development",
+              "description": "• Clear progression path to senior roles\n• Leadership development opportunities\n• Regular performance feedback\n• Project management exposure\n• Cross-functional team experience"
+            }
+          ]
+        },
+        {
+          "id": "benefits",
+          "title": "Benefits & Perks",
+          "heading": "What We Offer",
+          "description": "Competitive compensation package designed to reward your contributions and support your growth.",
+          "key_features": [
+            {
+              "title": "Compensation & Benefits",
+              "description": "• Competitive base salary\n• Performance bonuses\n• Health insurance coverage\n• Paid time off and holidays\n• Flexible work arrangements"
+            },
+            {
+              "title": "Additional Perks",
+              "description": "• Remote work options\n• Latest development equipment\n• AI tools and platform subscriptions\n• Professional development budget\n• Wellness programs"
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "title": "Work Environment",
+          "heading": "Work Environment",
+          "description": "Join a culture that values innovation, collaboration, and continuous learning.",
+          "key_features": [
+            {
+              "title": "Development Culture",
+              "description": "• Focus on code quality and best practices\n• Regular knowledge sharing sessions\n• Innovation-driven approach\n• Open communication and feedback\n• Work-life balance emphasis"
+            },
+            {
+              "title": "Team Environment",
+              "description": "• Collaborative and supportive atmosphere\n• Diverse and inclusive workplace\n• Global team collaboration\n• Regular team activities\n• Recognition for contributions"
+            }
+          ]
+        }
+      ],
+      "application_form": {
+        "id": "application",
+        "title": "Apply for This Role",
+        "heading": "Get in Touch",
+        "description": "Complete the form below to apply for the Full Stack & Gen AI Developer position. Our team will review your application and reach out with next steps.",
+        "form_fields": [
+          {
+            "field": "name",
+            "type": "text",
+            "placeholder": "Your name *",
+            "required": true
+          },
+          {
+            "field": "email",
+            "type": "email",
+            "placeholder": "email@domain.com",
+            "required": true
+          },
+          {
+            "field": "phone",
+            "type": "tel",
+            "placeholder": "Phone",
+            "required": false
+          },
+          {
+            "field": "subject",
+            "type": "text",
+            "placeholder": "Subject",
+            "required": false
+          },
+          {
+            "field": "cover_letter",
+            "type": "textarea",
+            "placeholder": "Tell us about your experience with web development and AI",
+            "required": false
+          },
+          {
+            "field": "cv_upload",
+            "type": "file",
+            "label": "Upload CV*",
+            "accept": ".pdf,.doc,.docx",
+            "required": true
+          },
+          {
+            "field": "communications_consent",
+            "type": "checkbox",
+            "label": "I agree to receive other communications from the company",
+            "required": false
+          },
+          {
+            "field": "privacy_policy",
+            "type": "checkbox",
+            "label": "I've received the Privacy Policy, and I agree, accept and give my consent to the terms laid out*",
+            "required": true
+          },
+          {
+            "field": "recaptcha",
+            "type": "recaptcha",
+            "label": "I'm not a robot",
+            "required": true
+          }
+        ],
+        "submission": {
+          "button_label": "Send Message →",
+          "success_message": "Thank you for applying! Our team will contact you soon.",
+          "error_message": "Something went wrong. Please try again."
+        }
+      }
+    },
+    {
+      "role_id": "internship-program",
+      "role_title": "Virtual & In-Office Internship",
+      "role_level": "Internship",
+      "experience_range": "B.Tech Students & Fresh Graduates",
+      "work_mode": "Virtual or In-Office",
+      "career_sections": [
+        {
+          "id": "opportunity",
+          "title": "Program Overview",
+          "heading": "Your Opportunity",
+          "description": "Join our Virtual & In-Office Internship Program. Choose between remote learning for current B.Tech students (2nd-4th year) or an immersive in-office experience for fresh graduates. Gain practical experience and kickstart your career with us.",
+          "key_features": [
+            {
+              "title": "Program Options",
+              "description": "Virtual Track (For Current Students):\n• Flexible remote work compatible with studies\n• 2nd-4th year B.Tech students\n• Part-time commitment\n• Learn while you study\n\nIn-Office Track (For Fresh Graduates):\n• Full-time immersive experience\n• Recently completed B.Tech\n• Direct mentorship\n• Professional office environment"
+            },
+            {
+              "title": "Why Join Us",
+              "description": "• Structured learning path for both tracks\n• Real project experience\n• Industry-standard tools and practices\n• Potential for full-time conversion\n• Certificate upon completion\n• Supportive learning environment"
+            }
+          ]
+        },
+        {
+          "id": "requirements",
+          "title": "Eligibility",
+          "heading": "Who Can Apply",
+          "description": "We welcome applications from both current students and fresh graduates with a passion for software development.",
+          "key_features": [
+            {
+              "title": "Virtual Track Requirements",
+              "description": "• Currently pursuing B.Tech (2nd-4th year)\n• Any engineering discipline\n• Basic programming knowledge\n• Good internet connectivity\n• Self-motivated and disciplined\n• Ability to manage academic and internship responsibilities"
+            },
+            {
+              "title": "In-Office Track Requirements",
+              "description": "• Recently completed B.Tech\n• Strong academic foundation\n• Basic programming proficiency\n• Available for full-time commitment\n• Located in or willing to relocate to office location\n• Ready for professional work environment"
+            }
+          ]
+        },
+        {
+          "id": "responsibilities",
+          "title": "Learning Path",
+          "heading": "What You'll Learn",
+          "description": "Comprehensive training in software development fundamentals and practical skills.",
+          "key_features": [
+            {
+              "title": "Technical Skills",
+              "description": "• Programming fundamentals (Python/Java/JavaScript)\n• Web development basics\n• Database concepts\n• Version control with Git\n• Testing and debugging\n• Basic DevOps practices"
+            },
+            {
+              "title": "Project Work",
+              "description": "• Hands-on coding assignments\n• Mini-projects and challenges\n• Team collaboration exercises\n• Code review participation\n• Documentation practice\n• Final capstone project"
+            }
+          ]
+        },
+        {
+          "id": "learning",
+          "title": "What You Will Learn",
+          "heading": "Your Learning Journey",
+          "description": "Gain practical experience and build a strong foundation in software development through hands-on learning.",
+          "key_features": [
+            {
+              "title": "Technical Skills",
+              "description": "Programming fundamentals and best practices\n• Web development basics (HTML, CSS, JavaScript)\n• Version control with Git\n• Database fundamentals\n• Basic DevOps concepts"
+            },
+            {
+              "title": "Professional Development",
+              "description": "Project management and agile methodologies\n• Team collaboration and communication\n• Problem-solving techniques\n• Code review and documentation\n• Industry standard tools and practices"
+            }
+          ]
+        },
+        {
+          "id": "mentorship",
+          "title": "Support System",
+          "heading": "Your Growth",
+          "description": "Dedicated mentorship and support structure for both virtual and in-office interns.",
+          "key_features": [
+            {
+              "title": "Mentorship Program",
+              "description": "• Regular one-on-one sessions\n• Code review feedback\n• Technical guidance\n• Career advice\n• Progress tracking\n• Performance evaluation"
+            },
+            {
+              "title": "Learning Resources",
+              "description": "• Online learning platforms access\n• Technical documentation\n• Internal knowledge base\n• Workshop recordings\n• Practice exercises\n• Project templates"
+            }
+          ]
+        },
+        {
+          "id": "benefits",
+          "title": "Program Benefits",
+          "heading": "What We Offer",
+          "description": "Comprehensive benefits package tailored for both virtual and in-office interns.",
+          "key_features": [
+            {
+              "title": "Virtual Track Benefits",
+              "description": "• Flexible schedule\n• Remote learning tools\n• Virtual mentorship\n• Project portfolio\n• Performance certificate\n• Networking opportunities"
+            },
+            {
+              "title": "In-Office Benefits",
+              "description": "• Monthly stipend\n• Office facilities\n• Direct mentorship\n• Team activities\n• Meal allowance\n• Transport support"
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "title": "Work Environment",
+          "heading": "Work Environment",
+          "description": "Join a culture that values innovation, collaboration, and continuous learning.",
+          "key_features": [
+            {
+              "title": "Development Culture",
+              "description": "• Focus on code quality and best practices\n• Regular knowledge sharing sessions\n• Innovation-driven approach\n• Open communication and feedback\n• Work-life balance emphasis"
+            },
+            {
+              "title": "Team Environment",
+              "description": "• Collaborative and supportive atmosphere\n• Diverse and inclusive workplace\n• Global team collaboration\n• Regular team activities\n• Recognition for contributions"
+            }
+          ]
+        }
+      ],
+      "application_form": {
+        "id": "application",
+        "title": "Apply for Virtual & In-Office Internship",
+        "heading": "Get Started",
+        "description": "Select your preferred track (Virtual or In-Office) and tell us about yourself.",
+        "form_fields": [
+          {
+            "field": "name",
+            "type": "text",
+            "placeholder": "Your name *",
+            "required": true
+          },
+          {
+            "field": "email",
+            "type": "email",
+            "placeholder": "email@domain.com",
+            "required": true
+          },
+          {
+            "field": "phone",
+            "type": "tel",
+            "placeholder": "Phone *",
+            "required": true
+          },
+          {
+            "field": "internship_type",
+            "type": "select",
+            "placeholder": "Select Internship Track *",
+            "options": ["Virtual Track", "In-Office Track"],
+            "required": true
+          },
+          {
+            "field": "college",
+            "type": "text",
+            "placeholder": "College/University Name *",
+            "required": true
+          },
+          {
+            "field": "education_status",
+            "type": "select",
+            "placeholder": "Current Status *",
+            "options": ["2nd Year Student", "3rd Year Student", "4th Year Student", "Fresh Graduate"],
+            "required": true
+          },
+          {
+            "field": "cover_letter",
+            "type": "textarea",
+            "placeholder": "Tell us about yourself and why you're interested in this internship",
+            "required": false
+          },
+          {
+            "field": "cv_upload",
+            "type": "file",
+            "label": "Upload CV/Resume*",
+            "accept": ".pdf,.doc,.docx",
+            "required": true
+          },
+          {
+            "field": "communications_consent",
+            "type": "checkbox",
+            "label": "I agree to receive other communications from the company",
+            "required": false
+          },
+          {
+            "field": "privacy_policy",
+            "type": "checkbox",
+            "label": "I've received the Privacy Policy, and I agree, accept and give my consent to the terms laid out*",
+            "required": true
+          },
+          {
+            "field": "recaptcha",
+            "type": "recaptcha",
+            "label": "I'm not a robot",
+            "required": true
+          }
+        ],
+        "submission": {
+          "button_label": "Send Message →",
+          "success_message": "Thank you for applying! We'll review your application and contact you soon.",
+          "error_message": "Something went wrong. Please try again."
+        }
+      }
+    },
+    {
+      "role_id": "digital-marketing-business-analyst-growth-insights-specialist",
+      "role_title": "Digital Marketing + Business Analyst – Growth & Insights Specialist",
+      "role_level": "Junior / Mid-Level",
+      "experience_range": "0-3 years",
+      "work_mode": "Hybrid / Remote",
+      "career_sections": [
+        {
+          "id": "opportunity",
+          "title": "Your Opportunity",
+          "heading": "Role Overview",
+          "description": "Step into a rare hybrid role that blends creativity, analytical depth, and real business impact. As a Digital Marketing + Business Analyst – Growth & Insights Specialist, you will shape how we understand our users, craft campaigns, decode data, and drive measurable growth. This role is perfect for someone who enjoys switching seamlessly between creative storytelling and problem-solving with data. In our fast-paced startup environment, your ideas don't sit in a backlog—they turn into experiments, insights, and real business decisions within days.",
+          "key_features": [
+            {
+              "title": "What You'll Do",
+              "description": "• Run end-to-end digital marketing campaigns across channels\n• Analyze campaign performance and extract meaningful insights\n• Conduct market, competitor, and customer research\n• Translate business questions into structured analysis and reports\n• Build dashboards, funnels, and performance trackers\n• Present insights to founders and cross-functional teams"
+            },
+            {
+              "title": "Why This Role Is Exciting",
+              "description": "• Unique hybrid exposure to both marketing and analytics\n• High ownership and direct visibility with leadership\n• Opportunity to influence product, growth, and marketing strategies\n• Fast execution cycles—your decisions show impact immediately\n• Work on real-world user problems, market behaviours, and startup growth challenges\n• Ideal path to evolve into Growth Manager, Business Analyst, or Digital Strategist"
+            }
+          ]
+        },
+        {
+          "id": "requirements",
+          "title": "Who Can Apply",
+          "heading": "Required Skills",
+          "description": "We’re looking for someone who is naturally curious, analytical, and excited to understand users, markets, and digital growth.",
+          "key_features": [
+            {
+              "title": "Core Skills",
+              "description": "• Strong understanding of digital marketing fundamentals\n• Ability to interpret numbers, metrics, and patterns\n• Curiosity-driven problem solving\n• Understanding of funnels, user behaviour, and conversion journeys\n• Strong communication and storytelling ability\n• Basic familiarity with analytics tools (GA4, Data Studio, Sheets/Excel)\n• Ability to manage multiple tasks in a fast-paced environment"
+            },
+            {
+              "title": "Tool Knowledge",
+              "description": "• Google Sheets/Excel (pivot tables, formulas)\n• Social media platforms and ad managers\n• Analytics dashboards and reporting tools\n• Bonus: familiarity with CRM tools, automation tools, or BI tools"
+            }
+          ]
+        },
+        {
+          "id": "responsibilities",
+          "title": "Your Responsibilities",
+          "heading": "What You’ll Work On",
+          "description": "Your day-to-day work will span across marketing execution, research, analysis, strategy, and cross-team collaboration.",
+          "key_features": [
+            {
+              "title": "Marketing Execution & Campaign Ownership",
+              "description": "• Plan and execute digital campaigns across social and paid channels\n• Create briefs, content ideas, and messaging structures\n• Run A/B tests and experiment with new marketing angles\n• Track campaign KPIs and optimize performance in real time\n• Build user journeys and funnel flows for campaigns"
+            },
+            {
+              "title": "Business Research & Problem Solving",
+              "description": "• Conduct market and competitor research\n• Identify industry trends and customer insights\n• Convert open-ended business challenges into structured hypotheses\n• Build reports that support business or product decisions\n• Analyze user feedback, reviews, and behavioural patterns"
+            },
+            {
+              "title": "Analytics & Insights",
+              "description": "• Build dashboards and weekly performance reports\n• Track funnel metrics and identify drop-off points\n• Analyse qualitative and quantitative user data\n• Recommend optimizations for growth and retention\n• Support data-driven decision-making across teams"
+            },
+            {
+              "title": "Customer Psychology & Behaviour Analysis",
+              "description": "• Understand user motivations and digital behaviour\n• Study patterns behind clicks, conversions, and retention\n• Apply behavioural science frameworks\n• Translate insights into marketing angles and product suggestions\n• Work with content teams to refine messaging for user segments"
+            },
+            {
+              "title": "Cross-Team Collaboration",
+              "description": "• Work closely with product, growth, content, and design teams\n• Support founders with research and insights for strategic decisions\n• Collaborate to shape product features based on data insights\n• Present findings in clear, actionable formats\n• Contribute to company-wide knowledge building"
+            }
+          ]
+        },
+        {
+          "id": "learning",
+          "title": "What You Will Learn",
+          "heading": "Your Learning Journey",
+          "description": "This role is designed for high learning velocity. You’ll learn how marketing, analytics, product, and business strategy interact in real time inside a fast-growing startup.",
+          "key_features": [
+            {
+              "title": "Marketing & Growth Mastery",
+              "description": "• Digital marketing tools and platforms (Meta, Google, LinkedIn, SEO)\n• Funnel building and optimization frameworks\n• Copywriting, messaging, and content strategy\n• Performance marketing and ROI tracking\n• Growth loops, retention systems, and acquisition strategies"
+            },
+            {
+              "title": "Analytics & Decision-Making",
+              "description": "• Market and competitor analysis techniques\n• Data exploration, trend analysis, and insight generation\n• Funnel analysis, attribution, and segmentation\n• A/B testing and experiment design\n• Business storytelling using dashboards and reports"
+            },
+            {
+              "title": "AI-Assisted Growth & Automation",
+              "description": "• Using AI tools for campaign research and content ideation\n• Using AI for analysis, insights, and reporting\n• Prompt frameworks for marketing and analytics\n• Automating repetitive marketing and reporting workflows"
+            },
+            {
+              "title": "Real Startup Experience",
+              "description": "• How to prioritize under ambiguity\n• How decisions are made at startup speed\n• Direct exposure to founders and leadership discussions\n• Building initiatives from 0 → 1"
+            }
+          ]
+        },
+        {
+          "id": "growth",
+          "title": "Growth & Development",
+          "heading": "Your Career Path",
+          "description": "This role is built for rapid career acceleration across marketing, analytics, and business strategy.",
+          "key_features": [
+            {
+              "title": "Skill Growth",
+              "description": "• Master real-world growth frameworks\n• Expand from execution to strategy\n• Learn to make data-driven recommendations\n• Build strong business thinking and problem-solving skills\n• Become confident in presenting insights to leadership"
+            },
+            {
+              "title": "Career Development",
+              "description": "• Growth Manager\n• Business Analyst / Strategy Analyst\n• Marketing Analyst\n• Product Analyst\n• Performance Marketing Specialist\n• Future team lead opportunities"
+            }
+          ]
+        },
+        {
+          "id": "benefits",
+          "title": "Benefits & Perks",
+          "heading": "What We Offer",
+          "description": "A growth-focused environment designed for ambitious, curious talent.",
+          "key_features": [
+            {
+              "title": "Perks",
+              "description": "• Flexible working culture (remote-friendly)\n• Learning budget for courses, tools, and resources\n• Mentorship from founders and senior leaders\n• High ownership of campaigns and research projects\n• Opportunity to lead initiatives early\n• Real impact on company growth"
+            },
+            {
+              "title": "Additional Benefits",
+              "description": "• Competitive salary\n• Performance bonuses\n• Fast-tracked promotions\n• Access to AI tools and premium analytics platforms\n• Supportive and collaborative culture"
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "title": "Work Environment",
+          "heading": "About Our Startup",
+          "description": "Join a high-energy startup where speed, impact, and learning define your everyday experience.",
+          "key_features": [
+            {
+              "title": "Startup Culture",
+              "description": "• Fast-paced, experiment-driven environment\n• Every idea gets a chance to be tested\n• Fail fast, learn fast, grow fast mindset\n• Transparent communication and open discussions\n• Direct exposure to founders"
+            },
+            {
+              "title": "Team Environment",
+              "description": "• Collaborative and supportive\n• High ownership across roles\n• Freedom to propose and lead projects\n• We value curiosity over experience\n• Strong focus on learning and personal growth"
+            }
+          ]
+        }
+      ],
+      "application_form": {
+        "id": "application",
+        "title": "Apply for This Role",
+        "heading": "Get in Touch",
+        "description": "Ready to grow your career at the intersection of marketing, analytics, and strategy? Fill out the form and our team will connect with you.",
+        "form_fields": [
+          {
+            "field": "name",
+            "type": "text",
+            "placeholder": "Your name *",
+            "required": true
+          },
+          {
+            "field": "email",
+            "type": "email",
+            "placeholder": "email@domain.com",
+            "required": true
+          },
+          {
+            "field": "phone",
+            "type": "tel",
+            "placeholder": "Phone",
+            "required": false
+          },
+          {
+            "field": "subject",
+            "type": "text",
+            "placeholder": "Subject",
+            "required": false
+          },
+          {
+            "field": "cover_letter",
+            "type": "textarea",
+            "placeholder": "Tell us about your experience with marketing, analytics, or growth",
+            "required": false
+          },
+          {
+            "field": "cv_upload",
+            "type": "file",
+            "label": "Upload CV*",
+            "accept": ".pdf,.doc,.docx",
+            "required": true
+          },
+          {
+            "field": "communications_consent",
+            "type": "checkbox",
+            "label": "I agree to receive other communications from the company",
+            "required": false
+          },
+          {
+            "field": "privacy_policy",
+            "type": "checkbox",
+            "label": "I've received the Privacy Policy, and I agree, accept and give my consent to the terms laid out*",
+            "required": true
+          },
+          {
+            "field": "recaptcha",
+            "type": "recaptcha",
+            "label": "I'm not a robot",
+            "required": true
+          }
+        ],
+        "submission": {
+          "button_label": "Send Message →",
+          "success_message": "Thank you for applying! Our team will contact you soon.",
+          "error_message": "Something went wrong. Please try again."
+        }
+      }
+    },
+    {
+      "role_id": "digital-marketing-business-analyst-growth-insights-intern",
+      "role_title": "Digital Marketing + Business Analyst – Growth & Insights Internship",
+      "role_level": "Internship",
+      "experience_range": "B.Tech Students & Fresh Graduates",
+      "work_mode": "In-Office",
+      "career_sections": [
+        {
+          "id": "opportunity",
+          "title": "Program Overview",
+          "heading": "Your Opportunity",
+          "description": "Join our in-office internship for students and fresh graduates who want hands-on experience in digital marketing, business analysis, and real startup growth. This hybrid-learning role gives you the rare chance to blend creativity with analytical thinking—executing campaigns, studying market behaviour, and generating insights that directly influence business decisions. In our fast-paced startup culture, your ideas will turn into experiments, reports, and strategies within days.",
+          "key_features": [
+            {
+              "title": "What You'll Do",
+              "description": "• Assist in running digital marketing campaigns across social and paid channels\n• Conduct basic market, competitor, and industry research\n• Support dashboard creation and weekly insights tracking\n• Collect, analyze, and organize data for reports\n• Participate in brainstorming sessions with product, design, and founders\n• Present findings in simple, actionable formats"
+            },
+            {
+              "title": "Why Join Us",
+              "description": "• A rare hybrid role combining marketing + analytics\n• Real exposure to decision-making inside a startup\n• High ownership on research, reports, and experiments\n• Fast-paced execution—your work shows real impact\n• Learn modern digital tools and growth frameworks\n• Direct mentorship from founders and senior team members"
+            }
+          ]
+        },
+        {
+          "id": "requirements",
+          "title": "Eligibility",
+          "heading": "Who Can Apply",
+          "description": "We welcome ambitious students and fresh graduates who are eager to learn and work hands-on in digital marketing, business analytics, and user behaviour.",
+          "key_features": [
+            {
+              "title": "Core Requirements",
+              "description": "• Currently pursuing or recently completed B.Tech/BBA/BCom/MBA\n• Strong interest in marketing, business strategy, or analytics\n• Curious mindset with strong analytical reasoning\n• Basic understanding of digital marketing concepts\n• Familiarity with Excel/Sheets for data handling\n• Good communication and presentation ability\n• Ability to work full-time in-office"
+            },
+            {
+              "title": "Good to Have",
+              "description": "• Certifications in digital marketing or analytics\n• Any portfolio showcasing research, content, or projects\n• Prior mini-projects or internships in marketing/analysis\n• Understanding of user behaviour or basic funnel concepts"
+            }
+          ]
+        },
+        {
+          "id": "responsibilities",
+          "title": "Learning Path",
+          "heading": "What You'll Learn",
+          "description": "Your internship is structured to help you learn digital marketing, business research, analytics, and growth thinking through real work.",
+          "key_features": [
+            {
+              "title": "Marketing Execution & Campaign Support",
+              "description": "• Support campaign setup and performance tracking\n• Learn how to run experiments and A/B tests\n• Discover how digital funnels and conversions work\n• Assist in content research, briefs, and messaging\n• Work with the team to optimize marketing flows"
+            },
+            {
+              "title": "Business Research & Problem Solving",
+              "description": "• Learn frameworks for competitor and industry analysis\n• Understand how to break down business problems\n• Assist founders with research for decision-making\n• Explore market trends, user segments, and behaviours\n• Develop structured research reports"
+            },
+            {
+              "title": "Analytics & Insights",
+              "description": "• Learn to build simple dashboards and trackers\n• Understand funnel analysis and performance metrics\n• Discover how to interpret data into insights\n• Track weekly KPIs and prepare summary reports\n• Use data to suggest improvements"
+            },
+            {
+              "title": "Customer Psychology & Behaviour Analysis",
+              "description": "• Study patterns behind clicks, conversions, and actions\n• Understand user motivations and friction points\n• Assist in creating user personas and insight maps\n• Learn behavioural and growth frameworks\n• Work with content teams to refine messaging"
+            },
+            {
+              "title": "Cross-Team Collaboration",
+              "description": "• Work with product, design, and marketing teams\n• Participate in sprint discussions and growth reviews\n• Share insights with founders and team leads\n• Learn how real startup teams collaborate\n• Support documentation and knowledge sharing"
+            }
+          ]
+        },
+        {
+          "id": "learning",
+          "title": "What You Will Learn",
+          "heading": "Your Learning Journey",
+          "description": "This internship is designed to build a strong foundation in digital marketing, analytics, and startup growth through hands-on execution.",
+          "key_features": [
+            {
+              "title": "Marketing & Growth Skills",
+              "description": "• Digital marketing tools and workflows\n• Funnel building and optimization basics\n• Content strategy and campaign execution\n• Social platform performance metrics\n• Fundamentals of growth marketing"
+            },
+            {
+              "title": "Analytics & Data Skills",
+              "description": "• Basics of market and competitor research\n• Data interpretation and insight generation\n• Basic dashboards and KPI reporting\n• Experimentation and A/B testing fundamentals\n• How startups use data for decisions"
+            },
+            {
+              "title": "AI-Assisted Marketing & Analysis",
+              "description": "• Using AI tools for research and content ideation\n• AI-assisted data analysis and summarization\n• Prompting frameworks for marketing and analytics\n• Automating repetitive reporting tasks"
+            },
+            {
+              "title": "Startup Experience",
+              "description": "• Working in a high-speed, high-learning environment\n• Exposure to founder-level discussions\n• Learning how ideas turn into experiments\n• Understanding product, users, and market fit\n• Owning tasks end-to-end with guidance"
+            }
+          ]
+        },
+        {
+          "id": "mentorship",
+          "title": "Support System",
+          "heading": "Your Growth",
+          "description": "You’ll receive continuous support, guidance, and feedback throughout the internship.",
+          "key_features": [
+            {
+              "title": "Mentorship Program",
+              "description": "• Weekly one-on-one mentorship sessions\n• Structured feedback cycles\n• Guidance from growth, marketing, and analytics mentors\n• Clear learning path and milestone tracking\n• Exposure to leadership discussions"
+            },
+            {
+              "title": "Learning Resources",
+              "description": "• Access to internal research documentation\n• Templates for analysis, dashboards, and reports\n• Workshops on marketing and analytics skills\n• Access to premium tools (marketing + insights)\n• Curated startup learning content"
+            }
+          ]
+        },
+        {
+          "id": "benefits",
+          "title": "Program Benefits",
+          "heading": "What We Offer",
+          "description": "A hands-on, high-impact internship experience designed to accelerate your career.",
+          "key_features": [
+            {
+              "title": "In-Office Benefits",
+              "description": "• Monthly stipend\n• Daily learning from an experienced team\n• Participation in growth meetings\n• Real project ownership from Week 1\n• Team activities and collaboration opportunities"
+            },
+            {
+              "title": "Career Opportunities",
+              "description": "• Certificate upon completion\n• Chance for full-time conversion\n• Strong portfolio of research, insights, and campaigns\n• Fast-track career path in marketing, analytics, or growth"
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "title": "Work Environment",
+          "heading": "Work Environment",
+          "description": "Intern in a culture that blends innovation, experimentation, and rapid learning.",
+          "key_features": [
+            {
+              "title": "Startup Culture",
+              "description": "• Rapid execution cycles\n• Every idea gets tested\n• Fail fast → learn fast mindset\n• Ownership-driven workflows\n• Collaborative and open communication"
+            },
+            {
+              "title": "Team Environment",
+              "description": "• Friendly and supportive team\n• Direct access to founders\n• High learning, low bureaucracy\n• Culture of curiosity and experimentation\n• Recognition for initiative and effort"
+            }
+          ]
+        }
+      ],
+      "application_form": {
+        "id": "application",
+        "title": "Apply for This Internship",
+        "heading": "Get Started",
+        "description": "Tell us why you're excited about digital marketing, analytics, and growth. Fill out the form and begin your learning journey.",
+        "form_fields": [
+          {
+            "field": "name",
+            "type": "text",
+            "placeholder": "Your name *",
+            "required": true
+          },
+          {
+            "field": "email",
+            "type": "email",
+            "placeholder": "email@domain.com",
+            "required": true
+          },
+          {
+            "field": "phone",
+            "type": "tel",
+            "placeholder": "Phone *",
+            "required": true
+          },
+          {
+            "field": "college",
+            "type": "text",
+            "placeholder": "College/University Name *",
+            "required": true
+          },
+          {
+            "field": "education_status",
+            "type": "select",
+            "placeholder": "Current Status *",
+            "options": ["2nd Year Student", "3rd Year Student", "4th Year Student", "Fresh Graduate"],
+            "required": true
+          },
+          {
+            "field": "cover_letter",
+            "type": "textarea",
+            "placeholder": "Tell us why you’re interested in this internship and what you want to learn",
+            "required": false
+          },
+          {
+            "field": "cv_upload",
+            "type": "file",
+            "label": "Upload CV/Resume*",
+            "accept": ".pdf,.doc,.docx",
+            "required": true
+          },
+          {
+            "field": "communications_consent",
+            "type": "checkbox",
+            "label": "I agree to receive other communications from the company",
+            "required": false
+          },
+          {
+            "field": "privacy_policy",
+            "type": "checkbox",
+            "label": "I've received the Privacy Policy, and I agree, accept and give my consent to the terms laid out*",
+            "required": true
+          },
+          {
+            "field": "recaptcha",
+            "type": "recaptcha",
+            "label": "I'm not a robot",
+            "required": true
+          }
+        ],
+        "submission": {
+          "button_label": "Send Message →",
+          "success_message": "Thank you for applying! We'll review your application and contact you soon.",
+          "error_message": "Something went wrong. Please try again."
+        }
+      }
+    }    
+  ]
+}

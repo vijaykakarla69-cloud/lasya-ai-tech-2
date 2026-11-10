@@ -1,0 +1,94 @@
+.privacyContainer {
+  padding: 120px 0 80px;
+  background: #f8f9fa;
+  min-height: 100vh;
+}
+
+.privacyContent {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 24px;
+  color: #2d2d2d;
+}
+
+.privacyContent h1 {
+  font-size: 42px;
+  margin-bottom: 16px;
+  color: #2d2d2d;
+  font-weight: 600;
+}
+
+.effectiveDate {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 32px;
+}
+
+.introduction {
+  font-size: 18px;
+  line-height: 1.7;
+  margin-bottom: 40px;
+  color: #444;
+}
+
+.privacyContent section {
+  margin-bottom: 40px;
+}
+
+.privacyContent h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #2d2d2d;
+  font-weight: 500;
+}
+
+.privacyContent p {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+.contactInfo {
+  margin-top: 60px;
+  padding-top: 40px;
+  border-top: 1px solid #eee;
+}
+
+@media (max-width: 768px) {
+  .privacyContainer {
+    padding: 100px 0 60px;
+  }
+
+  .privacyContent h1 {
+    font-size: 28px;
+  }
+
+  .privacyContent h2 {
+    font-size: 24px;
+  }
+
+  .introduction {
+    font-size: 16px;
+  }
+}
+
+.bannerHero {
+  padding-top: 80px;
+  margin-top: 50px;
+  scroll-margin-top: 120px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contentSection {
+  margin-top: 10px;
+  padding-bottom: 50px;
+  scroll-margin-top: 120px;
+}
+
+.section {
+  scroll-margin-top: 120px;
+} 

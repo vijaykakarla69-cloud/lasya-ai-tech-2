@@ -1,0 +1,167 @@
+.privacyContainer {
+  padding: 120px 0 80px;
+  background: #f8f9fa;
+  min-height: 100vh;
+}
+
+.privacyContent {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 24px;
+  color: #2d2d2d;
+}
+
+.privacyContent h1 {
+  font-size: 42px;
+  margin-bottom: 16px;
+  color: #2d2d2d;
+  font-weight: 600;
+}
+
+.effectiveDate {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 32px;
+}
+
+.introduction {
+  font-size: 18px;
+  line-height: 1.7;
+  margin-bottom: 40px;
+  color: #444;
+}
+
+.privacyContent section {
+  margin-bottom: 40px;
+}
+
+.privacyContent h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #2d2d2d;
+  font-weight: 500;
+}
+
+.privacyContent h3 {
+  font-size: 20px;
+  margin-top: 24px;
+  margin-bottom: 12px;
+  color: #2d2d2d;
+  font-weight: 500;
+}
+
+.privacyContent p {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+.privacyContent ul {
+  margin-bottom: 20px;
+  padding-left: 24px;
+  color: #444;
+}
+
+.privacyContent li {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 8px;
+}
+
+.tableWrap {
+  overflow-x: auto;
+  margin-bottom: 24px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.privacyContent table {
+  width: 100%;
+  min-width: 280px;
+  border-collapse: collapse;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: #444;
+}
+
+.privacyContent th,
+.privacyContent td {
+  border: 1px solid #e5e5e5;
+  padding: 12px 16px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.privacyContent th {
+  background: #f0f2f4;
+  font-weight: 600;
+  color: #2d2d2d;
+  width: 32%;
+}
+
+.contactInfo {
+  margin-top: 60px;
+  padding-top: 40px;
+  border-top: 1px solid #eee;
+}
+
+.noteBox {
+  background: #f5f7f9;
+  border-left: 4px solid #6c757d;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+  font-size: 15px;
+  line-height: 1.65;
+  color: #444;
+}
+
+.bannerHero {
+  padding-top: 80px;
+  margin-top: 50px;
+  scroll-margin-top: 120px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contentSection {
+  margin-top: 10px;
+  padding-bottom: 50px;
+  scroll-margin-top: 120px;
+}
+
+.main {
+  min-height: 100vh;
+}
+
+.section {
+  scroll-margin-top: 120px;
+}
+
+@media (max-width: 768px) {
+  .privacyContainer {
+    padding: 100px 0 60px;
+  }
+
+  .privacyContent h1 {
+    font-size: 28px;
+  }
+
+  .privacyContent h2 {
+    font-size: 24px;
+  }
+
+  .privacyContent h3 {
+    font-size: 18px;
+  }
+
+  .introduction {
+    font-size: 16px;
+  }
+
+  .tableWrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}

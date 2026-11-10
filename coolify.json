@@ -1,0 +1,15 @@
+{
+  "name": "lasyaaitech-nextjs",
+  "description": "Next.js Application for Lasya Aitech",
+  "dockerfile": "Dockerfile",
+  "port": 8083,
+  "environment": {
+    "NODE_ENV": "production"
+  },
+  "healthcheck": {
+    "path": "/",
+    "interval": 30,
+    "timeout": 10,
+    "retries": 3
+  }
+}

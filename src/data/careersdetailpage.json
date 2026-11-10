@@ -1,0 +1,652 @@
+{
+    "data": [
+      {
+        "id": 36,
+        "documentId": "fd83219xkq74nwg51cl0zqaa",
+        "Details": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              { "text": "POSITION OVERVIEW", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "We are seeking a motivated Full Stack Developer with 0–2 years of hands-on experience in modern web development. You will work closely with cross-functional teams to build scalable, high-performance applications that deliver a seamless digital experience to users.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This role is ideal for a self-driven developer who thrives on both frontend and backend problem-solving, enjoys learning new technologies, and is passionate about delivering clean, maintainable code.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "YOUR BACKGROUND", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Bachelor's degree in Computer Science, Software Engineering, or a related discipline.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "0–2 years of experience in web or software development.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Proficiency with backend technologies like Node.js, Express, and REST APIs.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Hands-on experience in frontend frameworks such as Angular, React, or Vue.js.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Knowledge of databases — both SQL (PostgreSQL/MySQL) and NoSQL (MongoDB).", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Familiarity with version control systems (Git) and modern CI/CD pipelines.", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "RESPONSIBILITIES", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Design, develop, and test web applications across the stack.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Collaborate with design teams to turn UI/UX wireframes into responsive applications.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Integrate APIs, manage database operations, and optimize application performance.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Identify bugs and implement solutions using agile principles and version control.", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "WE OFFER", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "25 annual leave days", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Competitive, performance-based compensation", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Exposure to full software lifecycle and professional growth mentorship", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Remote and flexible work environment", "type": "text" }
+            ]
+          }
+        ],
+        "createdAt": "2025-03-20T09:40:00.000Z",
+        "updatedAt": "2025-03-21T10:30:00.000Z",
+        "publishedAt": "2025-03-21T10:45:00.000Z",
+        "slug": "full-stack-developer",
+        "lapl_job_listings": [
+          {
+            "id": 11,
+            "documentId": "flst3157v17jfpli0vq7njgh",
+            "title": "Full Stack Developer",
+            "level": "Junior",
+            "createdAt": "2025-03-20T09:20:00.000Z",
+            "updatedAt": "2025-03-21T10:35:00.000Z",
+            "publishedAt": "2025-03-21T10:45:00.000Z",
+            "job_type": "Full Time"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "documentId": "genai725xkz91pqm44bt29ml",
+        "Details": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              { "text": "POSITION OVERVIEW", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "We're hiring a Gen AI Developer (0–2 years experience) eager to craft intelligent applications powered by cutting-edge generative technologies. You will design AI-driven tools and experiences that bridge creativity and computation, working closely with data scientists, engineers, and product designers.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You'll get hands-on experience developing large language model integrations, custom AI pipelines, and adaptive interfaces that empower users through intelligent automation and content generation.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "KEY RESPONSIBILITIES", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Build LLM-powered features, integrating APIs like OpenAI, Gemini, or Anthropic Claude into scalable web or app solutions.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Collaborate on fine-tuning, prompt design, and deployment of conversational or generative AI models.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Work with cloud and local processing pipelines to manage data securely for AI tasks.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Prototype and optimize user-facing AI interactions (chatbots, voice, and multimodal interfaces).", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "SKILLS AND QUALIFICATIONS", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Bachelor's in Computer Science, Artificial Intelligence, or related technical field.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "0–2 years experience in AI/ML model integration or backend development.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Proficiency in Python, JavaScript/TypeScript, and REST or GraphQL API development.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Understanding of Hugging Face, LangChain, or other GenAI frameworks.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Ability to experiment, visualize results, and iterate rapidly in a research-driven setting.", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "WE OFFER", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Mentorship from senior AI engineers and applied researchers.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Remote-first working environment and collaborative innovation culture.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Exposure to advanced AI infrastructure, tools, and frameworks.", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Competitive pay and growth opportunities in R&D tracks.", "type": "text" }
+            ]
+          }
+        ],
+        "createdAt": "2025-03-20T09:45:00.000Z",
+        "updatedAt": "2025-03-21T10:40:00.000Z",
+        "publishedAt": "2025-03-21T11:00:00.000Z",
+        "slug": "gen-ai-developer",
+        "lapl_job_listings": [
+          {
+            "id": 12,
+            "documentId": "gai3159v17jtpli1qr7njft",
+            "title": "Gen AI Developer",
+            "level": "Junior",
+            "createdAt": "2025-03-20T09:35:00.000Z",
+            "updatedAt": "2025-03-21T10:50:00.000Z",
+            "publishedAt": "2025-03-21T11:00:00.000Z",
+            "job_type": "Full Time"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "documentId": "virtual-intern-001",
+        "Details": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              { "text": "POSITION OVERVIEW", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Join our Virtual Internship Program designed specifically for B.Tech students who are currently pursuing their degree. This remote opportunity allows you to gain hands-on experience in software development while continuing your studies. Work with cutting-edge technologies and learn from experienced mentors in a flexible, virtual environment.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This program is perfect for ambitious students who want to apply their academic knowledge to real-world projects and build a strong foundation for their tech career.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "ELIGIBILITY", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Currently pursuing B.Tech degree in Computer Science, IT, or related field", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Strong academic performance with minimum CGPA of 7.5", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Basic programming knowledge in any modern programming language", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Enthusiasm for learning and problem-solving", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "LEARNING OPPORTUNITIES", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Hands-on experience with modern development tools and practices", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Exposure to full software development lifecycle", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Mentorship from experienced developers", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Work on real projects that impact actual users", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "PROGRAM STRUCTURE", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Duration: 3-6 months (flexible with academic schedule)", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Weekly virtual team meetings and mentorship sessions", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Regular code reviews and feedback sessions", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Project-based learning with increasing complexity", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "WE OFFER", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Monthly stipend based on performance", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Flexible working hours compatible with your studies", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Certificate of completion", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Possibility of pre-placement offer based on performance", "type": "text" }
+            ]
+          }
+        ],
+        "createdAt": "2025-03-21T12:00:00.000Z",
+        "updatedAt": "2025-03-21T12:00:00.000Z",
+        "publishedAt": "2025-03-21T12:00:00.000Z",
+        "slug": "virtual-internship",
+        "lapl_job_listings": [
+          {
+            "id": 13,
+            "documentId": "virtual-intern-listing-001",
+            "title": "Virtual Internship Program",
+            "level": "Intern",
+            "createdAt": "2025-03-21T12:00:00.000Z",
+            "updatedAt": "2025-03-21T12:00:00.000Z",
+            "publishedAt": "2025-03-21T12:00:00.000Z",
+            "job_type": "Internship"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "documentId": "office-intern-001",
+        "Details": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              { "text": "POSITION OVERVIEW", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Our In-Office Internship Program is designed for fresh B.Tech graduates who have completed their 4th year. This immersive program offers hands-on experience in a professional office environment, working directly with our development teams on real-world projects. You'll gain invaluable industry experience while building your professional network.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "This opportunity is perfect for recent graduates looking to kickstart their career in technology with practical experience in a dynamic, collaborative environment.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "ELIGIBILITY", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Recently completed B.Tech degree (within last 6 months)", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Strong academic record with minimum 70% aggregate", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Basic proficiency in programming and software development", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Excellent communication and teamwork skills", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "LEARNING OPPORTUNITIES", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Direct experience with enterprise-level development practices", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Collaboration with cross-functional teams", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Exposure to agile development methodologies", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Participation in code reviews and technical discussions", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "PROGRAM STRUCTURE", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Duration: 6 months full-time program", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Regular training sessions and workshops", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Structured mentorship program", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Progressive project responsibilities", "type": "text" }
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "children": [
+              { "text": "WE OFFER", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Competitive monthly stipend", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Modern office facilities and resources", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Networking opportunities with industry professionals", "type": "text" }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              { "text": "Potential for full-time employment upon successful completion", "type": "text" }
+            ]
+          }
+        ],
+        "createdAt": "2025-03-21T12:00:00.000Z",
+        "updatedAt": "2025-03-21T12:00:00.000Z",
+        "publishedAt": "2025-03-21T12:00:00.000Z",
+        "slug": "in-office-internship",
+        "lapl_job_listings": [
+          {
+            "id": 14,
+            "documentId": "office-intern-listing-001",
+            "title": "In-Office Internship Program",
+            "level": "Intern",
+            "createdAt": "2025-03-21T12:00:00.000Z",
+            "updatedAt": "2025-03-21T12:00:00.000Z",
+            "publishedAt": "2025-03-21T12:00:00.000Z",
+            "job_type": "Internship"
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 25,
+        "pageCount": 1,
+        "total": 4
+      }
+    }
+  }

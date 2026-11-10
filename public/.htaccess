@@ -1,0 +1,26 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # 1. Serve existing files directly
+  RewriteCond %{REQUEST_FILENAME} -f
+  RewriteRule ^ - [L]
+
+  # 2. Serve existing directories directly
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # 3. If request matches a directory with index.html, serve it
+  RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}/index.html -f
+  RewriteRule ^(.+)$ $1/index.html [L]
+
+  # 4. If request matches a .html file, serve it
+  RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f
+  RewriteRule ^(.+)$ $1.html [L]
+
+  # 5. Fallback (optional) – send everything else to index.html
+  RewriteRule ^ index.html [L]
+</IfModule>
+
+# Prevent directory listing (security)
+Options -Indexes

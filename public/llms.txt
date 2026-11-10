@@ -1,0 +1,103 @@
+# LasyaAitech
+
+LasyaAitech is a software and AI engineering company based in Hyderabad, India.
+We build AI agents and MCP servers, generative AI and LLM applications, chatbots,
+machine learning systems, mobile apps, web platforms and APIs — either as a
+delivery partner or as a dedicated team embedded with yours.
+
+## Get a quote
+
+One quotation process covers every service below. Share a brief, a budget range
+and a timeline and we reply within one business day with scope, team shape and
+milestones.
+
+- Software, app and AI development quote: https://lasyaaitech.com/get-a-free-quote
+- AI development quote and pricing: https://lasyaaitech.com/ai-free-quote
+
+## Core pages
+
+- Home: https://lasyaaitech.com/
+- Services: https://lasyaaitech.com/services
+- Technologies: https://lasyaaitech.com/technologies
+- Industries: https://lasyaaitech.com/industries
+- Case studies: https://lasyaaitech.com/casestudies
+- About: https://lasyaaitech.com/about
+- Contact: https://lasyaaitech.com/contact
+- Careers: https://lasyaaitech.com/careers
+
+## Services
+
+- Hire AI developers and ML engineers: https://lasyaaitech.com/services/hire-ai-developers
+- Generative AI solutions: https://lasyaaitech.com/services/generative-ai-solutions
+- AI chatbot development: https://lasyaaitech.com/services/ai-powered-chatbots
+- Predictive analytics with AI: https://lasyaaitech.com/services/predictive-analysis
+- MVP development: https://lasyaaitech.com/services/mvp-development
+- CTO as a service: https://lasyaaitech.com/services/cto-as-a-service
+- Offshore development for startups: https://lasyaaitech.com/services/offshore-software-development-for-startups
+- Frontend development: https://lasyaaitech.com/services/frontend-development-services
+- Backend development: https://lasyaaitech.com/services/backend-development-services
+- UI/UX design: https://lasyaaitech.com/services/ui-ux-design-services
+- Hire React Native developers: https://lasyaaitech.com/services/hire-react-native-developer
+- Hire ReactJS developers: https://lasyaaitech.com/services/hire-reactjs-developers
+- Hire JavaScript developers: https://lasyaaitech.com/services/hire-javascript-developers
+- Hire TypeScript developers: https://lasyaaitech.com/services/hire-typescript-developers
+- Hire Node.js developers: https://lasyaaitech.com/services/hire-nodejs-developers
+
+## Technologies
+
+- AI and machine learning: https://lasyaaitech.com/technologies/ai-machine-learning
+- Generative AI: https://lasyaaitech.com/technologies/generative-ai-solutions
+- AI model development: https://lasyaaitech.com/technologies/ai-model-development
+- Conversational AI systems: https://lasyaaitech.com/technologies/conversational-ai-systems
+- Machine learning solutions: https://lasyaaitech.com/technologies/machine-learning-solutions
+- Computer vision: https://lasyaaitech.com/technologies/computer-vision-services
+- Natural language processing: https://lasyaaitech.com/technologies/natural-language-processing-nlp-
+- AI and data analytics: https://lasyaaitech.com/technologies/ai-data-analytics
+- AI for logistics and forecasting: https://lasyaaitech.com/technologies/ai-logistics-forecasting
+- Mobile app development: https://lasyaaitech.com/technologies/mobile-app-development
+- iOS development: https://lasyaaitech.com/technologies/ios-development
+- Android app development: https://lasyaaitech.com/technologies/android-app-development
+- Flutter app development: https://lasyaaitech.com/technologies/flutter-app-development
+- Web development: https://lasyaaitech.com/technologies/web-development
+- Node.js development: https://lasyaaitech.com/technologies/node-js-development-services
+- Python development: https://lasyaaitech.com/technologies/python-development-services
+- PHP development: https://lasyaaitech.com/technologies/php-development-services
+- .NET development: https://lasyaaitech.com/technologies/-net-development-services
+
+## Industries
+
+- Fintech: https://lasyaaitech.com/industries/fintech
+- Health and fitness: https://lasyaaitech.com/industries/health-fitness
+- E-commerce: https://lasyaaitech.com/industries/e-commerce-development
+- Travel and hospitality: https://lasyaaitech.com/industries/travel-hospitality
+- Media and entertainment: https://lasyaaitech.com/industries/media
+- LegalTech: https://lasyaaitech.com/industries/legaltech
+- Insurance: https://lasyaaitech.com/industries/insurance-innovation
+- Supply chain intelligence: https://lasyaaitech.com/industries/supply-chain-intelligence
+- Public sector: https://lasyaaitech.com/industries/public-sector-transformation
+- Cybersecurity: https://lasyaaitech.com/industries/cyber-security-solutions
+- Startups: https://lasyaaitech.com/industries/startups
+
+## Mobile products
+
+Apps published by LasyaAitech. Each has its own privacy policy, terms, support
+and contact pages under its path.
+
+- VoxNote — text to speech: https://lasyaaitech.com/voxnote/support
+- Snipora — text snippets and keyboard: https://lasyaaitech.com/snipora/privacy-policy
+- Clara — perimenopause brain and mood coaching: https://lasyaaitech.com/clara/support
+- Gluco — pre-diabetes wellness and education: https://lasyaaitech.com/gluco/support
+- Haven — wellbeing for family caregivers: https://lasyaaitech.com/haven/support
+- Luminary — grief companion: https://lasyaaitech.com/luminary/support
+- Niyma — habits, plans and journaling: https://lasyaaitech.com/niyma/contact-us
+- Nouri — intuitive eating coaching: https://lasyaaitech.com/nouri/support
+- Peakly — ADHD medication timing: https://lasyaaitech.com/peakly/support
+- RecoveryCoach — post-surgery recovery: https://lasyaaitech.com/recovery-coach/support
+- Reframe — chronic back pain PRT programme: https://lasyaaitech.com/reframe/support
+- Vela — social anxiety exposure challenges: https://lasyaaitech.com/vela/support
+- Vestigo — vestibular disorder companion: https://lasyaaitech.com/vestigo/support
+
+## Legal
+
+- Privacy policy: https://lasyaaitech.com/privacy-policy
+- Cookie policy: https://lasyaaitech.com/cookie-policy

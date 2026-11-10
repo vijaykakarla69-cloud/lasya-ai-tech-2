@@ -1,0 +1,184 @@
+{
+    "data": {
+      "id": 5,
+      "documentId": "zjgizpjewhplp6eic5dcyw1m",
+      "createdAt": "2025-03-11T12:23:13.237Z",
+      "updatedAt": "2025-03-15T02:24:21.056Z",
+      "publishedAt": "2025-03-15T02:24:21.087Z",
+      "hero_section": {
+        "id": 5,
+        "button_text": "careers",
+        "title": "Job opportunities",
+        "description": "We are a team of experienced specialists, and all those who have a desire to join us must be proficient at higher levels of necessary skills. Thus, our goal is to find those who will enrich our team with their experience, knowledge, and desire to achieve more success. If you strive to overcome challenges, you must be with us!"
+      },
+      "lapl_job_categories": [
+        {
+          "id": 107,
+          "documentId": "internship-cat-001",
+          "name": "Internships",
+          "slug": "internships",
+          "job_count": 2,
+          "createdAt": "2025-03-21T12:00:00.000Z",
+          "updatedAt": "2025-03-21T12:00:00.000Z",
+          "publishedAt": "2025-03-21T12:00:00.000Z",
+          "ttile": null,
+          "lapl_job_listings": [
+            {
+              "id": 13,
+              "documentId": "virtual-intern-listing-001",
+              "title": "Virtual Internship Program",
+              "level": "Intern",
+              "createdAt": "2025-03-21T12:00:00.000Z",
+              "updatedAt": "2025-03-21T12:00:00.000Z",
+              "publishedAt": "2025-03-21T12:00:00.000Z",
+              "job_type": "Internship",
+              "lapl_career_detail": {
+                "id": 38,
+                "documentId": "virtual-intern-001",
+                "slug": "virtual-internship"
+              }
+            },
+            {
+              "id": 14,
+              "documentId": "office-intern-listing-001",
+              "title": "In-Office Internship Program",
+              "level": "Intern",
+              "createdAt": "2025-03-21T12:00:00.000Z",
+              "updatedAt": "2025-03-21T12:00:00.000Z",
+              "publishedAt": "2025-03-21T12:00:00.000Z",
+              "job_type": "Internship",
+              "lapl_career_detail": {
+                "id": 39,
+                "documentId": "office-intern-001",
+                "slug": "in-office-internship"
+              }
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "documentId": "rxnasiqkl3bm03d4kug7r8xa",
+          "name": "Development",
+          "slug": "development",
+          "job_count": 2,
+          "createdAt": "2025-03-11T12:37:14.745Z",
+          "updatedAt": "2025-03-17T03:25:21.179Z",
+          "publishedAt": "2025-03-17T03:25:21.196Z",
+          "ttile": null,
+          "lapl_job_listings": [
+            {
+              "id": 11,
+              "documentId": "flst3157v17jfpli0vq7njgh",
+              "title": "Full Stack Developer",
+              "level": "Junior",
+              "createdAt": "2025-03-20T09:20:00.000Z",
+              "updatedAt": "2025-03-21T10:35:00.000Z",
+              "publishedAt": "2025-03-21T10:45:00.000Z",
+              "job_type": "Full Time",
+              "lapl_career_detail": {
+                "id": 36,
+                "documentId": "fd83219xkq74nwg51cl0zqaa",
+                "slug": "full-stack-developer"
+              }
+            },
+            {
+              "id": 12,
+              "documentId": "gai3159v17jtpli1qr7njft",
+              "title": "Gen AI Developer",
+              "level": "Junior",
+              "createdAt": "2025-03-20T09:35:00.000Z",
+              "updatedAt": "2025-03-21T10:50:00.000Z",
+              "publishedAt": "2025-03-21T11:00:00.000Z",
+              "job_type": "Full Time",
+              "lapl_career_detail": {
+                "id": 37,
+                "documentId": "genai725xkz91pqm44bt29ml",
+                "slug": "gen-ai-developer"
+              }
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "documentId": "wmff312f1tto2kejjb84qox4",
+          "name": "All",
+          "slug": null,
+          "job_count": 4,
+          "createdAt": "2025-03-11T12:26:47.103Z",
+          "updatedAt": "2025-03-17T03:26:44.669Z",
+          "publishedAt": "2025-03-17T03:26:44.690Z",
+          "ttile": null,
+          "lapl_job_listings": [
+            {
+              "id": 11,
+              "documentId": "flst3157v17jfpli0vq7njgh",
+              "title": "Full Stack Developer",
+              "level": "Junior",
+              "createdAt": "2025-03-20T09:20:00.000Z",
+              "updatedAt": "2025-03-21T10:35:00.000Z",
+              "publishedAt": "2025-03-21T10:45:00.000Z",
+              "job_type": "Full Time",
+              "lapl_career_detail": {
+                "id": 36,
+                "documentId": "fd83219xkq74nwg51cl0zqaa",
+                "slug": "full-stack-developer"
+              }
+            },
+            {
+              "id": 12,
+              "documentId": "gai3159v17jtpli1qr7njft",
+              "title": "Gen AI Developer",
+              "level": "Junior",
+              "createdAt": "2025-03-20T09:35:00.000Z",
+              "updatedAt": "2025-03-21T10:50:00.000Z",
+              "publishedAt": "2025-03-21T11:00:00.000Z",
+              "job_type": "Full Time",
+              "lapl_career_detail": {
+                "id": 37,
+                "documentId": "genai725xkz91pqm44bt29ml",
+                "slug": "gen-ai-developer"
+              }
+            },
+            {
+              "id": 13,
+              "documentId": "virtual-intern-listing-001",
+              "title": "Virtual Internship Program",
+              "level": "Intern",
+              "createdAt": "2025-03-21T12:00:00.000Z",
+              "updatedAt": "2025-03-21T12:00:00.000Z",
+              "publishedAt": "2025-03-21T12:00:00.000Z",
+              "job_type": "Internship",
+              "lapl_career_detail": {
+                "id": 38,
+                "documentId": "virtual-intern-001",
+                "slug": "virtual-internship"
+              }
+            },
+            {
+              "id": 14,
+              "documentId": "office-intern-listing-001",
+              "title": "In-Office Internship Program",
+              "level": "Intern",
+              "createdAt": "2025-03-21T12:00:00.000Z",
+              "updatedAt": "2025-03-21T12:00:00.000Z",
+              "publishedAt": "2025-03-21T12:00:00.000Z",
+              "job_type": "Internship",
+              "lapl_career_detail": {
+                "id": 39,
+                "documentId": "office-intern-001",
+                "slug": "in-office-internship"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 25,
+        "pageCount": 1,
+        "total": 4
+      }
+    }
+  }

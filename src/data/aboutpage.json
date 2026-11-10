@@ -1,0 +1,585 @@
+{
+  "data": {
+    "id": 76,
+    "documentId": "rk34305ce82eri35ud4a75bi",
+    "createdAt": "2024-12-03T18:16:03.281Z",
+    "updatedAt": "2025-07-18T09:47:46.045Z",
+    "publishedAt": "2025-07-18T09:47:46.246Z",
+    "about": {
+      "id": 77,
+      "title": "Helping Startups, Scaleups, and SMBs Build Excellent Digital Products since 2012",
+      "button": {
+        "id": 1311,
+        "label": "WHO ARE WE?",
+        "variant": "primary",
+        "link": "https://www.google.com/"
+      }
+    },
+    "lapl__mssion": [
+      {
+        "id": 229,
+        "title": " Mission",
+        "description": "We aim to empower our clients to achieve more through exceptional quality and cost-effective solutions, becoming their trusted partner in digital transformation.",
+        "lapl_bulletpoints": [],
+        "mission_image": {
+          "id": 51,
+          "documentId": "fbxwg2eyhzqdp4afh4v6wopd",
+          "name": "img-1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 418,
+          "height": 576,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/assets/service-slugpage/icon_2_5da5f10a2d.svg",
+              "hash": "small_img_1_08cdbf119f",
+              "mime": "image/png",
+              "name": "small_img-1.png",
+              "path": null,
+              "size": 310.1,
+              "width": 363,
+              "height": 500,
+              "sizeInBytes": 310103
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/assets/service-slugpage/icon_2_5da5f10a2d.svg",
+              "hash": "thumbnail_img_1_08cdbf119f",
+              "mime": "image/png",
+              "name": "thumbnail_img-1.png",
+              "path": null,
+              "size": 41.13,
+              "width": 113,
+              "height": 156,
+              "sizeInBytes": 41127
+            }
+          },
+          "hash": "img_1_08cdbf119f",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 97.67,
+          "url": "/assets/imgs/uploads/img_1_08cdbf119f.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2024-12-12T09:23:42.560Z",
+          "updatedAt": "2024-12-12T09:23:42.560Z",
+          "publishedAt": "2024-12-12T09:23:42.560Z"
+        }
+      },
+      {
+        "id": 230,
+        "title": "Vision",
+        "description": "To establish ourselves as a premier software company offering innovative products and services that help businesses grow faster, save time, and maximize value  of stakeholders.",
+        "lapl_bulletpoints": [],
+        "mission_image": null
+      },
+      {
+        "id": 231,
+        "title": "Values",
+        "description": "Over our decade-long journey, we’ve cultivated a core set of values that steer our actions and decisions, ensuring alignment with our mission and vision. ",
+        "lapl_bulletpoints": [
+          {
+            "id": 246,
+            "title": "Taking Ownership"
+          },
+          {
+            "id": 247,
+            "title": "Honesty & Integrity"
+          },
+          {
+            "id": 248,
+            "title": "Openness & Respectfulness"
+          },
+          {
+            "id": 249,
+            "title": "Self-criticism"
+          },
+          {
+            "id": 250,
+            "title": "Fun & Flexibility"
+          }
+        ],
+        "mission_image": null
+      }
+    ],
+    "lapl_culture": {
+      "id": 376,
+      "title": "Our Core Principles",
+      "description": "At LasyaAitech, our mission, vision, and values shape a culture of innovation, collaboration, and excellence. We strive to create an environment where creativity thrives, teamwork flourishes, and commitment to quality drives everything we do.",
+      "culture_icon": null
+    },
+    "lapl_culture_items": [
+      {
+        "id": 377,
+        "title": "Learning &Sharing",
+        "description": "At LasyaAitech, we foster a culture of continuous learning and believe in sharing knowledge to drive personal growth and fuel innovation.",
+        "culture_icon": {
+          "id": 47,
+          "documentId": "kcj1qz5hz677gemp9xy94bqt",
+          "name": "icon-2.svg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 48,
+          "height": 48,
+          "formats": null,
+          "hash": "icon_2_3ae418dfa4",
+          "ext": ".svg",
+          "mime": "image/svg+xml",
+          "size": 12.81,
+          "url": "/assets/service-slugpage/icon_2_3ae418dfa4.svg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2024-12-11T09:57:51.736Z",
+          "updatedAt": "2024-12-11T09:57:51.736Z",
+          "publishedAt": "2024-12-11T09:57:51.736Z"
+        }
+      },
+      {
+        "id": 378,
+        "title": "Customer First",
+        "description": "We prioritize our clients' needs, striving for excellence in every project to deliver results that exceed expectations.",
+        "culture_icon": {
+          "id": 46,
+          "documentId": "lxxirrarna76auwk0iyxht5w",
+          "name": "icon-3.svg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 48,
+          "height": 48,
+          "formats": null,
+          "hash": "icon_3_50d29ddfaa",
+          "ext": ".svg",
+          "mime": "image/svg+xml",
+          "size": 12.44,
+          "url": "/assets/service-slugpage/icon_3_50d29ddfaa.svg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2024-12-11T09:57:51.709Z",
+          "updatedAt": "2024-12-11T09:57:51.709Z",
+          "publishedAt": "2024-12-11T09:57:51.710Z"
+        }
+      },
+      {
+        "id": 379,
+        "title": "Teamwork & Empathy",
+        "description": "Open communication, mutual support, and leveraging each other's strengths form the foundation of our collaborative and empathetic work environment.",
+        "culture_icon": {
+          "id": 45,
+          "documentId": "pk0qncl3fpvx6ju2r5effg92",
+          "name": "icon-4.svg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 48,
+          "height": 48,
+          "formats": null,
+          "hash": "icon_4_58d55411be",
+          "ext": ".svg",
+          "mime": "image/svg+xml",
+          "size": 1.03,
+          "url": "/assets/service-slugpage/icon_4_58d55411be.svg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2024-12-11T09:57:51.706Z",
+          "updatedAt": "2024-12-11T09:57:51.706Z",
+          "publishedAt": "2024-12-11T09:57:51.706Z"
+        }
+      },
+      {
+        "id": 380,
+        "title": "Discipline & Delivery",
+        "description": "We adhere to the highest ethical standards and are committed to delivering solutions that meet the highest benchmarks and create meaningful impact.\n",
+        "culture_icon": {
+          "id": 44,
+          "documentId": "f26m3srl7fhvg0ee7wdxecot",
+          "name": "icon-1.svg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 48,
+          "height": 48,
+          "formats": null,
+          "hash": "icon_1_b181034d73",
+          "ext": ".svg",
+          "mime": "image/svg+xml",
+          "size": 10.26,
+          "url": "/assets/service-slugpage/icon_1_b181034d73.svg",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2024-12-11T09:57:51.698Z",
+          "updatedAt": "2024-12-11T09:57:51.698Z",
+          "publishedAt": "2024-12-11T09:57:51.699Z"
+        }
+      }
+    ],
+    "lapl_risk_section": {
+      "id": 76,
+      "title": "Hire Remote Engineers from a Dedicated Team an individual.",
+      "subtitle": "Risk Free!",
+      "description": "Choose a skilled team of engineers over individuals for seamless collaboration and superior results.Leave the logistics and administration to us. Gain access to experienced engineers and UX designers who deliver exceptional results. Need a change? We’ll provide a replacement within a week, hassle-free.",
+      "button": {
+        "id": 1312,
+        "label": "Contact",
+        "variant": "primary",
+        "link": "/contact"
+      },
+      "risk_image": {
+        "id": 43,
+        "documentId": "z7qjl9ed49c5lg7bs86k9azq",
+        "name": "service1.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 642,
+        "height": 498,
+        "formats": {
+          "small": {
+            "ext": ".png",
+            "url": "/assets/service-slugpage/service1_0051fc3cfa.png",
+            "hash": "small_service1_0051fc3cfa",
+            "mime": "image/png",
+            "name": "small_service1.png",
+            "path": null,
+            "size": 416.83,
+            "width": 500,
+            "height": 388,
+            "sizeInBytes": 416834
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/assets/service-slugpage/service1_0051fc3cfa.png",
+            "hash": "thumbnail_service1_0051fc3cfa",
+            "mime": "image/png",
+            "name": "thumbnail_service1.png",
+            "path": null,
+            "size": 76.85,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 76853
+          }
+        },
+        "hash": "service1_0051fc3cfa",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 176.78,
+        "url": "/assets/service-slugpage/service1_0051fc3cfa.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2024-12-10T17:52:22.019Z",
+        "updatedAt": "2024-12-10T17:53:08.212Z",
+        "publishedAt": "2024-12-10T17:52:22.020Z"
+      }
+    },
+    "lapl__awards__section": {
+      "id": 76,
+      "title": "Awards and Achievements",
+      "description": "From the start, we’ve proudly won two prestigious national competitions and received multiple awards. These milestones have showcased our expertise and strengthened our confidence to excel further.",
+      "lapl__awards_items": [
+        {
+          "id": 226,
+          "title": "Champion",
+          "subtitle": "Champion – Code Warriors Challenge 2015 (Web App))",
+          "description": "We took the top spot in the highly competitive BASIS Code Warriors Challenge 2015, where 56 companies competed in a 36-hour hackathon. Our expert web application team delivered an outstanding performance, earning us the championship trophy in the Web Application Development category.",
+          "image": {
+            "id": 7,
+            "documentId": "kva3jy08m7iu7u7b33wxvaud",
+            "name": "img-1.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 534,
+            "height": 446,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/assets/imgs/uploads/small_img_1_b3fba87fad.jpg",
+                "hash": "small_img_1_b3fba87fad",
+                "mime": "image/jpeg",
+                "name": "small_img-1.jpg",
+                "path": null,
+                "size": 484.29,
+                "width": 500,
+                "height": 418,
+                "sizeInBytes": 484288
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/assets/imgs/uploads/thumbnail_img_1_b3fba87fad.jpg",
+                "hash": "thumbnail_img_1_b3fba87fad",
+                "mime": "image/jpeg",
+                "name": "thumbnail_img-1.jpg",
+                "path": null,
+                "size": 78.68,
+                "width": 187,
+                "height": 156,
+                "sizeInBytes": 78678
+              }
+            },
+            "hash": "img_1_b3fba87fad",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 124.54,
+            "url": "/assets/imgs/uploads/img_1_b3fba87fad.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-12-03T13:24:01.170Z",
+            "updatedAt": "2024-12-05T16:56:21.987Z",
+            "publishedAt": "2024-12-03T13:24:01.171Z"
+          }
+        },
+        {
+          "id": 227,
+          "title": "Runner-up",
+          "subtitle": "Runner-Up – Code Warriors Challenge 2015 (Mobile App) App)",
+          "description": "In the same challenge, our mobile application team secured the runner-up position in the Mobile Application Development category. This marked a historic achievement as we became the first company to win trophies in two major categories in a single event.",
+          "image": {
+            "id": 7,
+            "documentId": "kva3jy08m7iu7u7b33wxvaud",
+            "name": "img-1.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 534,
+            "height": 446,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/assets/imgs/uploads/small_img_1_b3fba87fad.jpg",
+                "hash": "small_img_1_b3fba87fad",
+                "mime": "image/jpeg",
+                "name": "small_img-1.jpg",
+                "path": null,
+                "size": 484.29,
+                "width": 500,
+                "height": 418,
+                "sizeInBytes": 484288
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/assets/imgs/uploads/thumbnail_img_1_b3fba87fad.jpg",
+                "hash": "thumbnail_img_1_b3fba87fad",
+                "mime": "image/jpeg",
+                "name": "thumbnail_img-1.jpg",
+                "path": null,
+                "size": 78.68,
+                "width": 187,
+                "height": 156,
+                "sizeInBytes": 78678
+              }
+            },
+            "hash": "img_1_b3fba87fad",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 124.54,
+            "url": "/assets/imgs/uploads/img_1_b3fba87fad.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-12-03T13:24:01.170Z",
+            "updatedAt": "2024-12-05T16:56:21.987Z",
+            "publishedAt": "2024-12-03T13:24:01.171Z"
+          }
+        },
+        {
+          "id": 228,
+          "title": " Uddokta Group",
+          "subtitle": "Award-Winning Entrepreneurship by Uddokta Group",
+          "description": "Recognized for our entrepreneurial spirit, we received the New Entrepreneurship Award in 2014 and the Entrepreneurship Award in 2015 from the Uddokta Group, a prestigious initiative by the Bangladesh Open Source Network community celebrating top entrepreneurs and startups.\n\nOur journey of achievements reflects our dedication to innovation, teamwork, and excellence.\n",
+          "image": {
+            "id": 7,
+            "documentId": "kva3jy08m7iu7u7b33wxvaud",
+            "name": "img-1.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 534,
+            "height": 446,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/assets/imgs/uploads/small_img_1_b3fba87fad.jpg",
+                "hash": "small_img_1_b3fba87fad",
+                "mime": "image/jpeg",
+                "name": "small_img-1.jpg",
+                "path": null,
+                "size": 484.29,
+                "width": 500,
+                "height": 418,
+                "sizeInBytes": 484288
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/assets/imgs/uploads/thumbnail_img_1_b3fba87fad.jpg",
+                "hash": "thumbnail_img_1_b3fba87fad",
+                "mime": "image/jpeg",
+                "name": "thumbnail_img-1.jpg",
+                "path": null,
+                "size": 78.68,
+                "width": 187,
+                "height": 156,
+                "sizeInBytes": 78678
+              }
+            },
+            "hash": "img_1_b3fba87fad",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 124.54,
+            "url": "/assets/imgs/uploads/img_1_b3fba87fad.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-12-03T13:24:01.170Z",
+            "updatedAt": "2024-12-05T16:56:21.987Z",
+            "publishedAt": "2024-12-03T13:24:01.171Z"
+          }
+        }
+      ]
+    },
+    "lapl_testimonial_section": {
+      "id": 66,
+      "title": "What People Say About Us",
+      "description": "Discover why businesses trust LasyaAitech for their digital transformation journey.\nOur clients praise us for 🔥",
+      "button": {
+        "id": 1313,
+        "label": "TESTIMONIALS",
+        "variant": "primary",
+        "link": "https://www.google.com/"
+      },
+      "lapl_reviews": [
+        {
+          "id": 15,
+          "documentId": "otaa0axddf709dmxmadsv7xp",
+          "name": "Kathryn Murphy",
+          "role": "CEO of Tech Innovators Inc",
+          "description": "The team's dedication and expertise have transformed our business. Their innovative solutions and outstanding support have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most",
+          "comment": "(For services and support)",
+          "createdAt": "2024-12-03T18:33:19.889Z",
+          "updatedAt": "2024-12-12T09:42:37.580Z",
+          "publishedAt": "2024-12-12T09:42:37.625Z"
+        },
+        {
+          "id": 26,
+          "documentId": "zkqm73dwtnpuwwva0ecogjls",
+          "name": "Emma Johnson",
+          "role": "Founder & Visionary Leader at InnovateTech Solutions",
+          "description": "\"Working with this team has been a game-changer. Their innovative solutions and proactive support have improved our operational efficiency and enhanced our customer experience. Truly a transformative partnership.\"",
+          "comment": "(For services and support)",
+          "createdAt": "2024-12-12T09:43:28.446Z",
+          "updatedAt": "2024-12-21T14:38:33.732Z",
+          "publishedAt": "2024-12-21T14:38:33.753Z"
+        },
+        {
+          "id": 27,
+          "documentId": "yl7yhhdh8xtn3kkgd7jslnfl",
+          "name": "Liam Anderson",
+          "role": "Chief Technology Strategist at BrightWave Technologies",
+          "description": "\"This team’s expertise is unmatched! Their dedication to delivering high-quality solutions has streamlined our workflows, boosted productivity, and helped us achieve greater client satisfaction.\"",
+          "comment": "(For services and support)",
+          "createdAt": "2024-12-12T09:43:42.479Z",
+          "updatedAt": "2024-12-21T14:39:26.120Z",
+          "publishedAt": "2024-12-21T14:39:26.140Z"
+        },
+        {
+          "id": 28,
+          "documentId": "a3kx38wasx2zx2safh8gdt9w",
+          "name": "Sophia Martinez",
+          "role": "Global Operations Head at Nexus Digital",
+          "description": "\"Thanks to their innovative approach and exceptional support, we’ve been able to focus on strategic growth. Their solutions have brought efficiency and ease to our business operations.\"",
+          "comment": "(For services and support)",
+          "createdAt": "2024-12-12T09:43:55.769Z",
+          "updatedAt": "2024-12-21T14:40:02.140Z",
+          "publishedAt": "2024-12-21T14:40:02.214Z"
+        },
+        {
+          "id": 29,
+          "documentId": "wdzlspb4b4f59aemfp334ovk",
+          "name": "Noah Patel",
+          "role": "Executive Director at FutureGrid Innovations",
+          "description": "\"A reliable and visionary team that consistently exceeds expectations. Their commitment to understanding our needs and delivering outstanding results has been invaluable to our growth.\"",
+          "comment": "(For services and support)",
+          "createdAt": "2024-12-12T09:44:10.348Z",
+          "updatedAt": "2024-12-21T14:40:37.080Z",
+          "publishedAt": "2024-12-21T14:40:37.110Z"
+        },
+        {
+          "id": 30,
+          "documentId": "ap7meb25gv4e7vb05brzf1xr",
+          "name": "Olivia Davis",
+          "role": "Head of Strategy at Synergy TechWorks",
+          "description": "\"Their innovative strategies and attention to detail have revolutionized how we operate. With their help, we’ve optimized processes and significantly increased client satisfaction.\"",
+          "comment": "(For services and support)",
+          "createdAt": "2024-12-12T09:44:21.657Z",
+          "updatedAt": "2024-12-21T14:41:08.095Z",
+          "publishedAt": "2024-12-21T14:41:08.110Z"
+        }
+      ]
+    },
+    "seo": [
+      {
+        "id": 893,
+        "meta_title": "About Us - LasyaAitech | Leading Software Development Company",
+        "meta_description": "Learn about LasyaAitech, a software development company dedicated to delivering innovative and custom technology solutions to help businesses succeed. Discover our mission, values, and expertise in creating cutting-edge digital products.",
+        "meta_keywords": "about LasyaAitech, software development company, technology solutions, business growth, software innovation, digital solutions, IT services, software consulting",
+        "meta_image": [
+          {
+            "id": 702,
+            "documentId": "dzfnlhviz8himtkl90938tkx",
+            "name": "img-4 (1).png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 642,
+            "height": 415,
+            "formats": {
+              "small": {
+                "ext": ".png",
+                "url": "/assets/imgs/uploads/small_img_4_1_a36ddc118a.png",
+                "hash": "small_img_4_1_a36ddc118a",
+                "mime": "image/png",
+                "name": "small_img-4 (1).png",
+                "path": null,
+                "size": 58.63,
+                "width": 500,
+                "height": 323,
+                "sizeInBytes": 58626
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/assets/imgs/uploads/thumbnail_img_4_1_a36ddc118a.png",
+                "hash": "thumbnail_img_4_1_a36ddc118a",
+                "mime": "image/png",
+                "name": "thumbnail_img-4 (1).png",
+                "path": null,
+                "size": 25.07,
+                "width": 241,
+                "height": 156,
+                "sizeInBytes": 25069
+              }
+            },
+            "hash": "img_4_1_a36ddc118a",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 14.72,
+            "url": "/assets/imgs/uploads/img_4_1_a36ddc118a.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-30T07:11:04.295Z",
+            "updatedAt": "2025-01-30T07:11:04.295Z",
+            "publishedAt": "2025-01-30T07:11:04.295Z"
+          }
+        ]
+      }
+    ],
+    "about_hero": {
+      "id": 58,
+      "title": "About Us",
+      "subtitle": "Uncover Our Journey: Uniting Through Creativity",
+      "description": "Our dedication to quality and excellence has made us a trusted partner for enterprises looking to enhance their online presence."
+    }
+  },
+  "meta": {
+
+  }
+}

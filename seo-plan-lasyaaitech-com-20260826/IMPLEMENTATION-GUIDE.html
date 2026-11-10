@@ -1,0 +1,959 @@
+<title>Local Search Implementation Guide</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+  :root {
+    --paper: #EEF1F2;
+    --surface: #FFFFFF;
+    --surface-2: #E3E8EA;
+    --ink: #142029;
+    --muted: #56636D;
+    --line: #D2D9DC;
+    --accent: #0E7C6B;
+    --accent-ink: #FFFFFF;
+    --sev-critical: #B3261E;
+    --sev-high: #B5540B;
+    --sev-medium: #8A6D1B;
+    --sev-low: #5B6472;
+    --sev-critical-bg: #FBEAE9;
+    --sev-high-bg: #FBEEE2;
+    --sev-medium-bg: #F8F1DF;
+    --sev-low-bg: #EBEDEF;
+    --code-bg: #101A21;
+    --code-ink: #DCE6E9;
+    --code-accent: #6BD6C2;
+    --shadow: 0 1px 2px rgba(20, 32, 41, 0.06), 0 8px 24px -12px rgba(20, 32, 41, 0.16);
+    --font-display: "IBM Plex Serif", Georgia, "Times New Roman", serif;
+    --font-body: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #10171D;
+      --surface: #171F26;
+      --surface-2: #1E2830;
+      --ink: #E7ECEE;
+      --muted: #93A3AC;
+      --line: #2A363E;
+      --accent: #3FD1B6;
+      --accent-ink: #08211C;
+      --sev-critical: #F2857D;
+      --sev-high: #F0A85C;
+      --sev-medium: #E0C466;
+      --sev-low: #9AA7B0;
+      --sev-critical-bg: #3A2220;
+      --sev-high-bg: #392A19;
+      --sev-medium-bg: #362E19;
+      --sev-low-bg: #232C32;
+      --code-bg: #0B1116;
+      --code-ink: #D7E4E7;
+      --code-accent: #6BD6C2;
+      --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.5);
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --paper: #10171D;
+    --surface: #171F26;
+    --surface-2: #1E2830;
+    --ink: #E7ECEE;
+    --muted: #93A3AC;
+    --line: #2A363E;
+    --accent: #3FD1B6;
+    --accent-ink: #08211C;
+    --sev-critical: #F2857D;
+    --sev-high: #F0A85C;
+    --sev-medium: #E0C466;
+    --sev-low: #9AA7B0;
+    --sev-critical-bg: #3A2220;
+    --sev-high-bg: #392A19;
+    --sev-medium-bg: #362E19;
+    --sev-low-bg: #232C32;
+    --code-bg: #0B1116;
+    --code-ink: #D7E4E7;
+    --code-accent: #6BD6C2;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.5);
+  }
+
+  * { box-sizing: border-box; }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+  }
+
+  html { color-scheme: light dark; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    line-height: 1.2;
+    text-wrap: balance;
+    margin: 0 0 0.5em;
+  }
+
+  code, pre, .mono { font-family: var(--font-mono); }
+
+  .layout {
+    display: grid;
+    grid-template-columns: 232px minmax(0, 1fr);
+    gap: 0;
+    max-width: 1180px;
+    margin: 0 auto;
+  }
+
+  .toc {
+    position: sticky;
+    top: 0;
+    align-self: start;
+    height: 100vh;
+    overflow-y: auto;
+    padding: 2rem 1.25rem 2rem 1.5rem;
+    border-right: 1px solid var(--line);
+  }
+
+  .toc-brand {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .toc-brand strong { color: var(--ink); display: block; font-size: 0.8rem; margin-bottom: 0.2rem; }
+
+  .toc nav { display: flex; flex-direction: column; gap: 0.05rem; }
+  .toc a {
+    color: var(--muted);
+    text-decoration: none;
+    font-size: 0.86rem;
+    padding: 0.34rem 0.5rem;
+    border-radius: 6px;
+    display: block;
+  }
+  .toc a:hover { color: var(--ink); background: var(--surface-2); }
+  .toc .toc-sub { padding-left: 1.15rem; font-size: 0.8rem; }
+
+  .toc-progress {
+    margin-top: 1.75rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--line);
+  }
+  .toc-progress-label {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.4rem;
+  }
+  .toc-progress-bar {
+    height: 6px;
+    background: var(--surface-2);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .toc-progress-fill {
+    height: 100%;
+    background: var(--accent);
+    width: 0%;
+    transition: width 0.3s ease;
+  }
+
+  main { padding: 2.5rem 2.5rem 6rem; min-width: 0; }
+
+  .doc-header { max-width: 760px; margin-bottom: 2.25rem; }
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.74rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.6rem;
+  }
+  .doc-header h1 { font-size: 2.15rem; }
+  .doc-meta {
+    font-size: 0.88rem;
+    color: var(--muted);
+    margin-top: 0.6rem;
+    display: flex;
+    gap: 1.1rem;
+    flex-wrap: wrap;
+  }
+  .doc-meta span { display: inline-flex; align-items: center; gap: 0.35rem; }
+
+  section { max-width: 760px; margin: 3rem 0; scroll-margin-top: 1.5rem; }
+  section.wide { max-width: 940px; }
+  section > h2 { font-size: 1.5rem; margin-bottom: 0.9rem; }
+  section > .section-intro { color: var(--muted); margin-bottom: 1.25rem; }
+
+  .callout {
+    border: 1px solid var(--line);
+    background: var(--surface);
+    border-radius: 10px;
+    padding: 1.25rem 1.4rem;
+    box-shadow: var(--shadow);
+  }
+  .callout.accent { border-left: 4px solid var(--accent); }
+  .callout p:last-child { margin-bottom: 0; }
+  .callout-label {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+
+  .data-notice {
+    background: var(--surface-2);
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    font-size: 0.92rem;
+    color: var(--muted);
+    display: flex;
+    gap: 0.75rem;
+    align-items: flex-start;
+  }
+  .data-notice .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--sev-medium); margin-top: 0.5em; flex-shrink: 0;
+  }
+
+  .pill-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 0.6rem;
+  }
+  .pill-card {
+    border: 1px solid var(--line);
+    background: var(--surface);
+    border-radius: 10px;
+    padding: 0.9rem 1rem;
+  }
+  .pill-card .pill-name { font-size: 0.86rem; font-weight: 600; margin-bottom: 0.45rem; }
+  .status-pill {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 0.22rem 0.55rem;
+    border-radius: 20px;
+    display: inline-block;
+  }
+  .status-strong { background: var(--sev-low-bg); color: var(--accent); }
+  .status-partial { background: var(--sev-medium-bg); color: var(--sev-medium); }
+  .status-weak { background: var(--sev-high-bg); color: var(--sev-high); }
+  .status-absent { background: var(--sev-critical-bg); color: var(--sev-critical); }
+
+  ul.credit-list { padding-left: 1.1rem; margin: 0; }
+  ul.credit-list li { margin-bottom: 0.7rem; }
+  ul.credit-list .ref { color: var(--muted); font-size: 0.85rem; }
+
+  .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.89rem; background: var(--surface); }
+  th, td { text-align: left; padding: 0.75rem 0.9rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  thead th {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    background: var(--surface-2);
+    white-space: nowrap;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  td .ref { font-family: var(--font-mono); font-size: 0.78rem; color: var(--muted); }
+
+  .sev-badge {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 0.2rem 0.5rem;
+    border-radius: 5px;
+    white-space: nowrap;
+    display: inline-block;
+  }
+  .sev-critical { background: var(--sev-critical-bg); color: var(--sev-critical); }
+  .sev-high { background: var(--sev-high-bg); color: var(--sev-high); }
+  .sev-medium { background: var(--sev-medium-bg); color: var(--sev-medium); }
+  .sev-low { background: var(--sev-low-bg); color: var(--sev-low); }
+
+  .phase {
+    border: 1px solid var(--line);
+    background: var(--surface);
+    border-radius: 12px;
+    padding: 1.5rem 1.6rem 1.7rem;
+    box-shadow: var(--shadow);
+    margin-bottom: 1.25rem;
+  }
+  .phase-head { display: flex; align-items: baseline; gap: 0.8rem; margin-bottom: 0.3rem; }
+  .phase-num {
+    font-family: var(--font-mono);
+    font-size: 0.95rem;
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .phase-when {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-left: auto;
+  }
+  .phase-goal { color: var(--muted); margin-bottom: 1.1rem; }
+
+  .check-list { display: flex; flex-direction: column; gap: 0.15rem; margin-bottom: 0.5rem; }
+  .check-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.65rem;
+    padding: 0.5rem 0.4rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.94rem;
+  }
+  .check-item:hover { background: var(--surface-2); }
+  .check-item input {
+    margin-top: 0.28rem;
+    width: 16px; height: 16px;
+    accent-color: var(--accent);
+    flex-shrink: 0;
+  }
+  .check-item span { flex: 1; }
+  .check-item.checked span { color: var(--muted); text-decoration: line-through; text-decoration-color: var(--line); }
+  .check-item .item-id { font-family: var(--font-mono); font-size: 0.75rem; color: var(--accent); margin-right: 0.4rem; }
+
+  details.code-block {
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    margin: 0.9rem 0;
+    background: var(--surface);
+    overflow: hidden;
+  }
+  details.code-block summary {
+    padding: 0.7rem 1rem;
+    cursor: pointer;
+    font-size: 0.88rem;
+    font-weight: 600;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  details.code-block summary::before {
+    content: "▸";
+    color: var(--accent);
+    transition: transform 0.15s ease;
+    display: inline-block;
+  }
+  details.code-block[open] summary::before { transform: rotate(90deg); }
+  details.code-block summary .file-path {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--muted);
+    font-weight: 400;
+  }
+  summary::-webkit-details-marker { display: none; }
+
+  .code-scroll { position: relative; }
+  pre {
+    margin: 0;
+    padding: 1.1rem 1.2rem;
+    background: var(--code-bg);
+    color: var(--code-ink);
+    overflow-x: auto;
+    font-size: 0.83rem;
+    line-height: 1.6;
+    border-top: 1px solid var(--line);
+  }
+  pre .tok-key { color: #9FD8CC; }
+  pre .tok-str { color: #E3C07B; }
+  pre .tok-com { color: #6B7C85; font-style: italic; }
+
+  .copy-btn {
+    position: absolute;
+    top: 0.6rem;
+    right: 0.7rem;
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    background: rgba(255,255,255,0.08);
+    color: var(--code-accent);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 6px;
+    padding: 0.28rem 0.55rem;
+    cursor: pointer;
+  }
+  .copy-btn:hover { background: rgba(255,255,255,0.16); }
+
+  .note-inline {
+    font-size: 0.87rem;
+    color: var(--muted);
+    padding: 0.7rem 1rem;
+    background: var(--surface-2);
+    border-radius: 8px;
+    margin: 0.7rem 0;
+  }
+  .note-inline strong { color: var(--ink); }
+
+  .warn-callout {
+    border: 1px solid var(--sev-high);
+    background: var(--sev-high-bg);
+    border-radius: 10px;
+    padding: 1rem 1.2rem;
+    font-size: 0.92rem;
+  }
+  .warn-callout .callout-label { color: var(--sev-high); }
+
+  ol.step-list { padding-left: 1.2rem; }
+  ol.step-list li { margin-bottom: 0.55rem; }
+
+  .metric-table td:nth-child(3), .metric-table td:nth-child(4), .metric-table td:nth-child(5) {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-size: 0.85rem;
+  }
+
+  .skill-grid { display: grid; gap: 0.6rem; }
+  .skill-row {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 1rem;
+    padding: 0.8rem 0;
+    border-bottom: 1px solid var(--line);
+    align-items: start;
+  }
+  .skill-row:last-child { border-bottom: none; }
+  .skill-name { font-family: var(--font-mono); font-size: 0.86rem; color: var(--accent); font-weight: 600; }
+  .skill-desc { font-size: 0.9rem; color: var(--muted); }
+
+  footer.doc-footer {
+    max-width: 760px;
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--line);
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
+
+  .mobile-toc-toggle { display: none; }
+
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; }
+    .toc {
+      position: static;
+      height: auto;
+      border-right: none;
+      border-bottom: 1px solid var(--line);
+      padding: 1rem 1.25rem;
+    }
+    .toc-brand { margin-bottom: 0.75rem; }
+    .toc nav { display: none; }
+    .toc.open nav { display: flex; }
+    .toc-progress { display: none; }
+    .mobile-toc-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+      background: none;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 0.4rem 0.7rem;
+      cursor: pointer;
+    }
+    main { padding: 1.75rem 1.25rem 4rem; }
+    .doc-header h1 { font-size: 1.7rem; }
+    .skill-row { grid-template-columns: 1fr; gap: 0.2rem; }
+  }
+</style>
+
+<div class="layout">
+  <aside class="toc" id="toc">
+    <div class="toc-brand">
+      <strong>LasyaAitech · lasyaaitech.com</strong>
+      Local search implementation guide
+    </div>
+    <button class="mobile-toc-toggle" id="tocToggle" type="button">☰ Contents</button>
+    <nav>
+      <a href="#diagnosis">Diagnosis</a>
+      <a href="#reality-check">Reality check</a>
+      <a href="#scorecard">Scorecard</a>
+      <a href="#working">What's already working</a>
+      <a href="#gaps">Gap analysis</a>
+      <a href="#roadmap">Implementation roadmap</a>
+      <a class="toc-sub" href="#phase-1">Phase 1 · Foundation</a>
+      <a class="toc-sub" href="#phase-2">Phase 2 · On-page &amp; content</a>
+      <a class="toc-sub" href="#phase-3">Phase 3 · Authority &amp; polish</a>
+      <a href="#gbp">Google Business Profile</a>
+      <a href="#measurement">Measurement plan</a>
+      <a href="#se-ranking">Once SE Ranking connects</a>
+      <a href="#cleanup">Cleanup punch-list</a>
+    </nav>
+    <div class="toc-progress">
+      <div class="toc-progress-label"><span>Progress</span><span id="progressText">0 / 0</span></div>
+      <div class="toc-progress-bar"><div class="toc-progress-fill" id="progressFill"></div></div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="doc-header">
+      <div class="eyebrow">SEO Audit &amp; Roadmap</div>
+      <h1>Local Search Implementation Guide</h1>
+      <p>A code-grounded audit of lasyaaitech.com's SEO setup and a phased plan to win the Google local pack and organic rankings for "mobile app development company" / "website development company" searches from HITEC City, Madhapur, Jubilee Hills and Kondapur.</p>
+      <div class="doc-meta">
+        <span>📅 26 Aug 2026</span>
+        <span>📍 Hyderabad, Telangana</span>
+        <span>🗂 Next.js 15 App Router codebase</span>
+      </div>
+    </div>
+
+    <section>
+      <div class="data-notice">
+        <span class="dot"></span>
+        <span><strong style="color:var(--ink)">How this was built:</strong> the SE Ranking MCP integration wasn't authorized in this session, so this guide doesn't include live keyword-volume, competitor-gap, backlink or local-pack-rank data. Everything below is grounded directly in your Next.js codebase — exact files and line numbers are cited throughout — plus your live <code>robots.txt</code>, <code>sitemap.xml</code> and <code>llms.txt</code>, and standard local-SEO ranking factors. See <a href="#se-ranking">"Once SE Ranking connects"</a> for what to re-run once that's authorized.</span>
+      </div>
+    </section>
+
+    <section id="diagnosis">
+      <h2>The diagnosis</h2>
+      <div class="callout accent">
+        <span class="callout-label">Why you're not ranking for city-qualified searches</span>
+        <p>Three findings account for nearly all of the gap between where you are and "best mobile app / website development company in HITEC&nbsp;City, Madhapur, Jubilee&nbsp;Hills, Kondapur." <strong>First</strong>, the structured data shipped on every page has no local-business signal at all — the <code>Organization</code> schema carries a name, URL, logo and social links, but no address, phone, geo-coordinates or service area. <strong>Second</strong>, a full-repo search turns up zero pages, headings or paragraphs anywhere on the site that name HITEC&nbsp;City, Jubilee&nbsp;Hills or Kondapur — the only place "Hyderabad" appears in visible copy is the office-address block on <code>/contact</code>. <strong>Third</strong>, nothing on the site links to a Google Business Profile, which is the single strongest input into exactly the "best X company near me" ranking you're asking for.</p>
+        <p>None of this requires a rebuild. The metadata system already in place (<code>SeoService.ts</code>, <code>page-seo.ts</code>, <code>seo-keywords.ts</code>) is well-engineered — it just has no location layer yet. Phase 1 below adds one.</p>
+      </div>
+    </section>
+
+    <section id="reality-check">
+      <h2>One expectation to set correctly</h2>
+      <div class="callout">
+        <p>The bare head term <strong>"best mobile app development company"</strong> — no location — is contested globally by Clutch, GoodFirms, DesignRush and similar review aggregators, which dominate that SERP because they aggregate ratings across thousands of agencies. No single agency's own domain typically outranks them for the undecorated head term, and that's true for every competitor you have too.</p>
+        <p>The target that's actually winnable in 60–90 days of focused work is the layer directly below it: the <strong>Google Maps 3-pack</strong> for "app development company near me" searched from those neighborhoods, and <strong>long-tail organic</strong> terms like "mobile app development company Madhapur" or "website development company near HITEC City." That's exactly what Phases 1–2 target. Ranking well on Clutch/GoodFirms (Phase 3) is still worth doing on top of that — those profiles increasingly get cited directly inside Google AI Overviews and ChatGPT/Perplexity answers, which is a second route to head-term visibility that doesn't require outranking them.</p>
+      </div>
+    </section>
+
+    <section id="scorecard" class="wide">
+      <h2>Current state, by dimension</h2>
+      <p class="section-intro">Qualitative, not scored out of 100 — without SE Ranking's crawl data a numeric score would imply more precision than this audit actually has.</p>
+      <div class="pill-grid">
+        <div class="pill-card"><div class="pill-name">Metadata &amp; on-page tags</div><span class="status-pill status-strong">Strong</span></div>
+        <div class="pill-card"><div class="pill-name">Structured data coverage</div><span class="status-pill status-partial">Partial</span></div>
+        <div class="pill-card"><div class="pill-name">Local business signals (NAP, GBP, geo)</div><span class="status-pill status-absent">Absent</span></div>
+        <div class="pill-card"><div class="pill-name">Location-specific content</div><span class="status-pill status-absent">Absent</span></div>
+        <div class="pill-card"><div class="pill-name">Crawlability &amp; sitemap hygiene</div><span class="status-pill status-strong">Strong</span></div>
+        <div class="pill-card"><div class="pill-name">Image SEO &amp; Core Web Vitals</div><span class="status-pill status-weak">Weak</span></div>
+        <div class="pill-card"><div class="pill-name">Content uniqueness</div><span class="status-pill status-weak">Needs cleanup</span></div>
+      </div>
+    </section>
+
+    <section id="working">
+      <h2>What's already working</h2>
+      <p class="section-intro">Worth knowing before you change anything — this is genuinely more sophisticated than the "20 SEO plugins" framing suggests. This is a Next.js site with a hand-built SEO system, not WordPress, and no plugin marketplace applies here; the equivalent work already exists in code.</p>
+      <ul class="credit-list">
+        <li>Every route uses Next.js <code>generateMetadata</code> through one shared service, so titles/descriptions/Open&nbsp;Graph/Twitter cards/canonicals are consistent and clamped to SERP-safe lengths instead of being hand-typed per page. <span class="ref">src/services/SeoService.ts:44–80</span></li>
+        <li><code>next-sitemap</code> tiers priority and crawl frequency by route importance, and keeps campaign/demo pages out of the sitemap via <code>noindex</code> rather than blocking them in <code>robots.txt</code> — which would stop crawlers from ever reading that <code>noindex</code> tag. <span class="ref">next-sitemap.config.js</span></li>
+        <li><code>robots.txt</code> explicitly allows GPTBot, PerplexityBot, ClaudeBot and other AI crawlers, and a hand-maintained <code>llms.txt</code> already indexes every service, technology and industry page — a real head start on AI-search visibility most competitors won't have. <span class="ref">public/robots.txt, public/llms.txt</span></li>
+        <li>Structured data already covers <code>Organization</code>, <code>WebPage</code>, <code>Service</code>, <code>FAQPage</code>, <code>Article</code> (case studies), <code>JobPosting</code> (careers) and <code>BreadcrumbList</code>. <span class="ref">src/services/SeoService.ts:259–439</span></li>
+        <li>A real office address, phone number, WhatsApp link and embedded Google Map already render on <code>/contact</code>. The raw NAP data exists — it just isn't connected to structured data or repeated anywhere else on the site. <span class="ref">src/components/common/ContactSection.tsx:180, 195, 404–416</span></li>
+      </ul>
+    </section>
+
+    <section id="gaps" class="wide">
+      <h2>Gap analysis</h2>
+      <p class="section-intro">Ordered by how directly each gap blocks the local-pack and neighborhood-search ranking you're after.</p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th style="width:9%">Severity</th><th style="width:30%">Issue</th><th style="width:24%">Evidence</th><th>Why it matters for local rank</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="sev-badge sev-critical">Critical</span></td>
+              <td>No LocalBusiness / geo / NAP in structured data</td>
+              <td class="ref">SeoService.ts:265–272</td>
+              <td>The <code>Organization</code> node has only name/url/logo/sameAs. Google's local-pack ranking reads structured NAP, geo-coordinates and service area as a primary input — without it, the site is functionally invisible to local ranking regardless of content.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-critical">Critical</span></td>
+              <td>Zero pages mention HITEC City, Madhapur, Jubilee Hills or Kondapur</td>
+              <td class="ref">Full-repo grep</td>
+              <td>Only the <code>/contact</code> address paragraph and one invisible keyword string ("software development company Hyderabad") reference the city at all. Google can't rank a page for words that never appear on it — meta keywords carry negligible weight.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-critical">Critical</span></td>
+              <td>No confirmed Google Business Profile link anywhere on the site</td>
+              <td class="ref">Full-repo + page scan</td>
+              <td>GBP is the single largest input into the local 3-pack. If it's unclaimed or unoptimized, competitors are winning the map pack for every one of your target neighborhoods by default.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-high">High</span></td>
+              <td>No business hours, visible or structured</td>
+              <td class="ref">/contact page scan</td>
+              <td>Hours visible at search time is a known local-pack ranking input (Whitespark's local ranking factors) — currently absent entirely, on-page and in schema.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-high">High</span></td>
+              <td>549 raw <code>&lt;img&gt;</code> tags vs. 2 <code>next/image</code> usages, across 124 files</td>
+              <td class="ref">Repo-wide grep</td>
+              <td>Mobile Core Web Vitals — LCP especially — directly influence mobile local-search ranking, and "near me" queries are overwhelmingly mobile.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-high">High</span></td>
+              <td>Services description block copy-pasted verbatim across 10+ entries</td>
+              <td class="ref">src/data/servicepage.json:21,311,574,876,1137,1434,1756,2053,5196,5493</td>
+              <td>Duplicate content dilutes the topical-authority credit Google would otherwise give each service page individually.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-medium">Medium</span></td>
+              <td>88 empty <code>alt=""</code> attributes across 48 files</td>
+              <td class="ref">Repo-wide grep</td>
+              <td>Lost image-search and accessibility signal on pages that could otherwise surface in Google Images for queries like "mobile app development company Hyderabad office."</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-medium">Medium</span></td>
+              <td>Hardcoded Search Console verification tag in the shared root layout</td>
+              <td class="ref">src/app/layout.tsx:117</td>
+              <td>Ships on a KrivaTech build too, alongside the env-driven verification meta tag that already exists — two conflicting verification codes on one brand's build.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-medium">Medium</span></td>
+              <td>Dead duplicate <code>metadata</code> export, unused</td>
+              <td class="ref">src/supporting-data/constants.ts:284–332</td>
+              <td>Not live today, but a future edit to the wrong copy would silently do nothing — worth deleting rather than leaving as a trap.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-medium">Medium</span></td>
+              <td>Shared content corpus between lasyaaitech.com and kriva.tech builds</td>
+              <td class="ref">package.json:10–11; constants.ts:37–51</td>
+              <td>If kriva.tech is live and indexed, near-identical service/industry copy under a second canonical domain is a duplicate-content risk. Confirm kriva.tech's live status before prioritizing a fix.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-low">Low</span></td>
+              <td>Stale backup/temp JSON files in <code>src/data</code></td>
+              <td class="ref">careerpage-v1-backup.json, casestudybackup.json, temp-getafreequotepage.json</td>
+              <td>Not served, so not an SEO risk directly — repo hygiene only.</td>
+            </tr>
+            <tr>
+              <td><span class="sev-badge sev-low">Low</span></td>
+              <td>No AggregateRating / review schema</td>
+              <td class="ref">Full-repo grep</td>
+              <td>Correctly absent today since there's nothing real to aggregate yet — becomes a Phase 3 opportunity once GBP reviews accumulate. Never populate this with an estimated or fabricated rating; Google treats that as rich-results spam.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="roadmap" class="wide">
+      <h2>Implementation roadmap</h2>
+      <p class="section-intro">Three phases, each building on the last. Check items off as you ship them — progress is saved in this browser only.</p>
+
+      <article class="phase" id="phase-1">
+        <div class="phase-head">
+          <span class="phase-num">Phase 1</span>
+          <h3 style="margin:0;">Foundation</h3>
+          <span class="phase-when">Weeks 1–2</span>
+        </div>
+        <p class="phase-goal">Goal: give Google the structured local-business signal it currently has no way to read. Every later gain depends on this shipping first.</p>
+
+        <div class="check-list" data-phase="1">
+          <label class="check-item"><input type="checkbox" data-key="p1-1"><span><span class="item-id">1.1</span>Claim / verify the Google Business Profile for the Krishe Sapphire, Madhapur address, if not already done.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p1-2"><span><span class="item-id">1.2</span>Set the GBP primary category (e.g. "Software Company") plus every relevant secondary category — GBP allows up to 9.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p1-3"><span><span class="item-id">1.3</span>Enable GBP's "service area" option alongside your storefront address and add HITEC City, Madhapur, Jubilee Hills, Kondapur and Gachibowli. See the warning in the <a href="#gbp">GBP section</a> before doing this.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p1-4"><span><span class="item-id">1.4</span>Add exact business hours in GBP and mirror them on <code>/contact</code>.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p1-5"><span><span class="item-id">1.5</span>Extend the <code>Organization</code> schema node with address, telephone, geo-coordinates, service area and hours (code below).</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p1-6"><span><span class="item-id">1.6</span>Remove the hardcoded Search Console verification tag in the shared layout; keep only the env-driven one.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p1-7"><span><span class="item-id">1.7</span>Delete the dead duplicate <code>metadata</code> export in <code>constants.ts</code>.</span></label>
+        </div>
+
+        <details class="code-block">
+          <summary>Add LocalBusiness fields to the Organization node <span class="file-path">src/services/SeoService.ts</span></summary>
+          <div class="code-scroll">
+            <button class="copy-btn" type="button" data-copy-target="code-1">Copy</button>
+            <pre id="code-1">static organizationNode = () => ({
+  "@type": ["Organization", "ProfessionalService"],
+  "@id": SeoService.organizationId,
+  name: BRAND,
+  url: SITE,
+  logo: COMPANY_LOGO,
+  image: COMPANY_LOGO,
+  telephone: "+91-8500700657",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "Krishe Sapphire, 7th Floor, South Wing, Hitech City Main Road, Madhapur",
+    addressLocality: "Hyderabad",
+    addressRegion: "Telangana",
+    postalCode: "500081",
+    addressCountry: "IN",
+  },
+  geo: {
+    "@type": "GeoCoordinates",
+    // Replace with the exact coordinates from your GBP dashboard or
+    // Google Maps "What's here" on the office pin — do not guess these.
+    latitude: "17.4483",
+    longitude: "78.3915",
+  },
+  areaServed: [
+    { "@type": "Place", name: "HITEC City, Hyderabad" },
+    { "@type": "Place", name: "Madhapur, Hyderabad" },
+    { "@type": "Place", name: "Jubilee Hills, Hyderabad" },
+    { "@type": "Place", name: "Kondapur, Hyderabad" },
+    { "@type": "Place", name: "Gachibowli, Hyderabad" },
+    { "@type": "City", name: "Hyderabad" },
+  ],
+  openingHoursSpecification: {
+    "@type": "OpeningHoursSpecification",
+    dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    opens: "09:30",
+    closes: "18:30",
+  },
+  sameAs: Object.values(SOCIAL_PROFILE_URLS),
+});</pre>
+          </div>
+          <div class="note-inline" style="margin:0.9rem 1.1rem 1.1rem;">
+            <strong>This doesn't touch remote-delivery targeting.</strong> <code>SeoService.service()</code> still defaults <code>areaServed</code> to <code>"Worldwide"</code> for the services you deliver remotely (SeoService.ts:294) — that's correct and stays as-is. The <code>areaServed</code> added here is scoped to the <em>business itself</em>, which is what local-pack ranking reads.
+          </div>
+        </details>
+      </article>
+
+      <article class="phase" id="phase-2">
+        <div class="phase-head">
+          <span class="phase-num">Phase 2</span>
+          <h3 style="margin:0;">On-page &amp; content</h3>
+          <span class="phase-when">Weeks 3–6</span>
+        </div>
+        <p class="phase-goal">Goal: put HITEC City, Madhapur, Jubilee Hills and Kondapur into real, visible content — titles, headings, one authoritative page — without creating doorway pages that would actively hurt more than help.</p>
+
+        <div class="check-list" data-phase="2">
+          <label class="check-item"><input type="checkbox" data-key="p2-1"><span><span class="item-id">2.1</span>Add a <code>LOCATION_KEYWORDS</code> group to <code>seo-keywords.ts</code> and wire it into the homepage, <code>/about</code>, <code>/contact</code> and the mobile-app / web-development technology pages.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p2-2"><span><span class="item-id">2.2</span>Rewrite the homepage title/description in <code>page-seo.ts</code> to name Hyderabad (example below).</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p2-3"><span><span class="item-id">2.3</span>Work a location line into the homepage H1/subhead in <code>homepage.json</code> — visible copy, not just metadata.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p2-4"><span><span class="item-id">2.4</span>Build <strong>one</strong> authoritative local section — extend <code>/about</code> or add a single <code>/locations/hyderabad</code> page — that genuinely covers the full service area. See the doorway-page warning below.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p2-5"><span><span class="item-id">2.5</span>Add a visible "Serving HITEC City, Madhapur, Jubilee Hills, Kondapur &amp; Gachibowli" line directly under the <code>/contact</code> address block.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p2-6"><span><span class="item-id">2.6</span>De-duplicate the 10&times;-repeated service description block in <code>servicepage.json</code> — write a unique 2–3 sentence description per service.</span></label>
+        </div>
+
+        <div class="warn-callout">
+          <span class="callout-label">Don't do this instead</span>
+          Building four near-identical pages — <code>/locations/hitec-city</code>, <code>/locations/madhapur</code>, <code>/locations/jubilee-hills</code>, <code>/locations/kondapur</code> — with the city name swapped and everything else the same is a <strong>doorway-page pattern</strong>, which Google's spam policy targets directly. It would rank worse than having zero location pages, not better. One strong, detailed page beats four thin clones.
+        </div>
+
+        <details class="code-block">
+          <summary>Add a location keyword group <span class="file-path">src/supporting-data/seo-keywords.ts</span></summary>
+          <div class="code-scroll">
+            <button class="copy-btn" type="button" data-copy-target="code-2">Copy</button>
+            <pre id="code-2">// Add near BRAND_KEYWORDS
+export const LOCATION_KEYWORDS = [
+  "mobile app development company Hyderabad",
+  "website development company Hyderabad",
+  "software development company HITEC City",
+  "app development company Madhapur",
+  "web development company Jubilee Hills",
+  "software company Kondapur",
+  "IT company near HITEC City",
+  "app developers near me Hyderabad",
+];</pre>
+          </div>
+        </details>
+
+        <details class="code-block">
+          <summary>Rewrite the homepage registry entry <span class="file-path">src/supporting-data/page-seo.ts</span></summary>
+          <div class="code-scroll">
+            <button class="copy-btn" type="button" data-copy-target="code-3">Copy</button>
+            <pre id="code-3">"/": {
+  title: "Mobile App &amp; Website Development Company in Hyderabad | LasyaAitech",
+  description:
+    "LasyaAitech builds AI agents, mobile apps and websites from our HITEC City / " +
+    "Madhapur studio in Hyderabad — serving Jubilee Hills, Kondapur and clients " +
+    "worldwide. Get a free project quote.",
+  keywords: buildKeywords(
+    LOCATION_KEYWORDS,
+    SERVICE_KEYWORDS.mobileApps,
+    SERVICE_KEYWORDS.webApps,
+    SERVICE_KEYWORDS.aiAgents,
+    SERVICE_KEYWORDS.aiGeneral,
+    SERVICE_KEYWORDS.dedicatedTeams,
+    INTENT_KEYWORDS.hire
+  ),
+},</pre>
+          </div>
+        </details>
+      </article>
+
+      <article class="phase" id="phase-3">
+        <div class="phase-head">
+          <span class="phase-num">Phase 3</span>
+          <h3 style="margin:0;">Authority, reviews &amp; polish</h3>
+          <span class="phase-when">Weeks 7–12</span>
+        </div>
+        <p class="phase-goal">Goal: earn the signals only time and third parties can give — reviews, citations, backlinks — and clear the Core Web Vitals debt that compounds local rank over the following quarter.</p>
+
+        <div class="check-list" data-phase="3">
+          <label class="check-item"><input type="checkbox" data-key="p3-1"><span><span class="item-id">3.1</span>Ask every closed client for a Google review. Target at least one new review every 18 days — local-pack rank tends to slip past that gap (Sterling Sky's review-velocity research) — and respond to every review within a few days.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p3-2"><span><span class="item-id">3.2</span>Create or claim NAP-consistent profiles on Clutch, GoodFirms, DesignRush, Justdial, Sulekha and IndiaMART, each linking back to lasyaaitech.com.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p3-3"><span><span class="item-id">3.3</span>Once 5+ genuine reviews exist, add <code>AggregateRating</code> schema sourced from your real GBP/Clutch rating — never an estimated number.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p3-4"><span><span class="item-id">3.4</span>Migrate the highest-traffic raw <code>&lt;img&gt;</code> tags (homepage hero, services/industries thumbnails) to <code>next/image</code> first; treat the remaining ~547 as an ongoing budget.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p3-5"><span><span class="item-id">3.5</span>Fill in the 88 empty <code>alt=""</code> attributes, prioritizing <code>/about</code>, <code>/contact</code> and the services/technologies pages.</span></label>
+          <label class="check-item"><input type="checkbox" data-key="p3-6"><span><span class="item-id">3.6</span>Confirm whether kriva.tech is actually live/indexed; if so, differentiate its service copy or <code>noindex</code> the overlapping routes on the lower-priority brand.</span></label>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Directory</th><th>Why it's worth claiming</th></tr></thead>
+            <tbody>
+              <tr><td>Google Business Profile</td><td>Primary local-pack input — see Phase 1.</td></tr>
+              <tr><td>Clutch / GoodFirms / DesignRush</td><td>Dominates "best X development company" SERPs and is increasingly cited inside AI Overviews and ChatGPT/Perplexity answers — a second route to head-term visibility.</td></tr>
+              <tr><td>Justdial / Sulekha / IndiaMART</td><td>India-specific B2B directories that carry real local-citation weight for Hyderabad searches.</td></tr>
+              <tr><td>LinkedIn Company Page</td><td>NAP-consistent citation plus a channel your <code>sameAs</code> schema already references.</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+
+    <section id="gbp">
+      <h2>Google Business Profile: the compliant way to cover four neighborhoods</h2>
+      <div class="callout">
+        <p>Your office is genuinely in Madhapur, on HITEC City Main Road — so those two are straightforward: they're your real address. Jubilee Hills and Kondapur are nearby but are <strong>not</strong> where your office is, and that distinction matters for how you configure this.</p>
+        <p>Google suspends listings that claim a second physical address you don't actually staff. The compliant path — and the one that gets you found in Jubilee Hills and Kondapur searches without risking your listing — is enabling GBP's <strong>service-area</strong> setting on top of your existing storefront address, then adding those neighborhoods as service areas. That's a supported, standard configuration for exactly this situation: one real office, several nearby areas you serve.</p>
+      </div>
+    </section>
+
+    <section id="measurement" class="wide">
+      <h2>Measurement plan</h2>
+      <p class="section-intro">Baselines are marked "unknown" honestly — this session had no GSC, GA4, GBP or SE Ranking access. Capture real numbers on day one of Phase 1 so progress is actually measurable.</p>
+      <div class="table-wrap">
+        <table class="metric-table">
+          <thead><tr><th>Metric</th><th>Type</th><th>Cadence</th><th>Baseline</th><th>Source</th></tr></thead>
+          <tbody>
+            <tr><td>GBP profile views &amp; search appearances</td><td>Leading</td><td>Monthly</td><td>Unknown</td><td>GBP Insights</td></tr>
+            <tr><td>Review count &amp; velocity</td><td>Leading</td><td>Monthly</td><td>Unknown</td><td>GBP</td></tr>
+            <tr><td>Indexed pages naming a target neighborhood</td><td>Leading</td><td>Monthly</td><td>0 (confirmed)</td><td>Search Console / site: search</td></tr>
+            <tr><td>Core Web Vitals "Good" URL share</td><td>Leading</td><td>Monthly</td><td>Unknown</td><td>PageSpeed Insights / GSC CWV report</td></tr>
+            <tr><td>Local 3-pack appearance, 4 target neighborhoods</td><td>Lagging</td><td>Quarterly</td><td>Unknown</td><td>Manual search / SE Ranking once connected</td></tr>
+            <tr><td>Organic rank, "mobile/website development company Hyderabad"</td><td>Lagging</td><td>Quarterly</td><td>Unknown</td><td>Search Console / SE Ranking</td></tr>
+            <tr><td>Organic sessions from Hyderabad-geo traffic</td><td>Lagging</td><td>Quarterly</td><td>Unknown</td><td>GA4, filtered by city</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="se-ranking" class="wide">
+      <h2>Once SE Ranking connects</h2>
+      <p class="section-intro">Authorize the SE Ranking MCP server (<code>/mcp</code> or <code>claude mcp</code> in an interactive Claude Code session), then re-run <code>/seo-skills:seo-plan</code> or the individual skills below — they'll build directly on this audit.</p>
+      <div class="skill-grid">
+        <div class="skill-row"><span class="skill-name">seo-local</span><span class="skill-desc">Local-pack rank tracking for the four target neighborhood queries, plus a formal NAP-consistency scan once GBP is live.</span></div>
+        <div class="skill-row"><span class="skill-name">seo-technical-audit</span><span class="skill-desc">A full crawl-based technical audit — this report was code-based, not a live crawl, and won't catch runtime rendering issues.</span></div>
+        <div class="skill-row"><span class="skill-name">seo-schema</span><span class="skill-desc">Validate the LocalBusiness JSON-LD above against Google's rich-results eligibility once it's deployed.</span></div>
+        <div class="skill-row"><span class="skill-name">seo-competitor-gap-analysis</span><span class="skill-desc">See which keywords the Hyderabad competitors you're actually up against rank for that you don't.</span></div>
+        <div class="skill-row"><span class="skill-name">seo-ai-search-share-of-voice</span><span class="skill-desc">Measure whether ChatGPT, Perplexity or AI Overviews already cite lasyaaitech.com — building on the llms.txt work already in place.</span></div>
+        <div class="skill-row"><span class="skill-name">seo-backlinks-profile</span><span class="skill-desc">Baseline current backlink health before the Phase 3 citation push.</span></div>
+      </div>
+    </section>
+
+    <section id="cleanup">
+      <h2>Cleanup punch-list</h2>
+      <p class="section-intro">Low-severity items — repo hygiene rather than ranking blockers. Batch these into any Phase 1 pull request.</p>
+      <ul class="credit-list">
+        <li>Delete stale backup/temp files no longer referenced: <span class="ref">src/data/careerpage-v1-backup.json, casestudybackup.json, temp-getafreequotepage.json</span></li>
+        <li>Confirm kriva.tech's live/indexed status before deciding whether the shared content corpus needs differentiation.</li>
+        <li>Remove the dead duplicate <code>metadata</code> export once Phase 1 item 1.7 lands. <span class="ref">constants.ts:284–332</span></li>
+      </ul>
+    </section>
+
+    <footer class="doc-footer">
+      Prepared for LasyaAitech from a direct read of the lasyaaitech.com repository. File and line references were correct as of 26 Aug 2026 — re-verify before pasting code if the underlying files have since changed. Checkbox progress is stored only in this browser (<code>localStorage</code>) and isn't shared or synced anywhere.
+    </footer>
+  </main>
+</div>
+
+<script>
+(function () {
+  var STORE_PREFIX = "lat-seo-guide:";
+
+  function safeGet(key) {
+    try { return localStorage.getItem(key); } catch (e) { return null; }
+  }
+  function safeSet(key, value) {
+    try { localStorage.setItem(key, value); } catch (e) {}
+  }
+
+  var checkboxes = Array.prototype.slice.call(document.querySelectorAll('.check-item input[type="checkbox"]'));
+
+  function updateProgress() {
+    var total = checkboxes.length;
+    var done = checkboxes.filter(function (cb) { return cb.checked; }).length;
+    var fill = document.getElementById("progressFill");
+    var text = document.getElementById("progressText");
+    if (fill) fill.style.width = (total ? (done / total * 100) : 0) + "%";
+    if (text) text.textContent = done + " / " + total;
+  }
+
+  checkboxes.forEach(function (cb) {
+    var key = STORE_PREFIX + cb.getAttribute("data-key");
+    var stored = safeGet(key);
+    if (stored === "1") {
+      cb.checked = true;
+      cb.closest(".check-item").classList.add("checked");
+    }
+    cb.addEventListener("change", function () {
+      safeSet(key, cb.checked ? "1" : "0");
+      cb.closest(".check-item").classList.toggle("checked", cb.checked);
+      updateProgress();
+    });
+  });
+  updateProgress();
+
+  var tocToggle = document.getElementById("tocToggle");
+  var toc = document.getElementById("toc");
+  if (tocToggle && toc) {
+    tocToggle.addEventListener("click", function () {
+      toc.classList.toggle("open");
+    });
+  }
+
+  document.querySelectorAll(".copy-btn").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var targetId = btn.getAttribute("data-copy-target");
+      var target = document.getElementById(targetId);
+      if (!target) return;
+      var text = target.textContent;
+      var original = btn.textContent;
+      var done = function () {
+        btn.textContent = "Copied";
+        setTimeout(function () { btn.textContent = original; }, 1400);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(done).catch(function () {});
+      }
+    });
+  });
+})();
+</script>

@@ -1,0 +1,2650 @@
+{
+  "data": {
+    "id": 61,
+    "documentId": "ig4dpvkt8ldero4jnrrk56ye",
+    "createdAt": "2024-12-03T13:53:39.310Z",
+    "updatedAt": "2025-06-16T10:21:32.826Z",
+    "publishedAt": "2025-06-16T10:21:33.098Z",
+    "hero": {
+      "id": 62,
+      "title": "Turn your vision into reality with LasyaAitech  !",
+      "description": "Looking to create a custom web or mobile app, integrate cutting-edge AI, or build a skilled offshore team? Our Hyderabad-based team of world-class developers, working out of HITEC City, Madhapur, is here to make it happen!",
+      "button": [
+        {
+          "id": 1257,
+          "label": "Get A Free Quote",
+          "variant": "primary",
+          "link": "/get-a-free-quote"
+        },
+        {
+          "id": 1258,
+          "label": "Case Studies",
+          "variant": "secondary",
+          "link": "/casestudies"
+        },
+        {
+          "id": 1259,
+          "label": "Let's Talk",
+          "variant": "text",
+          "link": "/contact"
+        }
+      ]
+    },
+    "featured_projects": [
+      {
+        "id": 58,
+        "title": "Featured Projects ",
+        "subtitle": "Here are a few reasons why our customers choose LasyaAitech.",
+        "lapl_case_study_collections": [
+          {
+            "id": 90,
+            "documentId": "twjcdxfwsqzn1fn411scg7jj",
+            "title": "Global hospitality payment solution supporting 250+ payment methods",
+            "description": "iOL Pay is global automated payment acceptance solutions for hospitality industry. It allows hotels and other travel providers to connect to iWTX marketplace. It supports 26 languages, 140 presentment currencies and 250+ payment methods ensuring customer has choices to seamlessly and efficiently complete a transaction.",
+            "categories": "Front-end Development",
+            "createdAt": "2024-12-03T13:25:30.632Z",
+            "updatedAt": "2025-01-28T13:21:28.936Z",
+            "publishedAt": "2025-01-28T13:21:28.974Z",
+            "slug": "iol-pay-hospitality-payment-solution",
+            "image": [
+              {
+                "id": 384,
+                "documentId": "z89r2nrzvzcfogal2uxp32wb",
+                "name": "iol-pay-phone.webp",
+                "alternativeText": null,
+                "caption": null,
+                "width": 424,
+                "height": 325,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".webp",
+                    "url": "/uploads/thumbnail_iol_pay_phone_e42f3f0cfe.webp",
+                    "hash": "thumbnail_iol_pay_phone_e42f3f0cfe",
+                    "mime": "image/webp",
+                    "name": "thumbnail_iol-pay-phone.webp",
+                    "path": null,
+                    "size": 7.45,
+                    "width": 204,
+                    "height": 156,
+                    "sizeInBytes": 7446
+                  }
+                },
+                "hash": "iol_pay_phone_e42f3f0cfe",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "size": 27.97,
+                "url": "/uploads/iol_pay_phone_e42f3f0cfe.webp",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2025-01-28T13:20:59.882Z",
+                "updatedAt": "2025-01-28T13:20:59.882Z",
+                "publishedAt": "2025-01-28T13:20:59.883Z"
+              }
+            ]
+          },
+          {
+            "id": 92,
+            "documentId": "yq7o189kaadbsktedg56wusv",
+            "title": "One of the biggest tabloid portals in US",
+            "description": "The TMZ is of one of the leading tabloid websites. TMZ App provides the full functionality in your pocket. Stay current on the twenty-four-seven exclusives, breaking celebrity stories, sports news, hottest videos, and galleries. Additionally, we’ve made it possible for users to watch 'TMZ Live,' 'TMZ Sports on FS1' clips, and 'TMZ on TV' without leaving the TMZ mobile app.",
+            "categories": "Backend Development",
+            "createdAt": "2024-12-03T14:25:41.447Z",
+            "updatedAt": "2025-01-28T13:29:17.732Z",
+            "publishedAt": "2025-01-28T13:29:17.762Z",
+            "slug": "tmz-one-of-the-biggest-news-portal-in-us",
+            "image": [
+              {
+                "id": 386,
+                "documentId": "pzb31ws1utbn92kdqy2a4rsq",
+                "name": "tmz-phone.webp",
+                "alternativeText": null,
+                "caption": null,
+                "width": 424,
+                "height": 325,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".webp",
+                    "url": "/uploads/thumbnail_tmz_phone_81d4653b8d.webp",
+                    "hash": "thumbnail_tmz_phone_81d4653b8d",
+                    "mime": "image/webp",
+                    "name": "thumbnail_tmz-phone.webp",
+                    "path": null,
+                    "size": 6.78,
+                    "width": 204,
+                    "height": 156,
+                    "sizeInBytes": 6780
+                  }
+                },
+                "hash": "tmz_phone_81d4653b8d",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "size": 23.91,
+                "url": "/uploads/tmz_phone_81d4653b8d.webp",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2025-01-28T13:28:58.190Z",
+                "updatedAt": "2025-01-28T13:28:58.190Z",
+                "publishedAt": "2025-01-28T13:28:58.190Z"
+              }
+            ]
+          },
+          {
+            "id": 150,
+            "documentId": "zeg4y3d2k2jgpq519udnh6ks",
+            "title": "Award-winning e-wallet preferred by global gaming sites",
+            "description": "MuchBetter is a revolutionary payment app. Industry-leading e-wallet lets store, send and receive money securely and quickly. It is the preferred payment app of global gaming sites, providing an alternative to wallets like Neteller, Skrill, Entropay and Ecopayz. It is also welcomed at high street retailers and is a rewarding way to send and receive money from your friends and family for free.",
+            "categories": "Front-end Development",
+            "createdAt": "2024-12-03T13:24:07.496Z",
+            "updatedAt": "2025-06-03T06:16:00.875Z",
+            "publishedAt": "2025-06-03T06:16:00.949Z",
+            "slug": "muchbetter-e-wallet-payment-app",
+            "image": [
+              {
+                "id": 385,
+                "documentId": "hhizh0kildp3fglpc2emjfp5",
+                "name": "much-better-phone.webp",
+                "alternativeText": null,
+                "caption": null,
+                "width": 424,
+                "height": 325,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".webp",
+                    "url": "/uploads/thumbnail_much_better_phone_4eabcbe5a0.webp",
+                    "hash": "thumbnail_much_better_phone_4eabcbe5a0",
+                    "mime": "image/webp",
+                    "name": "thumbnail_much-better-phone.webp",
+                    "path": null,
+                    "size": 5.62,
+                    "width": 204,
+                    "height": 156,
+                    "sizeInBytes": 5620
+                  }
+                },
+                "hash": "much_better_phone_4eabcbe5a0",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "size": 22.55,
+                "url": "/uploads/much_better_phone_4eabcbe5a0.webp",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2025-01-28T13:25:05.543Z",
+                "updatedAt": "2025-01-28T13:25:05.543Z",
+                "publishedAt": "2025-01-28T13:25:05.544Z"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "id": 55,
+      "title": "Your Partner in Digital Transformation Success  ",
+      "description": "Focused on innovation and growth, we craft impactful brand experiences that engage your audience and elevate your business.",
+      "button": {
+        "id": 188,
+        "label": "Trusted & REaliable",
+        "url": ".",
+        "variant": "primary"
+      },
+      "stats": [
+        {
+          "id": 210,
+          "preffix": "+",
+          "number": 14,
+          "text": "years of experience"
+        },
+        {
+          "id": 211,
+          "preffix": "+",
+          "number": 150,
+          "text": "projects completed"
+        },
+        {
+          "id": 212,
+          "preffix": "+",
+          "number": 30,
+          "text": "Happy Clients"
+        }
+      ],
+      "image": [
+        {
+          "id": 20,
+          "documentId": "jr3pypkf3mbzp34bd3n2wcqr",
+          "name": "img-1.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 866,
+          "height": 584,
+          "formats": {
+            "small": {
+              "ext": ".png",
+              "url": "/uploads/small_img_1_460213d937.png",
+              "hash": "small_img_1_460213d937",
+              "mime": "image/png",
+              "name": "small_img-1.png",
+              "path": null,
+              "size": 324.72,
+              "width": 500,
+              "height": 337,
+              "sizeInBytes": 324724
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "/uploads/medium_img_1_460213d937.png",
+              "hash": "medium_img_1_460213d937",
+              "mime": "image/png",
+              "name": "medium_img-1.png",
+              "path": null,
+              "size": 692.15,
+              "width": 750,
+              "height": 506,
+              "sizeInBytes": 692153
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_img_1_460213d937.png",
+              "hash": "thumbnail_img_1_460213d937",
+              "mime": "image/png",
+              "name": "thumbnail_img-1.png",
+              "path": null,
+              "size": 77.97,
+              "width": 231,
+              "height": 156,
+              "sizeInBytes": 77967
+            }
+          },
+          "hash": "img_1_460213d937",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 220.5,
+          "url": "/uploads/img_1_460213d937.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2024-12-06T15:10:38.525Z",
+          "updatedAt": "2024-12-06T15:10:38.525Z",
+          "publishedAt": "2024-12-06T15:10:38.526Z"
+        }
+      ],
+      "image2": [
+        {
+          "id": 21,
+          "documentId": "fq9ev9g73szycmh23aesqqpv",
+          "name": "img-2.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 418,
+          "height": 277,
+          "formats": {
+            "thumbnail": {
+              "ext": ".png",
+              "url": "/uploads/thumbnail_img_2_6d97154939.png",
+              "hash": "thumbnail_img_2_6d97154939",
+              "mime": "image/png",
+              "name": "thumbnail_img-2.png",
+              "path": null,
+              "size": 78.79,
+              "width": 235,
+              "height": 156,
+              "sizeInBytes": 78791
+            }
+          },
+          "hash": "img_2_6d97154939",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 62.83,
+          "url": "/uploads/img_2_6d97154939.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2024-12-06T16:28:16.064Z",
+          "updatedAt": "2024-12-06T16:28:16.064Z",
+          "publishedAt": "2024-12-06T16:28:16.064Z"
+        }
+      ]
+    },
+    "partner": [
+      {
+        "id": 48,
+        "title": "Hire deeply developers at half the cost at Zero risk",
+        "description": "At LasyaAitech, we prioritize building lasting business relationships and assisting in growing your brand, not just delivering a product. Our comprehensive service offerings will enable you to achieve your business goals, smoothly.",
+        "button": {
+          "id": 1261,
+          "label": "Let's Partner UP",
+          "variant": "primary",
+          "link": "."
+        },
+        "stats": {
+          "id": 213,
+          "preffix": "+",
+          "number": 501,
+          "text": "user active/month"
+        }
+      }
+    ],
+    "testimonal": [
+      {
+        "id": 46,
+        "title": "Outstanding Reviews How We Exceed Expectations!  ",
+        "lapl_reviews": [
+          {
+            "id": 15,
+            "documentId": "otaa0axddf709dmxmadsv7xp",
+            "name": "Kathryn Murphy",
+            "role": "CEO of Tech Innovators Inc",
+            "description": "The team's dedication and expertise have transformed our business. Their innovative solutions and outstanding support have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most",
+            "comment": "(For services and support)",
+            "createdAt": "2024-12-03T18:33:19.889Z",
+            "updatedAt": "2024-12-12T09:42:37.580Z",
+            "publishedAt": "2024-12-12T09:42:37.625Z"
+          },
+          {
+            "id": 26,
+            "documentId": "zkqm73dwtnpuwwva0ecogjls",
+            "name": "Emma Johnson",
+            "role": "Founder & Visionary Leader at InnovateTech Solutions",
+            "description": "\"Working with this team has been a game-changer. Their innovative solutions and proactive support have improved our operational efficiency and enhanced our customer experience. Truly a transformative partnership.\"",
+            "comment": "(For services and support)",
+            "createdAt": "2024-12-12T09:43:28.446Z",
+            "updatedAt": "2024-12-21T14:38:33.732Z",
+            "publishedAt": "2024-12-21T14:38:33.753Z"
+          },
+          {
+            "id": 27,
+            "documentId": "yl7yhhdh8xtn3kkgd7jslnfl",
+            "name": "Liam Anderson",
+            "role": "Chief Technology Strategist at BrightWave Technologies",
+            "description": "\"This team’s expertise is unmatched! Their dedication to delivering high-quality solutions has streamlined our workflows, boosted productivity, and helped us achieve greater client satisfaction.\"",
+            "comment": "(For services and support)",
+            "createdAt": "2024-12-12T09:43:42.479Z",
+            "updatedAt": "2024-12-21T14:39:26.120Z",
+            "publishedAt": "2024-12-21T14:39:26.140Z"
+          },
+          {
+            "id": 28,
+            "documentId": "a3kx38wasx2zx2safh8gdt9w",
+            "name": "Sophia Martinez",
+            "role": "Global Operations Head at Nexus Digital",
+            "description": "\"Thanks to their innovative approach and exceptional support, we’ve been able to focus on strategic growth. Their solutions have brought efficiency and ease to our business operations.\"",
+            "comment": "(For services and support)",
+            "createdAt": "2024-12-12T09:43:55.769Z",
+            "updatedAt": "2024-12-21T14:40:02.140Z",
+            "publishedAt": "2024-12-21T14:40:02.214Z"
+          },
+          {
+            "id": 29,
+            "documentId": "wdzlspb4b4f59aemfp334ovk",
+            "name": "Noah Patel",
+            "role": "Executive Director at FutureGrid Innovations",
+            "description": "\"A reliable and visionary team that consistently exceeds expectations. Their commitment to understanding our needs and delivering outstanding results has been invaluable to our growth.\"",
+            "comment": "(For services and support)",
+            "createdAt": "2024-12-12T09:44:10.348Z",
+            "updatedAt": "2024-12-21T14:40:37.080Z",
+            "publishedAt": "2024-12-21T14:40:37.110Z"
+          },
+          {
+            "id": 30,
+            "documentId": "ap7meb25gv4e7vb05brzf1xr",
+            "name": "Olivia Davis",
+            "role": "Head of Strategy at Synergy TechWorks",
+            "description": "\"Their innovative strategies and attention to detail have revolutionized how we operate. With their help, we’ve optimized processes and significantly increased client satisfaction.\"",
+            "comment": "(For services and support)",
+            "createdAt": "2024-12-12T09:44:21.657Z",
+            "updatedAt": "2024-12-21T14:41:08.095Z",
+            "publishedAt": "2024-12-21T14:41:08.110Z"
+          }
+        ],
+        "button": {
+          "id": 1262,
+          "label": "View More TEstimonals",
+          "variant": "primary",
+          "link": "https://www.google.com/"
+        }
+      }
+    ],
+    "home_blog": [
+      {
+        "id": 46,
+        "title": "Our Latest Articles  ",
+        "name": "Evara rose",
+        "date": "2024-12-03",
+        "lapl_blog_collections": [
+          {
+            "id": 144,
+            "documentId": "u1uzcdt6rcsm9g4i7oiehviu",
+            "createdAt": "2024-12-03T13:07:05.240Z",
+            "updatedAt": "2025-02-03T11:21:18.043Z",
+            "publishedAt": "2025-02-03T11:21:18.079Z",
+            "title": "7 Inspiring Proof of Concept Examples & Free Template",
+            "category": "Start Up",
+            "description": "Bringing an innovative product or service to life is exciting, but how do you ensure it will work before committing resources to full-scale development? The answer lies in creating a Proof of Concept (PoC)—a practical way to test an idea’s feasibility before heavy investment.",
+            "slug": "7-inspiring-proof-of-concept-examples-and-free-template",
+            "image": [
+              {
+                "id": 49,
+                "documentId": "px84xmihsrha012kqsmh6nkr",
+                "name": "img-2.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 495,
+                "height": 379,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "/uploads/thumbnail_img_2_9ba1697f3c.png",
+                    "hash": "thumbnail_img_2_9ba1697f3c",
+                    "mime": "image/png",
+                    "name": "thumbnail_img-2.png",
+                    "path": null,
+                    "size": 74.26,
+                    "width": 204,
+                    "height": 156,
+                    "sizeInBytes": 74257
+                  }
+                },
+                "hash": "img_2_9ba1697f3c",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 71.3,
+                "url": "/uploads/img_2_9ba1697f3c.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-12-12T07:36:52.569Z",
+                "updatedAt": "2024-12-12T07:36:52.569Z",
+                "publishedAt": "2024-12-12T07:36:52.571Z"
+              }
+            ],
+            "cta_text": {
+              "id": 1088,
+              "label": "Read More",
+              "variant": "primary",
+              "link": "/blog/7-inspiring-proof-of-concept-examples-and-free-template"
+            },
+            "lapl_blog_detail": {
+              "id": 154,
+              "documentId": "o6mphl65r59i0rqhy1cbfd1c",
+              "createdAt": "2024-12-11T14:43:25.667Z",
+              "updatedAt": "2025-02-02T17:37:25.763Z",
+              "publishedAt": "2025-02-02T17:37:25.861Z",
+              "slug": "7-inspiring-proof-of-concept-examples-and-free-template"
+            }
+          },
+          {
+            "id": 128,
+            "documentId": "o7hl6zw5qi0afcmet5gsourb",
+            "createdAt": "2024-12-03T12:57:42.983Z",
+            "updatedAt": "2025-02-01T10:08:58.743Z",
+            "publishedAt": "2025-02-01T10:08:58.786Z",
+            "title": "Building a High-Performing QA Team for Superior Software Development",
+            "category": "Software Development",
+            "description": "A robust QA team ensures quality and user satisfaction. Learn how to build a team that consistently delivers reliable, high-performing software customized to your needs.",
+            "slug": "building-a-high-performing-qa-team-for-superior-software-development",
+            "image": [
+              {
+                "id": 66,
+                "documentId": "t98x3632n2eoa4yan8lbjygq",
+                "name": "blog3.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "blog3_7317d9b1af",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 31.62,
+                "url": "/uploads/blog3_7317d9b1af.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-12-23T07:08:13.441Z",
+                "updatedAt": "2024-12-23T07:08:13.441Z",
+                "publishedAt": "2024-12-23T07:08:13.442Z"
+              }
+            ],
+            "cta_text": {
+              "id": 1048,
+              "label": "Read More",
+              "variant": "primary",
+              "link": "/blog/building-a-high-performing-qa-team-for-superior-software-development"
+            },
+            "lapl_blog_detail": {
+              "id": 138,
+              "documentId": "ha1sx2atvw44cd3tth5qcl1a",
+              "createdAt": "2025-01-28T10:14:12.602Z",
+              "updatedAt": "2025-02-01T10:09:20.767Z",
+              "publishedAt": "2025-02-01T10:09:20.857Z",
+              "slug": "building-a-high-performing-qa-team-for-superior-software-development"
+            }
+          },
+          {
+            "id": 132,
+            "documentId": "oxcgusqjoggqsqu9ssbc119s",
+            "createdAt": "2024-12-03T13:08:43.371Z",
+            "updatedAt": "2025-02-01T10:21:26.306Z",
+            "publishedAt": "2025-02-01T10:21:26.339Z",
+            "title": "Organize eCommerce Team with Defined Roles Success",
+            "category": "Offshore Development",
+            "description": "A well-organized eCommerce team can revolutionize operations. This guide outlines key roles, departmental functions, and best practices—empowered by LasyaAitech's proven strategies for success",
+            "slug": "organize-e-commerce-team-with-defined-roles-success",
+            "image": [
+              {
+                "id": 68,
+                "documentId": "yszxcd8bptigmw7cfilce8xe",
+                "name": "blog5.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "blog5_526c553b26",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 23.07,
+                "url": "/uploads/blog5_526c553b26.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-12-23T07:21:31.972Z",
+                "updatedAt": "2024-12-23T07:21:31.972Z",
+                "publishedAt": "2024-12-23T07:21:31.972Z"
+              }
+            ],
+            "cta_text": {
+              "id": 1052,
+              "label": "Read More",
+              "variant": "primary",
+              "link": "/blog/organize-e-commerce-team-with-defined-roles-success"
+            },
+            "lapl_blog_detail": {
+              "id": 142,
+              "documentId": "tnqf9m3snjiqwt3bdd8785kx",
+              "createdAt": "2025-01-28T11:25:12.959Z",
+              "updatedAt": "2025-02-01T10:21:53.978Z",
+              "publishedAt": "2025-02-01T10:21:54.085Z",
+              "slug": "organize-e-commerce-team-with-defined-roles-success"
+            }
+          }
+        ]
+      }
+    ],
+    "proffesional": [
+      {
+        "id": 44,
+        "title": "Expert Team Easy to Collaborate With",
+        "description": " LasyaAitech boasts a team of 50+ skilled developers and designers who are not only talented but also highly cooperative and supportive.",
+        "points": {
+          "qualities": [
+            {
+              "title": "Problem Solver"
+            },
+            {
+              "title": "Professional"
+            },
+            {
+              "title": "Self-managed"
+            },
+            {
+              "title": "Experienced"
+            },
+            {
+              "title": "Adaptable"
+            },
+            {
+              "title": "Believes in excellence"
+            }
+          ]
+        },
+        "button": [
+          {
+            "id": 191,
+            "label": "who we are",
+            "url": ".",
+            "variant": "primary"
+          }
+        ]
+      }
+    ],
+    "brands": {
+      "id": 42,
+      "title": "Brands by LasyaAitech Trusted By Enterprises",
+      "description": "We helped these brands turn online assessments into success stories.",
+      "button": [
+        {
+          "id": 1263,
+          "label": "view our partners",
+          "variant": "primary",
+          "link": "https://www.google.com/"
+        }
+      ]
+    },
+    "case_study": {
+      "id": 104,
+      "title": "What we do best",
+      "text": "No Card Required. Cancel Anytime.",
+      "lapl_services": [
+        {
+          "id": 38,
+          "documentId": "cj3a4zmnzz8zz8x5yuitpdty",
+          "createdAt": "2024-12-13T05:32:25.347Z",
+          "updatedAt": "2024-12-21T14:54:34.037Z",
+          "publishedAt": "2024-12-21T14:54:34.054Z",
+          "slug": "staff-augmentation",
+          "title": "Staff Augmentation",
+          "description": "Looking to scale your team effortlessly? Our staff augmentation services deliver top-tier developers and designers who seamlessly integrate with your team, empowering you to achieve your project goals without the delays of traditional hiring. A streamlined, flexible solution to accelerate your business growth.",
+          "categories": "Staff Augmentation",
+          "points": {
+            "services": [
+              {
+                "title": "Hire Developers"
+              },
+              {
+                "title": "Dedicated Team"
+              },
+              {
+                "title": "Team Augmentation"
+              },
+              {
+                "title": "Flexible Co-operation"
+              }
+            ]
+          },
+          "lapl_chips": [
+            {
+              "id": 8,
+              "documentId": "qjtzitivymomlbgo9ij7gkw4",
+              "technology": "JAVASCRIPT",
+              "slug": "hire-javascript-developers",
+              "createdAt": "2024-12-14T07:17:00.715Z",
+              "updatedAt": "2025-01-21T09:42:00.700Z",
+              "publishedAt": "2025-01-21T09:42:00.738Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                },
+                {
+                  "id": 38,
+                  "documentId": "cj3a4zmnzz8zz8x5yuitpdty",
+                  "createdAt": "2024-12-13T05:32:25.347Z",
+                  "updatedAt": "2024-12-21T14:54:34.037Z",
+                  "publishedAt": "2024-12-21T14:54:34.054Z",
+                  "slug": "staff-augmentation",
+                  "title": "Staff Augmentation",
+                  "description": "Looking to scale your team effortlessly? Our staff augmentation services deliver top-tier developers and designers who seamlessly integrate with your team, empowering you to achieve your project goals without the delays of traditional hiring. A streamlined, flexible solution to accelerate your business growth.",
+                  "categories": "Staff Augmentation",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Hire Developers"
+                      },
+                      {
+                        "title": "Dedicated Team"
+                      },
+                      {
+                        "title": "Team Augmentation"
+                      },
+                      {
+                        "title": "Flexible Co-operation"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 30,
+              "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+              "technology": "AI DEVELOPMENT  ",
+              "slug": "hire-ai-developers",
+              "createdAt": "2025-05-31T05:11:22.471Z",
+              "updatedAt": "2025-05-31T05:11:30.391Z",
+              "publishedAt": "2025-05-31T05:11:30.415Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                },
+                {
+                  "id": 38,
+                  "documentId": "cj3a4zmnzz8zz8x5yuitpdty",
+                  "createdAt": "2024-12-13T05:32:25.347Z",
+                  "updatedAt": "2024-12-21T14:54:34.037Z",
+                  "publishedAt": "2024-12-21T14:54:34.054Z",
+                  "slug": "staff-augmentation",
+                  "title": "Staff Augmentation",
+                  "description": "Looking to scale your team effortlessly? Our staff augmentation services deliver top-tier developers and designers who seamlessly integrate with your team, empowering you to achieve your project goals without the delays of traditional hiring. A streamlined, flexible solution to accelerate your business growth.",
+                  "categories": "Staff Augmentation",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Hire Developers"
+                      },
+                      {
+                        "title": "Dedicated Team"
+                      },
+                      {
+                        "title": "Team Augmentation"
+                      },
+                      {
+                        "title": "Flexible Co-operation"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 32,
+              "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+              "technology": "MVP DEVELOPMENT  ",
+              "slug": "mvp-development",
+              "createdAt": "2025-05-31T13:01:29.863Z",
+              "updatedAt": "2025-05-31T13:01:32.647Z",
+              "publishedAt": "2025-05-31T13:01:32.669Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                },
+                {
+                  "id": 38,
+                  "documentId": "cj3a4zmnzz8zz8x5yuitpdty",
+                  "createdAt": "2024-12-13T05:32:25.347Z",
+                  "updatedAt": "2024-12-21T14:54:34.037Z",
+                  "publishedAt": "2024-12-21T14:54:34.054Z",
+                  "slug": "staff-augmentation",
+                  "title": "Staff Augmentation",
+                  "description": "Looking to scale your team effortlessly? Our staff augmentation services deliver top-tier developers and designers who seamlessly integrate with your team, empowering you to achieve your project goals without the delays of traditional hiring. A streamlined, flexible solution to accelerate your business growth.",
+                  "categories": "Staff Augmentation",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Hire Developers"
+                      },
+                      {
+                        "title": "Dedicated Team"
+                      },
+                      {
+                        "title": "Team Augmentation"
+                      },
+                      {
+                        "title": "Flexible Co-operation"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 39,
+              "documentId": "mcheego2en7hz5a13pl71yo5",
+              "technology": "GENERATIVE AI SOLUTIONS",
+              "slug": "generative-ai-solutions",
+              "createdAt": "2025-06-01T13:47:50.388Z",
+              "updatedAt": "2025-06-04T10:25:14.746Z",
+              "publishedAt": "2025-06-04T10:25:14.779Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                },
+                {
+                  "id": 38,
+                  "documentId": "cj3a4zmnzz8zz8x5yuitpdty",
+                  "createdAt": "2024-12-13T05:32:25.347Z",
+                  "updatedAt": "2024-12-21T14:54:34.037Z",
+                  "publishedAt": "2024-12-21T14:54:34.054Z",
+                  "slug": "staff-augmentation",
+                  "title": "Staff Augmentation",
+                  "description": "Looking to scale your team effortlessly? Our staff augmentation services deliver top-tier developers and designers who seamlessly integrate with your team, empowering you to achieve your project goals without the delays of traditional hiring. A streamlined, flexible solution to accelerate your business growth.",
+                  "categories": "Staff Augmentation",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Hire Developers"
+                      },
+                      {
+                        "title": "Dedicated Team"
+                      },
+                      {
+                        "title": "Team Augmentation"
+                      },
+                      {
+                        "title": "Flexible Co-operation"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+          "createdAt": "2024-12-13T06:41:26.150Z",
+          "updatedAt": "2024-12-21T14:56:09.697Z",
+          "publishedAt": "2024-12-21T14:56:09.715Z",
+          "slug": "web-application-development",
+          "title": "Web Application Development",
+          "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+          "categories": "Web App",
+          "points": {
+            "services": [
+              {
+                "title": "Custom Web Application Development"
+              },
+              {
+                "title": "Front-end Development"
+              },
+              {
+                "title": "Back-end Development"
+              },
+              {
+                "title": "Legacy Web App Modernization"
+              },
+              {
+                "title": "Cloud & Cyber Security"
+              }
+            ]
+          },
+          "lapl_chips": [
+            {
+              "id": 8,
+              "documentId": "qjtzitivymomlbgo9ij7gkw4",
+              "technology": "JAVASCRIPT",
+              "slug": "hire-javascript-developers",
+              "createdAt": "2024-12-14T07:17:00.715Z",
+              "updatedAt": "2025-01-21T09:42:00.700Z",
+              "publishedAt": "2025-01-21T09:42:00.738Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                },
+                {
+                  "id": 38,
+                  "documentId": "cj3a4zmnzz8zz8x5yuitpdty",
+                  "createdAt": "2024-12-13T05:32:25.347Z",
+                  "updatedAt": "2024-12-21T14:54:34.037Z",
+                  "publishedAt": "2024-12-21T14:54:34.054Z",
+                  "slug": "staff-augmentation",
+                  "title": "Staff Augmentation",
+                  "description": "Looking to scale your team effortlessly? Our staff augmentation services deliver top-tier developers and designers who seamlessly integrate with your team, empowering you to achieve your project goals without the delays of traditional hiring. A streamlined, flexible solution to accelerate your business growth.",
+                  "categories": "Staff Augmentation",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Hire Developers"
+                      },
+                      {
+                        "title": "Dedicated Team"
+                      },
+                      {
+                        "title": "Team Augmentation"
+                      },
+                      {
+                        "title": "Flexible Co-operation"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+              "technology": "TYPESCRIPT",
+              "slug": "hire-typescript-developers",
+              "createdAt": "2024-12-14T07:36:27.660Z",
+              "updatedAt": "2025-01-21T09:42:14.430Z",
+              "publishedAt": "2025-01-21T09:42:14.461Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 11,
+              "documentId": "i62iv78ae4xldmvr25zmg0r0",
+              "technology": "REACT JS",
+              "slug": "hire-reactjs-developers",
+              "createdAt": "2025-01-21T11:43:18.465Z",
+              "updatedAt": "2025-01-21T11:43:18.465Z",
+              "publishedAt": "2025-01-21T11:43:18.491Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "documentId": "xcbaciueamcuoy0tyktv6rbg",
+              "technology": "NODE JS",
+              "slug": "hire-nodejs-developers",
+              "createdAt": "2025-01-21T11:57:42.867Z",
+              "updatedAt": "2025-01-21T11:57:42.867Z",
+              "publishedAt": "2025-01-21T11:57:42.888Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 30,
+              "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+              "technology": "AI DEVELOPMENT  ",
+              "slug": "hire-ai-developers",
+              "createdAt": "2025-05-31T05:11:22.471Z",
+              "updatedAt": "2025-05-31T05:11:30.391Z",
+              "publishedAt": "2025-05-31T05:11:30.415Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                },
+                {
+                  "id": 38,
+                  "documentId": "cj3a4zmnzz8zz8x5yuitpdty",
+                  "createdAt": "2024-12-13T05:32:25.347Z",
+                  "updatedAt": "2024-12-21T14:54:34.037Z",
+                  "publishedAt": "2024-12-21T14:54:34.054Z",
+                  "slug": "staff-augmentation",
+                  "title": "Staff Augmentation",
+                  "description": "Looking to scale your team effortlessly? Our staff augmentation services deliver top-tier developers and designers who seamlessly integrate with your team, empowering you to achieve your project goals without the delays of traditional hiring. A streamlined, flexible solution to accelerate your business growth.",
+                  "categories": "Staff Augmentation",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Hire Developers"
+                      },
+                      {
+                        "title": "Dedicated Team"
+                      },
+                      {
+                        "title": "Team Augmentation"
+                      },
+                      {
+                        "title": "Flexible Co-operation"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 32,
+              "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+              "technology": "MVP DEVELOPMENT  ",
+              "slug": "mvp-development",
+              "createdAt": "2025-05-31T13:01:29.863Z",
+              "updatedAt": "2025-05-31T13:01:32.647Z",
+              "publishedAt": "2025-05-31T13:01:32.669Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                },
+                {
+                  "id": 38,
+                  "documentId": "cj3a4zmnzz8zz8x5yuitpdty",
+                  "createdAt": "2024-12-13T05:32:25.347Z",
+                  "updatedAt": "2024-12-21T14:54:34.037Z",
+                  "publishedAt": "2024-12-21T14:54:34.054Z",
+                  "slug": "staff-augmentation",
+                  "title": "Staff Augmentation",
+                  "description": "Looking to scale your team effortlessly? Our staff augmentation services deliver top-tier developers and designers who seamlessly integrate with your team, empowering you to achieve your project goals without the delays of traditional hiring. A streamlined, flexible solution to accelerate your business growth.",
+                  "categories": "Staff Augmentation",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Hire Developers"
+                      },
+                      {
+                        "title": "Dedicated Team"
+                      },
+                      {
+                        "title": "Team Augmentation"
+                      },
+                      {
+                        "title": "Flexible Co-operation"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 39,
+              "documentId": "mcheego2en7hz5a13pl71yo5",
+              "technology": "GENERATIVE AI SOLUTIONS",
+              "slug": "generative-ai-solutions",
+              "createdAt": "2025-06-01T13:47:50.388Z",
+              "updatedAt": "2025-06-04T10:25:14.746Z",
+              "publishedAt": "2025-06-04T10:25:14.779Z",
+              "lapl_services": [
+                {
+                  "id": 39,
+                  "documentId": "ddzy8pgg3j5tjgqj7z8oogt5",
+                  "createdAt": "2024-12-13T06:41:26.150Z",
+                  "updatedAt": "2024-12-21T14:56:09.697Z",
+                  "publishedAt": "2024-12-21T14:56:09.715Z",
+                  "slug": "web-application-development",
+                  "title": "Web Application Development",
+                  "description": "With extensive expertise in web development, we provide comprehensive end-to-end web application solutions. Choose the right partner and let us elevate your web application to new heights.",
+                  "categories": "Web App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Custom Web Application Development"
+                      },
+                      {
+                        "title": "Front-end Development"
+                      },
+                      {
+                        "title": "Back-end Development"
+                      },
+                      {
+                        "title": "Legacy Web App Modernization"
+                      },
+                      {
+                        "title": "Cloud & Cyber Security"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 9,
+                      "documentId": "iqt6yxd0brg5bduf2lrkj6o4",
+                      "technology": "TYPESCRIPT",
+                      "slug": "hire-typescript-developers",
+                      "createdAt": "2024-12-14T07:36:27.660Z",
+                      "updatedAt": "2025-01-21T09:42:14.430Z",
+                      "publishedAt": "2025-01-21T09:42:14.461Z"
+                    },
+                    {
+                      "id": 11,
+                      "documentId": "i62iv78ae4xldmvr25zmg0r0",
+                      "technology": "REACT JS",
+                      "slug": "hire-reactjs-developers",
+                      "createdAt": "2025-01-21T11:43:18.465Z",
+                      "updatedAt": "2025-01-21T11:43:18.465Z",
+                      "publishedAt": "2025-01-21T11:43:18.491Z"
+                    },
+                    {
+                      "id": 13,
+                      "documentId": "xcbaciueamcuoy0tyktv6rbg",
+                      "technology": "NODE JS",
+                      "slug": "hire-nodejs-developers",
+                      "createdAt": "2025-01-21T11:57:42.867Z",
+                      "updatedAt": "2025-01-21T11:57:42.867Z",
+                      "publishedAt": "2025-01-21T11:57:42.888Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                },
+                {
+                  "id": 38,
+                  "documentId": "cj3a4zmnzz8zz8x5yuitpdty",
+                  "createdAt": "2024-12-13T05:32:25.347Z",
+                  "updatedAt": "2024-12-21T14:54:34.037Z",
+                  "publishedAt": "2024-12-21T14:54:34.054Z",
+                  "slug": "staff-augmentation",
+                  "title": "Staff Augmentation",
+                  "description": "Looking to scale your team effortlessly? Our staff augmentation services deliver top-tier developers and designers who seamlessly integrate with your team, empowering you to achieve your project goals without the delays of traditional hiring. A streamlined, flexible solution to accelerate your business growth.",
+                  "categories": "Staff Augmentation",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Hire Developers"
+                      },
+                      {
+                        "title": "Dedicated Team"
+                      },
+                      {
+                        "title": "Team Augmentation"
+                      },
+                      {
+                        "title": "Flexible Co-operation"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 8,
+                      "documentId": "qjtzitivymomlbgo9ij7gkw4",
+                      "technology": "JAVASCRIPT",
+                      "slug": "hire-javascript-developers",
+                      "createdAt": "2024-12-14T07:17:00.715Z",
+                      "updatedAt": "2025-01-21T09:42:00.700Z",
+                      "publishedAt": "2025-01-21T09:42:00.738Z"
+                    },
+                    {
+                      "id": 30,
+                      "documentId": "eaj82sy3o0bm2e62q6tid5qb",
+                      "technology": "AI DEVELOPMENT  ",
+                      "slug": "hire-ai-developers",
+                      "createdAt": "2025-05-31T05:11:22.471Z",
+                      "updatedAt": "2025-05-31T05:11:30.391Z",
+                      "publishedAt": "2025-05-31T05:11:30.415Z"
+                    },
+                    {
+                      "id": 32,
+                      "documentId": "b1wcumg9rhw7uvku6bx0h1uo",
+                      "technology": "MVP DEVELOPMENT  ",
+                      "slug": "mvp-development",
+                      "createdAt": "2025-05-31T13:01:29.863Z",
+                      "updatedAt": "2025-05-31T13:01:32.647Z",
+                      "publishedAt": "2025-05-31T13:01:32.669Z"
+                    },
+                    {
+                      "id": 39,
+                      "documentId": "mcheego2en7hz5a13pl71yo5",
+                      "technology": "GENERATIVE AI SOLUTIONS",
+                      "slug": "generative-ai-solutions",
+                      "createdAt": "2025-06-01T13:47:50.388Z",
+                      "updatedAt": "2025-06-04T10:25:14.746Z",
+                      "publishedAt": "2025-06-04T10:25:14.779Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "documentId": "qr3x4qgc7riuqvra745iifr6",
+          "createdAt": "2024-12-13T06:43:17.123Z",
+          "updatedAt": "2024-12-21T15:00:19.082Z",
+          "publishedAt": "2024-12-21T15:00:19.105Z",
+          "slug": "mobile-application-development",
+          "title": "Mobile Application Development",
+          "description": "Bring your mobile app idea to life with precision and expertise. Our skilled team ensures the perfect solution to turn your vision into a successful, fully functional reality. We harness the latest technologies and industry best practices to create seamless, user-friendly apps that deliver outstanding performance.",
+          "categories": "Mobile App",
+          "points": {
+            "services": [
+              {
+                "title": "Android App Development"
+              },
+              {
+                "title": "iOS App Development"
+              },
+              {
+                "title": "Cross-Platform Development"
+              }
+            ]
+          },
+          "lapl_chips": [
+            {
+              "id": 15,
+              "documentId": "r7leyak4hqy1tgdqe75wxj2u",
+              "technology": "React Native",
+              "slug": "hire-react-native-developer",
+              "createdAt": "2025-01-21T13:31:34.201Z",
+              "updatedAt": "2025-01-21T13:31:34.201Z",
+              "publishedAt": "2025-01-21T13:31:34.225Z",
+              "lapl_services": [
+                {
+                  "id": 40,
+                  "documentId": "qr3x4qgc7riuqvra745iifr6",
+                  "createdAt": "2024-12-13T06:43:17.123Z",
+                  "updatedAt": "2024-12-21T15:00:19.082Z",
+                  "publishedAt": "2024-12-21T15:00:19.105Z",
+                  "slug": "mobile-application-development",
+                  "title": "Mobile Application Development",
+                  "description": "Bring your mobile app idea to life with precision and expertise. Our skilled team ensures the perfect solution to turn your vision into a successful, fully functional reality. We harness the latest technologies and industry best practices to create seamless, user-friendly apps that deliver outstanding performance.",
+                  "categories": "Mobile App",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Android App Development"
+                      },
+                      {
+                        "title": "iOS App Development"
+                      },
+                      {
+                        "title": "Cross-Platform Development"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 15,
+                      "documentId": "r7leyak4hqy1tgdqe75wxj2u",
+                      "technology": "React Native",
+                      "slug": "hire-react-native-developer",
+                      "createdAt": "2025-01-21T13:31:34.201Z",
+                      "updatedAt": "2025-01-21T13:31:34.201Z",
+                      "publishedAt": "2025-01-21T13:31:34.225Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "documentId": "rrhg8koj7371p2d7bbcnnqrq",
+          "createdAt": "2024-12-13T06:44:34.202Z",
+          "updatedAt": "2024-12-21T15:01:27.200Z",
+          "publishedAt": "2024-12-21T15:01:27.218Z",
+          "slug": "ui-ux-design-services",
+          "title": "UI/UX Design Services",
+          "description": "Transform your UI/UX ideas into seamless and visually captivating experiences with our expert design team. We blend creativity and technical expertise to craft designs that not only captivate your users but also enhance usability. At LasyaAitech, we focus on delivering intuitive, aesthetically pleasing interfaces that provide a delightful user experience.",
+          "categories": "UI/UX Design",
+          "points": {
+            "services": [
+              {
+                "title": "Wireframing"
+              },
+              {
+                "title": "Prototype Design"
+              },
+              {
+                "title": "Product Design"
+              },
+              {
+                "title": "UX Consulting"
+              }
+            ]
+          },
+          "lapl_chips": [
+            {
+              "id": 28,
+              "documentId": "p8402etmywimwfuwqa5f6uq6",
+              "technology": "FRONTEND DEVELOPMENT",
+              "slug": "frontend-development-services",
+              "createdAt": "2025-02-10T06:11:04.508Z",
+              "updatedAt": "2025-02-10T06:16:03.592Z",
+              "publishedAt": "2025-02-10T06:16:03.625Z",
+              "lapl_services": [
+                {
+                  "id": 41,
+                  "documentId": "rrhg8koj7371p2d7bbcnnqrq",
+                  "createdAt": "2024-12-13T06:44:34.202Z",
+                  "updatedAt": "2024-12-21T15:01:27.200Z",
+                  "publishedAt": "2024-12-21T15:01:27.218Z",
+                  "slug": "ui-ux-design-services",
+                  "title": "UI/UX Design Services",
+                  "description": "Transform your UI/UX ideas into seamless and visually captivating experiences with our expert design team. We blend creativity and technical expertise to craft designs that not only captivate your users but also enhance usability. At LasyaAitech, we focus on delivering intuitive, aesthetically pleasing interfaces that provide a delightful user experience.",
+                  "categories": "UI/UX Design",
+                  "points": {
+                    "services": [
+                      {
+                        "title": "Wireframing"
+                      },
+                      {
+                        "title": "Prototype Design"
+                      },
+                      {
+                        "title": "Product Design"
+                      },
+                      {
+                        "title": "UX Consulting"
+                      }
+                    ]
+                  },
+                  "lapl_chips": [
+                    {
+                      "id": 28,
+                      "documentId": "p8402etmywimwfuwqa5f6uq6",
+                      "technology": "FRONTEND DEVELOPMENT",
+                      "slug": "frontend-development-services",
+                      "createdAt": "2025-02-10T06:11:04.508Z",
+                      "updatedAt": "2025-02-10T06:16:03.592Z",
+                      "publishedAt": "2025-02-10T06:16:03.625Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "documentId": "ie2ug9qshqvoyi0mc7s45wtt",
+          "createdAt": "2024-12-13T06:46:22.531Z",
+          "updatedAt": "2024-12-21T14:48:22.182Z",
+          "publishedAt": "2024-12-21T14:48:22.207Z",
+          "slug": "startup-services",
+          "title": "Startup Services",
+          "description": "Ready to transform your startup idea into a successful product? Our expert development services are designed to bring your vision to life. As your trusted tech partner, we provide the solutions and expertise to turn your startup dreams into reality.",
+          "categories": "Startup Services",
+          "points": {
+            "services": [
+              {
+                "title": "Prototype Design"
+              },
+              {
+                "title": "MVP Development"
+              },
+              {
+                "title": "Startup Product Development"
+              },
+              {
+                "title": "CTO as a Service"
+              },
+              {
+                "title": "QA as a Service"
+              }
+            ]
+          },
+          "lapl_chips": []
+        },
+        {
+          "id": 34,
+          "documentId": "kv7r9dh27adklixx4il9jggd",
+          "createdAt": "2024-12-13T06:47:31.021Z",
+          "updatedAt": "2024-12-21T14:39:06.896Z",
+          "publishedAt": "2024-12-21T14:39:06.921Z",
+          "slug": "ai-ml-iot-development",
+          "title": "AI, ML & IOT Development",
+          "description": "Seamlessly integrate AI, ML, and IoT into your projects with our expert development services. We specialize in building intelligent solutions that leverage data, adapt through learning, and ensure smooth connectivity across devices.",
+          "categories": "AI, ML & IoT ",
+          "points": {
+            "services": [
+              {
+                "title": "Custom AI Chatbot Development"
+              },
+              {
+                "title": "Advanced Data Analytics"
+              },
+              {
+                "title": "Robotic Process Automation (RPA)"
+              },
+              {
+                "title": "AI & ML Application and Software Solutions"
+              },
+              {
+                "title": "AI Integration Services"
+              }
+            ]
+          },
+          "lapl_chips": []
+        }
+      ]
+    },
+    "seo": [
+      {
+        "id": 755,
+        "meta_title": "LasyaAitech - Leading Software Development Company | Custom Solutions for Your Business",
+        "meta_description": "LasyaAitech offers cutting-edge software development services, including web and mobile app development, full-stack solutions, and expert consulting to help businesses grow with innovative and scalable digital solutions.",
+        "meta_keywords": "software development, web development, mobile app development, technology solutions, software solutions, business technology, custom software, IT consulting, full-stack development, digital transformation, innovative software services",
+        "meta_image": [
+          {
+            "id": 703,
+            "documentId": "l6k2ykl945xmao2vpktozuq6",
+            "name": "img-3 (1).png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 638,
+            "height": 415,
+            "formats": {
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_img_3_1_c43b242737.png",
+                "hash": "small_img_3_1_c43b242737",
+                "mime": "image/png",
+                "name": "small_img-3 (1).png",
+                "path": null,
+                "size": 94.89,
+                "width": 500,
+                "height": 325,
+                "sizeInBytes": 94885
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_img_3_1_c43b242737.png",
+                "hash": "thumbnail_img_3_1_c43b242737",
+                "mime": "image/png",
+                "name": "thumbnail_img-3 (1).png",
+                "path": null,
+                "size": 33.57,
+                "width": 240,
+                "height": 156,
+                "sizeInBytes": 33574
+              }
+            },
+            "hash": "img_3_1_c43b242737",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 33.89,
+            "url": "/uploads/img_3_1_c43b242737.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2025-01-30T07:11:15.803Z",
+            "updatedAt": "2025-01-30T07:11:15.803Z",
+            "publishedAt": "2025-01-30T07:11:15.803Z"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {}
+}

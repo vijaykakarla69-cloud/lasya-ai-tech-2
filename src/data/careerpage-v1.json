@@ -1,0 +1,556 @@
+{
+  "job_roles": [
+    {
+      "role_id": "devops-engineer-cloud-infrastructure-specialist",
+      "role_title": "DevOps Engineer (5-6 Years Experience) – Cloud Infrastructure & Automation Specialist",
+      "role_level": "Mid-Level",
+      "experience_range": "5-6 years",
+      "work_mode": "Hybrid / Remote",
+      "career_sections": [
+        {
+          "id": "opportunity",
+          "title": "Your Opportunity",
+          "heading": "Role Overview",
+          "description": "Join us as a DevOps Engineer where you will play a critical role in building, scaling, and maintaining robust infrastructure systems. This role sits at the intersection of development and operations, enabling faster releases, reliable systems, and seamless user experiences. You will work on modern cloud platforms, implement automation, and ensure high availability and performance across our systems. In our fast-paced startup environment, your work directly impacts system reliability, scalability, and engineering velocity.",
+          "key_features": [
+            {
+              "title": "What You'll Do",
+              "description": "• Design, implement, and manage scalable cloud infrastructure\n• Build and maintain CI/CD pipelines for rapid and reliable deployments\n• Automate infrastructure provisioning using IaC tools\n• Monitor system performance, uptime, and reliability\n• Troubleshoot production issues and optimize system performance\n• Collaborate with development teams to improve deployment processes"
+            },
+            {
+              "title": "Why This Role Is Exciting",
+              "description": "• Work on cutting-edge cloud and DevOps technologies\n• High ownership of infrastructure and system reliability\n• Direct impact on product scalability and performance\n• Opportunity to design systems from ground up\n• Fast-paced environment with real-time problem solving\n• Path to evolve into DevOps Lead, Cloud Architect, or SRE"
+            }
+          ]
+        },
+        {
+          "id": "requirements",
+          "title": "Who Can Apply",
+          "heading": "Required Skills",
+          "description": "We are looking for someone with strong hands-on experience in DevOps practices, cloud infrastructure, and automation.",
+          "key_features": [
+            {
+              "title": "Core Skills",
+              "description": "• Strong experience with cloud platforms (AWS, Azure, or GCP)\n• Proficiency in CI/CD tools and pipelines\n• Experience with Infrastructure as Code (Terraform, CloudFormation)\n• Strong understanding of Linux systems and networking\n• Experience with containerization (Docker) and orchestration (Kubernetes)\n• Problem-solving mindset with debugging and troubleshooting skills\n• Strong understanding of system design, scalability, and reliability"
+            },
+            {
+              "title": "Tool Knowledge",
+              "description": "• CI/CD tools (Jenkins, GitHub Actions, GitLab CI)\n• Container tools (Docker, Kubernetes)\n• Monitoring tools (Prometheus, Grafana, ELK stack)\n• Version control systems (Git)\n• Scripting languages (Bash, Python)\n• Bonus: Experience with security best practices and DevSecOps"
+            }
+          ]
+        },
+        {
+          "id": "responsibilities",
+          "title": "Your Responsibilities",
+          "heading": "What You’ll Work On",
+          "description": "Your work will focus on infrastructure automation, deployment pipelines, system monitoring, and improving engineering productivity.",
+          "key_features": [
+            {
+              "title": "Infrastructure & Cloud Management",
+              "description": "• Design and manage cloud infrastructure for scalability and reliability\n• Optimize infrastructure costs and performance\n• Implement high availability and disaster recovery strategies\n• Manage networking, load balancing, and storage systems\n• Ensure infrastructure security and compliance"
+            },
+            {
+              "title": "CI/CD & Automation",
+              "description": "• Build and maintain CI/CD pipelines for multiple environments\n• Automate build, test, and deployment workflows\n• Reduce manual intervention through automation\n• Ensure fast and reliable release cycles\n• Implement rollback and fail-safe deployment strategies"
+            },
+            {
+              "title": "Monitoring & Reliability",
+              "description": "• Set up monitoring, alerting, and logging systems\n• Track system metrics, uptime, and performance\n• Identify and resolve bottlenecks proactively\n• Ensure system reliability and availability (SLA/SLO)\n• Perform root cause analysis for incidents"
+            },
+            {
+              "title": "Security & Compliance",
+              "description": "• Implement security best practices across infrastructure\n• Manage access control and secrets management\n• Ensure compliance with industry standards\n• Conduct vulnerability assessments and fixes\n• Work towards DevSecOps practices"
+            },
+            {
+              "title": "Collaboration & Enablement",
+              "description": "• Work closely with developers to streamline deployments\n• Support teams in debugging production issues\n• Improve developer experience and productivity\n• Document processes, architectures, and best practices\n• Contribute to engineering culture and standards"
+            }
+          ]
+        },
+        {
+          "id": "learning",
+          "title": "What You Will Learn",
+          "heading": "Your Learning Journey",
+          "description": "This role offers deep exposure to modern DevOps practices, scalable architecture, and cloud-native technologies.",
+          "key_features": [
+            {
+              "title": "Cloud & Infrastructure Mastery",
+              "description": "• Advanced cloud architecture and design patterns\n• Infrastructure as Code best practices\n• High availability and distributed systems\n• Cost optimization strategies in cloud environments\n• Multi-cloud and hybrid infrastructure setups"
+            },
+            {
+              "title": "Automation & DevOps Excellence",
+              "description": "• Advanced CI/CD pipeline design\n• Automation frameworks and tools\n• Container orchestration and scaling strategies\n• Release engineering and deployment strategies\n• Infrastructure monitoring and alerting systems"
+            },
+            {
+              "title": "Security & Reliability Engineering",
+              "description": "• DevSecOps practices and secure deployments\n• Reliability engineering (SRE principles)\n• Incident management and root cause analysis\n• System resilience and fault tolerance\n• Observability and logging strategies"
+            },
+            {
+              "title": "Startup Engineering Experience",
+              "description": "• Building systems that scale from 0 → 1 → 100\n• Handling real-world production challenges\n• Making infrastructure decisions under ambiguity\n• Collaborating across fast-moving teams\n• Direct impact on product performance and growth"
+            }
+          ]
+        },
+        {
+          "id": "growth",
+          "title": "Growth & Development",
+          "heading": "Your Career Path",
+          "description": "This role is designed to accelerate your growth in infrastructure, cloud, and system reliability engineering.",
+          "key_features": [
+            {
+              "title": "Skill Growth",
+              "description": "• Master cloud-native technologies\n• Build expertise in scalable system design\n• Strengthen automation and scripting skills\n• Gain deep understanding of system reliability\n• Develop leadership in DevOps practices"
+            },
+            {
+              "title": "Career Development",
+              "description": "• Senior DevOps Engineer\n• Site Reliability Engineer (SRE)\n• Cloud Architect\n• DevOps Lead / Engineering Manager\n• Platform Engineer\n• Infrastructure Architect"
+            }
+          ]
+        },
+        {
+          "id": "benefits",
+          "title": "Benefits & Perks",
+          "heading": "What We Offer",
+          "description": "A growth-driven environment with strong engineering culture and ownership.",
+          "key_features": [
+            {
+              "title": "Perks",
+              "description": "• Flexible work environment (remote-friendly)\n• Access to latest DevOps tools and platforms\n• Learning budget for certifications and courses\n• High ownership of infrastructure decisions\n• Opportunity to lead system design initiatives\n• Work on scalable and impactful systems"
+            },
+            {
+              "title": "Additional Benefits",
+              "description": "• Competitive salary\n• Performance-based bonuses\n• Fast career growth opportunities\n• Access to premium cloud and monitoring tools\n• Collaborative engineering culture"
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "title": "Work Environment",
+          "heading": "About Our Startup",
+          "description": "Be part of a fast-moving engineering-driven startup focused on scalability, performance, and innovation.",
+          "key_features": [
+            {
+              "title": "Engineering Culture",
+              "description": "• Automation-first mindset\n• Strong focus on reliability and performance\n• Continuous improvement and experimentation\n• Ownership-driven development culture\n• Open and transparent communication"
+            },
+            {
+              "title": "Team Environment",
+              "description": "• Collaborative and highly skilled engineering team\n• Strong knowledge-sharing culture\n• Freedom to innovate and implement ideas\n• Supportive leadership and mentorship\n• Focus on learning and growth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role_id": "qa-engineer-quality-assurance-specialist",
+      "role_title": "QA Engineer (2–3 Years Experience) – Quality Assurance & Testing Specialist",
+      "role_level": "Junior / Mid-Level",
+      "experience_range": "2-3 years",
+      "work_mode": "Hybrid / Remote",
+      "career_sections": [
+        {
+          "id": "opportunity",
+          "title": "Your Opportunity",
+          "heading": "Role Overview",
+          "description": "Join us as a QA Engineer where you will play a key role in ensuring product quality, reliability, and performance. This role is ideal for professionals with 2–3 years of experience who enjoy identifying issues, improving systems, and ensuring seamless user experiences. You will work closely with product and engineering teams in a fast-paced startup where your work directly impacts customer satisfaction.",
+          "key_features": [
+            {
+              "title": "What You'll Do",
+              "description": "• Execute manual and automated test cases across applications\n• Identify, document, and track bugs effectively\n• Collaborate with developers to resolve issues\n• Perform regression, functional, and UI testing\n• Ensure high-quality releases across environments\n• Contribute to improving testing processes"
+            },
+            {
+              "title": "Why This Role Is Exciting",
+              "description": "• Direct impact on product quality and user experience\n• Work closely with product, design, and engineering teams\n• Opportunity to grow into automation and SDET roles\n• Exposure to real-world testing challenges\n• Fast-paced learning and execution environment\n• Clear path toward QA Lead or Automation Engineer"
+            }
+          ]
+        },
+        {
+          "id": "requirements",
+          "title": "Who Can Apply",
+          "heading": "Required Skills",
+          "description": "We are looking for someone with 2–3 years of hands-on experience in software testing and quality assurance.",
+          "key_features": [
+            {
+              "title": "Core Skills",
+              "description": "• Strong understanding of QA methodologies and testing lifecycle\n• Experience in manual testing and basic automation\n• Ability to write clear, structured test cases and test plans\n• Good analytical and debugging skills\n• Strong attention to detail\n• Understanding of SDLC and Agile workflows"
+            },
+            {
+              "title": "Tool Knowledge",
+              "description": "• Testing tools (Selenium, Cypress – basic knowledge)\n• Bug tracking tools (Jira, Bugzilla)\n• API testing tools (Postman)\n• Version control systems (Git)\n• Bonus: Basic scripting knowledge (JavaScript/Python)"
+            }
+          ]
+        },
+        {
+          "id": "responsibilities",
+          "title": "Your Responsibilities",
+          "heading": "What You’ll Work On",
+          "description": "You will focus on ensuring product quality through testing, validation, and collaboration across teams.",
+          "key_features": [
+            {
+              "title": "Testing & Validation",
+              "description": "• Execute functional, regression, and integration tests\n• Validate UI/UX across devices and platforms\n• Ensure application stability and performance\n• Perform cross-browser and cross-device testing\n• Maintain high-quality release standards"
+            },
+            {
+              "title": "Bug Tracking & Reporting",
+              "description": "• Identify, log, and track defects efficiently\n• Collaborate with developers to resolve issues\n• Prioritize bugs based on severity and impact\n• Retest fixes and ensure closure\n• Maintain detailed test documentation"
+            },
+            {
+              "title": "Automation & Process Improvement",
+              "description": "• Contribute to automation testing initiatives\n• Improve existing testing workflows\n• Suggest quality improvements proactively\n• Participate in sprint planning and reviews\n• Ensure adherence to QA best practices"
+            },
+            {
+              "title": "Collaboration & Communication",
+              "description": "• Work closely with product and engineering teams\n• Participate in requirement discussions\n• Provide feedback on usability and edge cases\n• Communicate testing progress clearly\n• Support cross-functional teams in quality assurance"
+            },
+            {
+              "title": "Quality Ownership",
+              "description": "• Take ownership of product quality\n• Ensure releases meet defined standards\n• Monitor defects and recurring issues\n• Help build a quality-first mindset\n• Contribute to continuous improvement culture"
+            }
+          ]
+        },
+        {
+          "id": "learning",
+          "title": "What You Will Learn",
+          "heading": "Your Learning Journey",
+          "description": "This role will help you build strong foundations in testing and evolve into advanced QA and automation roles.",
+          "key_features": [
+            {
+              "title": "Testing & Automation Mastery",
+              "description": "• Advanced testing strategies and frameworks\n• Automation tools and scripting\n• API and performance testing basics\n• CI/CD integration with testing\n• Test optimization techniques"
+            },
+            {
+              "title": "Quality & Product Thinking",
+              "description": "• Understanding user experience and edge cases\n• Improving product reliability and usability\n• Root cause analysis techniques\n• Data-driven quality decisions\n• Cross-functional collaboration"
+            },
+            {
+              "title": "Startup Learning Experience",
+              "description": "• Fast-paced product development cycles\n• Handling real-world bugs and production issues\n• Prioritization under pressure\n• Direct exposure to product decisions\n• Ownership of testing processes"
+            }
+          ]
+        },
+        {
+          "id": "growth",
+          "title": "Growth & Development",
+          "heading": "Your Career Path",
+          "description": "This role is designed to help you grow into advanced QA and automation roles.",
+          "key_features": [
+            {
+              "title": "Skill Growth",
+              "description": "• Build expertise in automation testing\n• Strengthen debugging and analytical skills\n• Learn advanced QA frameworks\n• Improve communication and reporting skills\n• Develop strong product thinking"
+            },
+            {
+              "title": "Career Development",
+              "description": "• SDET (Software Development Engineer in Test)\n• Automation Engineer\n• QA Lead\n• Product Quality Specialist\n• Engineering Quality Manager"
+            }
+          ]
+        },
+        {
+          "id": "benefits",
+          "title": "Benefits & Perks",
+          "heading": "What We Offer",
+          "description": "A growth-oriented environment focused on learning, ownership, and impact.",
+          "key_features": [
+            {
+              "title": "Perks",
+              "description": "• Flexible working environment\n• Learning and certification support\n• Exposure to modern testing tools\n• High ownership of quality initiatives\n• Opportunity to grow into automation roles\n• Real impact on product success"
+            },
+            {
+              "title": "Additional Benefits",
+              "description": "• Competitive salary\n• Performance bonuses\n• Fast career growth\n• Supportive team environment\n• Access to modern tools and platforms"
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "title": "Work Environment",
+          "heading": "About Our Startup",
+          "description": "Join a fast-paced startup where quality, speed, and innovation drive everything we build.",
+          "key_features": [
+            {
+              "title": "Work Culture",
+              "description": "• Quality-first mindset\n• Fast execution cycles\n• Continuous improvement culture\n• Open communication and collaboration\n• Ownership-driven environment"
+            },
+            {
+              "title": "Team Environment",
+              "description": "• Collaborative and supportive team\n• Strong focus on learning and growth\n• Freedom to suggest improvements\n• Exposure to cross-functional teams\n• Mentorship and guidance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role_id": "generative-ai-developer-intern",
+      "role_title": "Generative AI Developer Intern – AI & Automation",
+      "role_level": "Internship",
+      "experience_range": "0-1 years",
+      "work_mode": "Remote",
+      "career_sections": [
+        {
+          "id": "opportunity",
+          "title": "Your Opportunity",
+          "heading": "Role Overview",
+          "description": "Join us as a Generative AI Developer Intern where you will work on cutting-edge AI applications including LLMs, prompt engineering, and automation workflows. This is an unpaid internship designed for highly motivated learners who want real-world experience building AI-powered features and tools in a fast-paced startup environment.",
+          "key_features": [
+            {
+              "title": "What You'll Do",
+              "description": "• Build and experiment with generative AI applications\n• Work with LLM APIs and AI tools\n• Develop prompt engineering strategies\n• Create AI-powered automation workflows\n• Assist in building AI-driven features\n• Research latest trends in generative AI"
+            },
+            {
+              "title": "Why This Role Is Exciting",
+              "description": "• Hands-on experience with real AI projects\n• Build portfolio-worthy AI applications\n• Work in a fast-learning startup environment\n• Exposure to real-world use cases\n• Opportunity to experiment and innovate\n• Strong foundation for AI/ML careers"
+            }
+          ]
+        },
+        {
+          "id": "requirements",
+          "title": "Who Can Apply",
+          "heading": "Required Skills",
+          "description": "We are looking for passionate learners who are curious about AI, automation, and building innovative solutions.",
+          "key_features": [
+            {
+              "title": "Core Skills",
+              "description": "• Basic programming knowledge (Python/JavaScript)\n• Interest in AI/ML and generative AI\n• Problem-solving mindset\n• Curiosity and willingness to learn\n• Basic understanding of APIs"
+            },
+            {
+              "title": "Bonus Skills",
+              "description": "• Familiarity with OpenAI or similar tools\n• Basic knowledge of prompt engineering\n• Understanding of NLP concepts\n• Experience building small projects\n• Interest in automation tools"
+            }
+          ]
+        },
+        {
+          "id": "responsibilities",
+          "title": "Your Responsibilities",
+          "heading": "What You’ll Work On",
+          "description": "You will work on building, experimenting, and improving AI-powered systems and workflows.",
+          "key_features": [
+            {
+              "title": "AI Development",
+              "description": "• Build AI-powered features and prototypes\n• Experiment with prompts and outputs\n• Integrate AI APIs into applications\n• Improve AI response quality\n• Develop small AI tools and workflows"
+            },
+            {
+              "title": "Research & Experimentation",
+              "description": "• Explore latest generative AI tools\n• Test new models and frameworks\n• Document experiments and findings\n• Suggest improvements to workflows\n• Contribute to innovation initiatives"
+            },
+            {
+              "title": "Automation & Integration",
+              "description": "• Build AI-based automation workflows\n• Integrate AI into business processes\n• Reduce manual effort using AI tools\n• Assist in workflow optimization\n• Support internal AI use cases"
+            },
+            {
+              "title": "Collaboration",
+              "description": "• Work with product and engineering teams\n• Share insights and learnings\n• Participate in brainstorming sessions\n• Contribute to team discussions\n• Support ongoing AI initiatives"
+            },
+            {
+              "title": "Learning & Growth",
+              "description": "• Continuously learn new AI tools\n• Apply learnings to real projects\n• Build personal portfolio\n• Improve problem-solving skills\n• Adapt to fast-changing AI landscape"
+            }
+          ]
+        },
+        {
+          "id": "learning",
+          "title": "What You Will Learn",
+          "heading": "Your Learning Journey",
+          "description": "This internship is designed for rapid learning and hands-on experience in AI and automation.",
+          "key_features": [
+            {
+              "title": "AI & Development Skills",
+              "description": "• Prompt engineering techniques\n• Working with LLM APIs\n• Building AI-driven applications\n• Automation using AI tools\n• Real-world AI problem solving"
+            },
+            {
+              "title": "Innovation & Thinking",
+              "description": "• Experimentation mindset\n• Solving open-ended problems\n• Building MVPs quickly\n• Understanding user needs\n• Translating ideas into products"
+            },
+            {
+              "title": "Startup Experience",
+              "description": "• Working in fast-paced environments\n• Building from 0 → 1\n• Handling ambiguity\n• Collaborating across teams\n• Exposure to real product decisions"
+            }
+          ]
+        },
+        {
+          "id": "growth",
+          "title": "Growth & Development",
+          "heading": "Your Career Path",
+          "description": "This internship builds a strong foundation for careers in AI and software development.",
+          "key_features": [
+            {
+              "title": "Skill Growth",
+              "description": "• Strong understanding of generative AI\n• Improved coding and problem-solving skills\n• Ability to build AI applications\n• Experience with automation workflows\n• Exposure to real-world projects"
+            },
+            {
+              "title": "Career Development",
+              "description": "• Generative AI Developer\n• AI Engineer\n• ML Engineer\n• Automation Engineer\n• Product Engineer"
+            }
+          ]
+        },
+        {
+          "id": "benefits",
+          "title": "Benefits & Perks",
+          "heading": "What We Offer",
+          "description": "A learning-first environment focused on growth, experimentation, and real-world exposure.",
+          "key_features": [
+            {
+              "title": "Perks",
+              "description": "• Hands-on experience with AI tools\n• Opportunity to build real projects\n• Mentorship from experienced team members\n• Exposure to startup environment\n• Flexible remote work\n• Strong portfolio-building opportunities"
+            },
+            {
+              "title": "Additional Benefits",
+              "description": "• Certificate of completion\n• Letter of recommendation (based on performance)\n• Opportunity for future full-time roles\n• Access to premium AI tools\n• Learning resources and guidance"
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "title": "Work Environment",
+          "heading": "About Our Startup",
+          "description": "Join a fast-moving startup where innovation, experimentation, and learning drive everything we build.",
+          "key_features": [
+            {
+              "title": "Work Culture",
+              "description": "• Experimentation-driven environment\n• Fast learning cycles\n• Open and collaborative culture\n• Innovation-focused mindset\n• Encouragement to explore ideas"
+            },
+            {
+              "title": "Team Environment",
+              "description": "• Supportive and collaborative team\n• Freedom to build and experiment\n• Continuous feedback and mentorship\n• Exposure to real-world challenges\n• Strong focus on growth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role_id": "fullstack-developer-web-platform-engineer",
+      "role_title": "Full Stack Developer (4–5 Years Experience) – Web Platform & Application Engineer",
+      "role_level": "Mid-Level / Senior",
+      "experience_range": "4-5 years",
+      "work_mode": "Hybrid / Remote",
+      "career_sections": [
+        {
+          "id": "opportunity",
+          "title": "Your Opportunity",
+          "heading": "Role Overview",
+          "description": "Join us as a Full Stack Developer where you will build scalable, high-performance web applications across frontend and backend systems. This role is ideal for professionals with 4–5 years of experience who enjoy solving complex engineering problems, building end-to-end features, and working in fast-paced startup environments. You will collaborate closely with product, design, and engineering teams to deliver impactful user experiences and scalable technical solutions.",
+          "key_features": [
+            {
+              "title": "What You'll Do",
+              "description": "• Build and maintain scalable frontend and backend applications\n• Develop APIs, services, and database architectures\n• Create responsive and user-friendly interfaces\n• Optimize application performance and scalability\n• Collaborate with cross-functional teams on product development\n• Participate in architecture and technical decision-making"
+            },
+            {
+              "title": "Why This Role Is Exciting",
+              "description": "• Work across the complete product lifecycle\n• High ownership of features and technical decisions\n• Opportunity to build scalable systems from scratch\n• Exposure to modern frameworks and technologies\n• Fast execution and rapid product iterations\n• Career path toward Tech Lead or Engineering Manager"
+            }
+          ]
+        },
+        {
+          "id": "requirements",
+          "title": "Who Can Apply",
+          "heading": "Required Skills",
+          "description": "We are looking for someone with 4–5 years of hands-on experience in full stack web development and scalable application design.",
+          "key_features": [
+            {
+              "title": "Core Skills",
+              "description": "• Strong experience in frontend and backend development\n• Proficiency in JavaScript/TypeScript ecosystems\n• Experience with modern frontend frameworks (React/Next.js)\n• Experience with backend frameworks (Node.js/NestJS/Express)\n• Strong understanding of REST APIs and database design\n• Problem-solving mindset with strong debugging skills\n• Understanding of scalable system architecture"
+            },
+            {
+              "title": "Tool Knowledge",
+              "description": "• Frontend frameworks (React, Next.js)\n• Backend frameworks (Node.js, NestJS, Express)\n• Databases (PostgreSQL, MongoDB, MySQL)\n• Version control systems (Git/GitHub)\n• Cloud and deployment basics\n• Bonus: Docker, CI/CD, Redis, GraphQL"
+            }
+          ]
+        },
+        {
+          "id": "responsibilities",
+          "title": "Your Responsibilities",
+          "heading": "What You’ll Work On",
+          "description": "You will work across frontend, backend, APIs, databases, and infrastructure to build reliable and scalable products.",
+          "key_features": [
+            {
+              "title": "Frontend Development",
+              "description": "• Build responsive and modern UI components\n• Develop reusable frontend architectures\n• Optimize frontend performance and accessibility\n• Integrate APIs and manage application state\n• Ensure seamless user experience across devices"
+            },
+            {
+              "title": "Backend Development",
+              "description": "• Build scalable APIs and backend services\n• Design and optimize database schemas\n• Implement authentication and authorization systems\n• Handle business logic and integrations\n• Ensure backend reliability and security"
+            },
+            {
+              "title": "Performance & Scalability",
+              "description": "• Optimize application performance and load handling\n• Improve database queries and caching strategies\n• Monitor and debug production issues\n• Ensure application scalability and maintainability\n• Contribute to architectural improvements"
+            },
+            {
+              "title": "Collaboration & Product Ownership",
+              "description": "• Work closely with product and design teams\n• Participate in technical planning and reviews\n• Translate business requirements into technical solutions\n• Contribute to sprint planning and delivery\n• Support junior developers and team collaboration"
+            },
+            {
+              "title": "Code Quality & Best Practices",
+              "description": "• Write clean, maintainable, and scalable code\n• Conduct code reviews and maintain standards\n• Improve development workflows and processes\n• Ensure testing and quality assurance practices\n• Maintain proper documentation"
+            }
+          ]
+        },
+        {
+          "id": "learning",
+          "title": "What You Will Learn",
+          "heading": "Your Learning Journey",
+          "description": "This role offers strong exposure to scalable architectures, modern frameworks, and startup engineering practices.",
+          "key_features": [
+            {
+              "title": "Engineering & Architecture",
+              "description": "• Scalable frontend and backend architectures\n• API design and microservices concepts\n• Database optimization strategies\n• System performance tuning\n• Distributed systems fundamentals"
+            },
+            {
+              "title": "Modern Development Practices",
+              "description": "• CI/CD and deployment workflows\n• Cloud infrastructure basics\n• Testing strategies and automation\n• Security and authentication best practices\n• Agile product development"
+            },
+            {
+              "title": "Startup Engineering Experience",
+              "description": "• Building products from 0 → 1\n• Fast-paced product execution\n• Ownership-driven engineering culture\n• Cross-functional collaboration\n• Real-world scalability challenges"
+            }
+          ]
+        },
+        {
+          "id": "growth",
+          "title": "Growth & Development",
+          "heading": "Your Career Path",
+          "description": "This role is designed for rapid growth into senior engineering and leadership positions.",
+          "key_features": [
+            {
+              "title": "Skill Growth",
+              "description": "• Master scalable full stack development\n• Improve architectural decision-making\n• Strengthen debugging and optimization skills\n• Gain leadership and mentoring experience\n• Develop strong product thinking"
+            },
+            {
+              "title": "Career Development",
+              "description": "• Senior Full Stack Developer\n• Tech Lead\n• Software Architect\n• Engineering Manager\n• Product Engineer\n• Platform Engineer"
+            }
+          ]
+        },
+        {
+          "id": "benefits",
+          "title": "Benefits & Perks",
+          "heading": "What We Offer",
+          "description": "A high-growth engineering environment focused on ownership, innovation, and continuous learning.",
+          "key_features": [
+            {
+              "title": "Perks",
+              "description": "• Flexible work environment\n• Opportunity to work on scalable systems\n• Access to modern technologies and tools\n• Learning and certification support\n• High ownership of technical initiatives\n• Real impact on product growth"
+            },
+            {
+              "title": "Additional Benefits",
+              "description": "• Competitive salary\n• Performance-based bonuses\n• Fast career growth opportunities\n• Collaborative engineering culture\n• Mentorship and leadership exposure"
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "title": "Work Environment",
+          "heading": "About Our Startup",
+          "description": "Be part of a fast-moving startup where innovation, ownership, and engineering excellence drive everything we build.",
+          "key_features": [
+            {
+              "title": "Engineering Culture",
+              "description": "• Strong focus on clean and scalable architecture\n• Fast execution and rapid iteration cycles\n• Ownership-driven development culture\n• Open communication and collaboration\n• Continuous learning mindset"
+            },
+            {
+              "title": "Team Environment",
+              "description": "• Collaborative and supportive engineering team\n• Freedom to innovate and propose solutions\n• Exposure to real-world engineering challenges\n• Mentorship and knowledge-sharing culture\n• Strong focus on growth and impact"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

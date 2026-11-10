@@ -1,0 +1,16 @@
+<svg 
+                                xmlns="http://www.w3.org/2000/svg" 
+                                width="13"
+                                height="8" 
+                                viewBox="0 0 13 8" 
+                                fill="none"
+                              >
+                                <path 
+                                  className="stroke-dark" 
+                                  d="M11.5 1L6.25 6.5L1 1" 
+                                  stroke="#111827" 
+                                  strokeWidth="1.5" 
+                                  strokeLinecap="round" 
+                                  strokeLinejoin="round" 
+                                />
+</svg>

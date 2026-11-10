@@ -1,0 +1,2390 @@
+[
+  {
+    "id": 89,
+    "documentId": "y36mz7zc8t8mzd1cuss9fi5r",
+    "title": "Award-Winning modular white label banking platform",
+    "description": "PI1 app is a branchless financial institution that comes with a full line of banking products and services to help every individual: invest, manage, spend, and earn more efficiently and wisely. It's set to transform the global financial industry and make financial services transparent and affordable to everyone.",
+    "categories": "Backend Development",
+    "createdAt": "2024-12-03T13:29:47.334Z",
+    "updatedAt": "2025-01-28T13:17:44.282Z",
+    "publishedAt": "2025-01-28T13:17:44.313Z",
+    "slug": "project-imagine",
+    "image": [
+      {
+        "id": 383,
+        "documentId": "vhawyy0nyu611m54jf1irwrr",
+        "name": "pi-1-phone.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 325,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/uploads/thumbnail_pi_1_phone_b1c93db400.webp",
+            "hash": "thumbnail_pi_1_phone_b1c93db400",
+            "mime": "image/webp",
+            "name": "thumbnail_pi-1-phone.webp",
+            "path": null,
+            "size": 4.48,
+            "width": 204,
+            "height": 156,
+            "sizeInBytes": 4478
+          }
+        },
+        "hash": "pi_1_phone_b1c93db400",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 13.21,
+        "url": "/uploads/pi_1_phone_b1c93db400.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T13:16:41.835Z",
+        "updatedAt": "2025-01-28T13:16:41.835Z",
+        "publishedAt": "2025-01-28T13:16:41.836Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 927,
+        "text": "See Full Case Study",
+        "link": "https://www.google.com/"
+      }
+    ],
+    "lapl_case_dashdev": null
+  },
+  
+  {
+    "id": 150,
+    "documentId": "zeg4y3d2k2jgpq519udnh6ks",
+    "title": "Award-winning e-wallet preferred by global gaming sites",
+    "description": "MuchBetter is a revolutionary payment app. Industry-leading e-wallet lets store, send and receive money securely and quickly. It is the preferred payment app of global gaming sites, providing an alternative to wallets like Neteller, Skrill, Entropay and Ecopayz. It is also welcomed at high street retailers and is a rewarding way to send and receive money from your friends and family for free.",
+    "categories": "Front-end Development",
+    "createdAt": "2024-12-03T13:24:07.496Z",
+    "updatedAt": "2025-06-03T06:16:00.875Z",
+    "publishedAt": "2025-06-03T06:16:00.949Z",
+    "slug": "muchbetter-e-wallet-payment-app",
+    "image": [
+      {
+        "id": 385,
+        "documentId": "hhizh0kildp3fglpc2emjfp5",
+        "name": "much-better-phone.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 325,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/uploads/thumbnail_much_better_phone_4eabcbe5a0.webp",
+            "hash": "thumbnail_much_better_phone_4eabcbe5a0",
+            "mime": "image/webp",
+            "name": "thumbnail_much-better-phone.webp",
+            "path": null,
+            "size": 5.62,
+            "width": 204,
+            "height": 156,
+            "sizeInBytes": 5620
+          }
+        },
+        "hash": "much_better_phone_4eabcbe5a0",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 22.55,
+        "url": "/uploads/much_better_phone_4eabcbe5a0.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T13:25:05.543Z",
+        "updatedAt": "2025-01-28T13:25:05.543Z",
+        "publishedAt": "2025-01-28T13:25:05.544Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 1290,
+        "text": "See Full Case Study",
+        "link": "https://www.google.com/"
+      }
+    ],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 92,
+    "documentId": "yq7o189kaadbsktedg56wusv",
+    "title": "One of the biggest tabloid portals in US",
+    "description": "The TMZ is of one of the leading tabloid websites. TMZ App provides the full functionality in your pocket. Stay current on the twenty-four-seven exclusives, breaking celebrity stories, sports news, hottest videos, and galleries. Additionally, we’ve made it possible for users to watch 'TMZ Live,' 'TMZ Sports on FS1' clips, and 'TMZ on TV' without leaving the TMZ mobile app.",
+    "categories": "Backend Development",
+    "createdAt": "2024-12-03T14:25:41.447Z",
+    "updatedAt": "2025-01-28T13:29:17.732Z",
+    "publishedAt": "2025-01-28T13:29:17.762Z",
+    "slug": "tmz-one-of-the-biggest-news-portal-in-us",
+    "image": [
+      {
+        "id": 386,
+        "documentId": "pzb31ws1utbn92kdqy2a4rsq",
+        "name": "tmz-phone.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 325,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/uploads/thumbnail_tmz_phone_81d4653b8d.webp",
+            "hash": "thumbnail_tmz_phone_81d4653b8d",
+            "mime": "image/webp",
+            "name": "thumbnail_tmz-phone.webp",
+            "path": null,
+            "size": 6.78,
+            "width": 204,
+            "height": 156,
+            "sizeInBytes": 6780
+          }
+        },
+        "hash": "tmz_phone_81d4653b8d",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 23.91,
+        "url": "/uploads/tmz_phone_81d4653b8d.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T13:28:58.190Z",
+        "updatedAt": "2025-01-28T13:28:58.190Z",
+        "publishedAt": "2025-01-28T13:28:58.190Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 930,
+        "text": "See Full Case Study",
+        "link": "https://www.google.com/"
+      }
+    ],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 98,
+    "documentId": "rpo11e02v4u30kfo33k28u9z",
+    "title": "Tarabut is MENA’s first regulated Open Banking platform",
+    "description": "This banking platform is reimagining online banking in the MENA region through the ecosystem of connections. They enable banks and other fintechs to connect with third-party providers to share information in the most secure way. Tarabut app has over 200K downloads.",
+    "categories": "UI/UX",
+    "createdAt": "2024-12-03T13:31:14.279Z",
+    "updatedAt": "2025-01-28T13:44:20.701Z",
+    "publishedAt": "2025-01-28T13:44:20.739Z",
+    "slug": "tarabut-gateway",
+    "image": [
+      {
+        "id": 392,
+        "documentId": "k5alsekbopyhzsxug5b3w34s",
+        "name": "tarabut-phone.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 326,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/uploads/thumbnail_tarabut_phone_3f0874cd31.webp",
+            "hash": "thumbnail_tarabut_phone_3f0874cd31",
+            "mime": "image/webp",
+            "name": "thumbnail_tarabut-phone.webp",
+            "path": null,
+            "size": 5.34,
+            "width": 203,
+            "height": 156,
+            "sizeInBytes": 5338
+          }
+        },
+        "hash": "tarabut_phone_3f0874cd31",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 19.87,
+        "url": "/uploads/tarabut_phone_3f0874cd31.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T13:43:58.439Z",
+        "updatedAt": "2025-01-28T13:43:58.439Z",
+        "publishedAt": "2025-01-28T13:43:58.441Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 936,
+        "text": "See Full Case Study",
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 128,
+    "documentId": "chipfrqo4lj15och0n8wb4yy",
+    "title": "Insurance Platform for Seamless Security and Transparency",
+    "description": "Centinel is a powerful insurance platform designed to streamline operations and maintain top-tier data security. It automates key processes, including contract generation, real-time risk analysis, and email communications, offering smooth and transparent coverage solutions. Our team is committed to continuously improving and evolving the platform to meet the ever-changing demands of the insurance industry.\n\n",
+    "categories": null,
+    "createdAt": "2025-01-30T21:24:25.510Z",
+    "updatedAt": "2025-01-30T21:24:25.510Z",
+    "publishedAt": "2025-01-30T21:24:25.538Z",
+    "slug": "centinel-insurance-app",
+    "image": [
+      {
+        "id": 807,
+        "documentId": "fbyoxsrkdi62y95s44vqi1p4",
+        "name": "centin.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 541,
+        "height": 353,
+        "formats": {
+          "small": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/licence.webp",
+            "hash": "small_centin_b159e15c0a",
+            "mime": "image/webp",
+            "name": "small_centin.webp",
+            "path": null,
+            "size": 29.78,
+            "width": 500,
+            "height": 326,
+            "sizeInBytes": 29776
+          },
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/nda-app-cover.webp",
+            "hash": "thumbnail_centin_b159e15c0a",
+            "mime": "image/webp",
+            "name": "thumbnail_centin.webp",
+            "path": null,
+            "size": 8.32,
+            "width": 239,
+            "height": 156,
+            "sizeInBytes": 8324
+          }
+        },
+        "hash": "centin_b159e15c0a",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 39.13,
+        "url": "/assets/imgs/casestudies/home/licence.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-30T21:24:11.477Z",
+        "updatedAt": "2025-01-30T21:24:11.477Z",
+        "publishedAt": "2025-01-30T21:24:11.477Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 599,
+      "documentId": "lekuber0g4jedfdylqygw4vm",
+      "createdAt": "2025-01-29T07:34:43.649Z",
+      "updatedAt": "2025-02-01T05:30:29.291Z",
+      "publishedAt": "2025-02-01T05:30:29.577Z",
+      "slug": "centinel-insurance-app"
+    }
+  },
+  {
+    "id": 90,
+    "documentId": "twjcdxfwsqzn1fn411scg7jj",
+    "title": "Global hospitality payment solution supporting 250+ payment methods",
+    "description": "iOL Pay is global automated payment acceptance solutions for hospitality industry. It allows hotels and other travel providers to connect to iWTX marketplace. It supports 26 languages, 140 presentment currencies and 250+ payment methods ensuring customer has choices to seamlessly and efficiently complete a transaction.",
+    "categories": "Front-end Development",
+    "createdAt": "2024-12-03T13:25:30.632Z",
+    "updatedAt": "2025-01-28T13:21:28.936Z",
+    "publishedAt": "2025-01-28T13:21:28.974Z",
+    "slug": "iol-pay-hospitality-payment-solution",
+    "image": [
+      {
+        "id": 384,
+        "documentId": "z89r2nrzvzcfogal2uxp32wb",
+        "name": "iol-pay-phone.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 325,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/uploads/thumbnail_iol_pay_phone_e42f3f0cfe.webp",
+            "hash": "thumbnail_iol_pay_phone_e42f3f0cfe",
+            "mime": "image/webp",
+            "name": "thumbnail_iol-pay-phone.webp",
+            "path": null,
+            "size": 7.45,
+            "width": 204,
+            "height": 156,
+            "sizeInBytes": 7446
+          }
+        },
+        "hash": "iol_pay_phone_e42f3f0cfe",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 27.97,
+        "url": "/uploads/iol_pay_phone_e42f3f0cfe.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T13:20:59.882Z",
+        "updatedAt": "2025-01-28T13:20:59.882Z",
+        "publishedAt": "2025-01-28T13:20:59.883Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 928,
+        "text": "See Full Case Study",
+        "link": "https://www.google.com/"
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 841,
+      "documentId": "ggjaqqx6m5swy9pzdj4qutx7",
+      "createdAt": "2025-01-10T18:48:44.216Z",
+      "updatedAt": "2025-06-17T05:17:09.204Z",
+      "publishedAt": "2025-06-17T05:17:09.583Z",
+      "slug": "iol-pay-hospitality-payment-solution"
+    }
+  },
+  {
+    "id": 124,
+    "documentId": "o2aln73qbqh7xsyw5yozqycy",
+    "title": "Amazon Brand Aggregator Offering In-Depth Analytics to Customers",
+    "description": "Thrasio is a company that acquires businesses from major platforms like Amazon, Walmart, and other large retailers, providing value to customers by gathering and analyzing data across various brands. The company continues to grow by acquiring established brands with a strong performance history. Thrasio accelerates its expansion by utilizing its expertise, resources, and advanced data analytics software-as-a-service solutions.",
+    "categories": "Backend Development",
+    "createdAt": "2025-01-30T21:20:30.770Z",
+    "updatedAt": "2025-01-30T21:20:30.770Z",
+    "publishedAt": "2025-01-30T21:20:30.803Z",
+    "slug": "thrasio-ecommerce-aggregator",
+    "image": [
+      {
+        "id": 805,
+        "documentId": "q37l5z8cwt78pwcyb0t80mkk",
+        "name": "thrasio-preview.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 318,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/thrasio-preview.webp",
+            "hash": "thumbnail_thrasio_preview_c26c5df95e",
+            "mime": "image/webp",
+            "name": "thumbnail_thrasio-preview.webp",
+            "path": null,
+            "size": 4.92,
+            "width": 208,
+            "height": 156,
+            "sizeInBytes": 4916
+          }
+        },
+        "hash": "thrasio_preview_c26c5df95e",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 17.59,
+        "url": "/uploads/thrasio_preview_c26c5df95e.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-30T21:19:57.840Z",
+        "updatedAt": "2025-01-30T21:19:57.840Z",
+        "publishedAt": "2025-01-30T21:19:57.840Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 597,
+      "documentId": "vot09yg1q2bzs7td0kwz49hv",
+      "createdAt": "2025-01-29T08:07:09.615Z",
+      "updatedAt": "2025-02-01T05:23:11.785Z",
+      "publishedAt": "2025-02-01T05:23:12.053Z",
+      "slug": "thrasio-ecommerce-aggregator"
+    }
+  },
+  {
+    "id": 114,
+    "documentId": "pgs59msd6uxn0m172kojz1g6",
+    "title": "Mobile Payment & Invoicing Solution for Seamless Transactions",
+    "description": "Explore a fintech mobile app designed specifically for SME home contractors. Simplify tasks like accounting, payments, scheduling, invoicing, and customer feedback—all within a single platform.\n\n",
+    "categories": "Front-end Development",
+    "createdAt": "2025-01-30T21:05:26.308Z",
+    "updatedAt": "2025-01-30T21:05:26.308Z",
+    "publishedAt": "2025-01-30T21:05:26.335Z",
+    "slug": "payment-app",
+    "image": [
+      {
+        "id": 799,
+        "documentId": "ykvmumye2vmgzpfa1z7dgrlj",
+        "name": "tapper11.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 321,
+        "height": 417,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/tapper11_6fec868937.webp",
+            "hash": "thumbnail_tapper11_6fec868937",
+            "mime": "image/webp",
+            "name": "thumbnail_tapper11.webp",
+            "path": null,
+            "size": 4.21,
+            "width": 120,
+            "height": 156,
+            "sizeInBytes": 4214
+          }
+        },
+        "hash": "tapper11_6fec868937",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 23.21,
+        "url": "/assets/imgs/casestudies/home/tapper11_6fec868937.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-30T21:05:10.997Z",
+        "updatedAt": "2025-01-30T21:05:10.997Z",
+        "publishedAt": "2025-01-30T21:05:10.997Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 591,
+      "documentId": "r501e4tr0ntkojeo53q2l9ld",
+      "createdAt": "2025-01-29T10:57:37.402Z",
+      "updatedAt": "2025-01-31T13:29:48.032Z",
+      "publishedAt": "2025-01-31T13:29:48.277Z",
+      "slug": "payment-app"
+    }
+  },
+  {
+    "id": 112,
+    "documentId": "kzevqo8c1yumf3mz8ci6epst",
+    "title": "Next-Generation Mobile Real Estate Platform",
+    "description": "Rila Estate is a next-gen real estate platform designed to simplify the process of buying, selling, and discovering properties. With AI-powered insights, dynamic maps, and integrated messaging, it connects users to the best opportunities with speed and ease. Rila Estate combines advanced technology with an intuitive design, streamlining the real estate journey for buyers, sellers, and agents, and ensuring a transparent, efficient, and rewarding experience.",
+    "categories": "Mobile Application",
+    "createdAt": "2025-01-30T21:01:58.380Z",
+    "updatedAt": "2025-01-30T21:01:58.380Z",
+    "publishedAt": "2025-01-30T21:01:58.413Z",
+    "slug": "rila-estate",
+    "image": [
+      {
+        "id": 798,
+        "documentId": "ewwcl25yac4jjuxy0cvgy0xr",
+        "name": "rilacasestudy.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 411,
+        "height": 417,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/rilacasestudy.webp",
+            "hash": "thumbnail_rilacasestudy_f9f1c02c0d",
+            "mime": "image/webp",
+            "name": "thumbnail_rilacasestudy.webp",
+            "path": null,
+            "size": 6.1,
+            "width": 154,
+            "height": 156,
+            "sizeInBytes": 6102
+          }
+        },
+        "hash": "rilacasestudy_f9f1c02c0d",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 31.13,
+        "url": "/uploads/rilacasestudy_f9f1c02c0d.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-30T21:01:42.540Z",
+        "updatedAt": "2025-01-30T21:01:42.540Z",
+        "publishedAt": "2025-01-30T21:01:42.540Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 590,
+      "documentId": "id3fdj25eth4ei1ffgpqsfb8",
+      "createdAt": "2025-01-29T11:00:21.303Z",
+      "updatedAt": "2025-01-31T13:28:03.688Z",
+      "publishedAt": "2025-01-31T13:28:04.077Z",
+      "slug": "rila-estate"
+    }
+  },
+  {
+    "id": 130,
+    "documentId": "m879yizkyxgwb82nfs3obcci",
+    "title": "Tiered and Scalable CRM Solution for Streamlining Retail Workflows",
+    "description": "Tico is a private CRM and CMS platform tailored for the automotive industry, allowing retail employees to efficiently manage inventory and generate reports on completed retail offers. The platform connects multiple branches, enabling users to filter data by location or other relevant factors. Tico creates an expansive network of thousands of stores across various auto parts and vehicle retail chains, including brands like Stellantis.",
+    "categories": "UI/UX",
+    "createdAt": "2025-01-30T21:26:19.965Z",
+    "updatedAt": "2025-01-30T21:26:19.965Z",
+    "publishedAt": "2025-01-30T21:26:20.003Z",
+    "slug": "tico-crm-platform",
+    "image": [
+      {
+        "id": 808,
+        "documentId": "uzvpckjmsc0oujahko7p40zf",
+        "name": "ticopreview.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 646,
+        "height": 446,
+        "formats": {
+          "small": {
+            "ext": ".webp",
+            "url": "/uploads/small_ticopreview_deb47c1408.webp",
+            "hash": "small_ticopreview_deb47c1408",
+            "mime": "image/webp",
+            "name": "small_ticopreview.webp",
+            "path": null,
+            "size": 16.91,
+            "width": 500,
+            "height": 345,
+            "sizeInBytes": 16908
+          },
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/uploads/thumbnail_ticopreview_deb47c1408.webp",
+            "hash": "thumbnail_ticopreview_deb47c1408",
+            "mime": "image/webp",
+            "name": "thumbnail_ticopreview.webp",
+            "path": null,
+            "size": 4.12,
+            "width": 226,
+            "height": 156,
+            "sizeInBytes": 4118
+          }
+        },
+        "hash": "ticopreview_deb47c1408",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 23.67,
+        "url": "/uploads/ticopreview_deb47c1408.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-30T21:25:51.670Z",
+        "updatedAt": "2025-01-30T21:25:51.670Z",
+        "publishedAt": "2025-01-30T21:25:51.671Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 642,
+      "documentId": "y7auqdebudpeh2jbynl90syr",
+      "createdAt": "2025-01-28T10:08:35.511Z",
+      "updatedAt": "2025-02-02T19:13:02.405Z",
+      "publishedAt": "2025-02-02T19:13:02.643Z",
+      "slug": "tico-crm-platform"
+    }
+  },
+  {
+    "id": 100,
+    "documentId": "hrg7qhtwka0dvl7sp1e5zeqx",
+    "title": "Innovative investment platform for sovereign bonds trading",
+    "description": "Unique platform that allows to split large sovereign bonds into smaller units in order to lower the starting investment amount. Thus, INABLR enables individual investors to come into sovereign bond market, which is hardly achievable otherwise.",
+    "categories": "Backend Development",
+    "createdAt": "2024-12-03T14:12:22.897Z",
+    "updatedAt": "2025-01-28T13:47:06.945Z",
+    "publishedAt": "2025-01-28T13:47:06.993Z",
+    "slug": "inablr-investment-platform",
+    "image": [
+      {
+        "id": 394,
+        "documentId": "pf98p047iczltu4q4wc20txo",
+        "name": "inablr-phone.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 325,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/inablr-phone.webp",
+            "hash": "thumbnail_inablr_phone_dad47f75e7",
+            "mime": "image/webp",
+            "name": "thumbnail_inablr-phone.webp",
+            "path": null,
+            "size": 4.28,
+            "width": 204,
+            "height": 156,
+            "sizeInBytes": 4284
+          }
+        },
+        "hash": "inablr_phone_dad47f75e7",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 14.06,
+        "url": "/uploads/inablr_phone_dad47f75e7.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T13:46:43.312Z",
+        "updatedAt": "2025-01-28T13:46:43.312Z",
+        "publishedAt": "2025-01-28T13:46:43.312Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 938,
+        "text": "See Full Case Study",
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 616,
+      "documentId": "bub8ncpq1yk5unpk5o4yvfnx",
+      "createdAt": "2025-01-17T12:32:47.054Z",
+      "updatedAt": "2025-02-02T18:34:41.041Z",
+      "publishedAt": "2025-02-02T18:34:41.255Z",
+      "slug": "inablr-investment-platform"
+    }
+  },
+  {
+    "id": 95,
+    "documentId": "iobfbxdxpz63si3vcrqtiey0",
+    "title": "The #1 retention software for fitness studios",
+    "description": "FitGrid helps to leverage the power of community to drive the studio’s profitability by connecting staff, instructors, and clients through a powerful learning and recommendation grid.",
+    "categories": "Backend Development",
+    "createdAt": "2024-12-03T13:28:30.178Z",
+    "updatedAt": "2025-01-28T13:38:12.090Z",
+    "publishedAt": "2025-01-28T13:38:12.124Z",
+    "slug": "fitgrid-retention-software",
+    "image": [
+      {
+        "id": 389,
+        "documentId": "ftx4ydrnbsegevz6npi9rsmw",
+        "name": "fitgrid-phone.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 334,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/fitgrid-phone.webp",
+            "hash": "thumbnail_fitgrid_phone_ac9dae9411",
+            "mime": "image/webp",
+            "name": "thumbnail_fitgrid-phone.webp",
+            "path": null,
+            "size": 5.21,
+            "width": 198,
+            "height": 156,
+            "sizeInBytes": 5210
+          }
+        },
+        "hash": "fitgrid_phone_ac9dae9411",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 20.02,
+        "url": "/uploads/fitgrid_phone_ac9dae9411.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T13:38:00.739Z",
+        "updatedAt": "2025-01-28T13:38:00.739Z",
+        "publishedAt": "2025-01-28T13:38:00.740Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 933,
+        "text": "See Full Case Study",
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 106,
+    "documentId": "nwv4z6hmwxwi4w0mjtjur5mg",
+    "title": "Robot control and programming application for children",
+    "description": "Circuitcubes is a native mobile application for iOS and Android devices designed to help children in assembling robots from construction kits. It provides assembly instructions, offers remote control options, and features block-based coding within the single app. Circuitcubes servers educational and entertaining purposes, which is similar to LEGO-style interactive learning.",
+    "categories": "Mobile Application",
+    "createdAt": "2025-01-28T15:55:41.058Z",
+    "updatedAt": "2025-01-28T15:55:41.058Z",
+    "publishedAt": "2025-01-28T15:55:41.089Z",
+    "slug": "circuitcubes-robot-control-and-programming-app",
+    "image": [
+      {
+        "id": 423,
+        "documentId": "qh8ii7v5kqx9v2xawybbnhhi",
+        "name": "Image-circuit.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 318,
+        "formats": {
+          "thumbnail": {
+            "ext": ".png",
+            "url": "/assets/imgs/casestudies/home/Image-circuit.png",
+            "hash": "thumbnail_Image_circuit_49bbc48f49",
+            "mime": "image/png",
+            "name": "thumbnail_Image-circuit.png",
+            "path": null,
+            "size": 14.19,
+            "width": 208,
+            "height": 156,
+            "sizeInBytes": 14190
+          }
+        },
+        "hash": "Image_circuit_49bbc48f49",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 6.18,
+        "url": "/uploads/Image_circuit_49bbc48f49.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T15:55:38.035Z",
+        "updatedAt": "2025-01-28T15:55:38.035Z",
+        "publishedAt": "2025-01-28T15:55:38.035Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 104,
+    "documentId": "xbue8hrybunhspjb0g5ol496",
+    "title": "Private Digital Wallet with Reward Drop Functionality",
+    "description": "PayTile is a native Android and iOS application that allows users to send money privately, including the option to send money anonymously to users nearby using geolocation. The solution drives additional business value by attracting customers to physical stores, for which app users obtain monetary rewards, gift cards, and discounts. All the rewards are credited to a user's balance and can be withdrawn to a bank account or sent to other users. Users can present a barcode with their client ID at the checkout to redeem offers. The app also provides a list of partner stores.",
+    "categories": "Mobile Application",
+    "createdAt": "2025-01-28T11:09:50.051Z",
+    "updatedAt": "2025-01-28T14:21:18.198Z",
+    "publishedAt": "2025-01-28T14:21:18.245Z",
+    "slug": "paytile-private-digital-wallet-with-reward-drop-functionality",
+    "image": [
+      {
+        "id": 375,
+        "documentId": "j9qlruvpt79ius41heds8tbd",
+        "name": "Picture.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 646,
+        "height": 446,
+        "formats": {
+          "small": {
+            "ext": ".webp",
+            "url": "/public/assets/imgs/casestudies/home/Picture1.webp",
+            "hash": "small_Picture_4020e7bcb3",
+            "mime": "image/webp",
+            "name": "small_Picture.webp",
+            "path": null,
+            "size": 17.43,
+            "width": 500,
+            "height": 345,
+            "sizeInBytes": 17428
+          },
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/Picture1.webp",
+            "hash": "thumbnail_Picture_4020e7bcb3",
+            "mime": "image/webp",
+            "name": "thumbnail_Picture.webp",
+            "path": null,
+            "size": 3.51,
+            "width": 226,
+            "height": 156,
+            "sizeInBytes": 3506
+          }
+        },
+        "hash": "Picture_4020e7bcb3",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 22.33,
+        "url": "/assets/imgs/casestudies/home/Picture1.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T11:23:39.644Z",
+        "updatedAt": "2025-01-28T11:23:39.644Z",
+        "publishedAt": "2025-01-28T11:23:39.644Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 943,
+        "text": "See Full Case Study",
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 620,
+      "documentId": "zggevbauvwtw97mu5mb2cpue",
+      "createdAt": "2025-01-28T10:06:01.175Z",
+      "updatedAt": "2025-02-02T18:38:08.888Z",
+      "publishedAt": "2025-02-02T18:38:09.137Z",
+      "slug": "paytile-private-digital-wallet-with-reward-drop-functionality"
+    }
+  },
+  {
+    "id": 118,
+    "documentId": "xnwmancnzfwqo1mir4ne2cg2",
+    "title": "Retirement Planning Solution: Maximize Savings & Simplify Tax Reporting",
+    "description": "This platform empowers users to strengthen their retirement savings and prepare for a secure future. By inputting personal details, income, and financial goals, users receive personalized advice to guide their decisions. Key features include investor profiles, financial planning tools, tax reporting, and money-saving strategies, all designed to make financial management more accessible and effective.",
+    "categories": "UI/UX",
+    "createdAt": "2025-01-30T21:10:34.241Z",
+    "updatedAt": "2025-01-30T21:10:34.241Z",
+    "publishedAt": "2025-01-30T21:10:34.264Z",
+    "slug": "myiodd",
+    "image": [
+      {
+        "id": 801,
+        "documentId": "be3j2doi9kysuxfk87u2zmdt",
+        "name": "myiodd-case-cover.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 318,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/myiodd-case-cover.webp",
+            "hash": "thumbnail_myiodd_case_cover_3d11577a32",
+            "mime": "image/webp",
+            "name": "thumbnail_myiodd-case-cover.webp",
+            "path": null,
+            "size": 5.07,
+            "width": 208,
+            "height": 156,
+            "sizeInBytes": 5068
+          }
+        },
+        "hash": "myiodd_case_cover_3d11577a32",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 18.74,
+        "url": "/uploads/myiodd_case_cover_3d11577a32.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-30T21:10:31.549Z",
+        "updatedAt": "2025-01-30T21:10:31.549Z",
+        "publishedAt": "2025-01-30T21:10:31.549Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 640,
+      "documentId": "f963redp0fswno0vgt9pjmiz",
+      "createdAt": "2025-01-29T08:32:17.315Z",
+      "updatedAt": "2025-02-02T19:10:35.268Z",
+      "publishedAt": "2025-02-02T19:10:35.435Z",
+      "slug": "myiodd"
+    }
+  },
+  {
+    "id": 99,
+    "documentId": "t9jrx6pq7bo55322g5g7leen",
+    "title": "An Innovative App Guiding Your Finances towards a Greener Tomorrow",
+    "description": "Aspiration, a comprehensive financial app, helps clients seamlessly integrate bank accounts and cards to accurately track their spending, gain insights into their financial footprint with intuitive categorization and personalized insights, access high-yield, fossil fuel-free savings, and explore sustainable investment options. Aspiration's cutting-edge app paves the way towards a greener tomorrow, revolutionizing the financial industry with its commitment to transparency and affordability for all.",
+    "categories": "UI/UX",
+    "createdAt": "2024-12-03T14:23:11.959Z",
+    "updatedAt": "2025-01-28T13:45:36.152Z",
+    "publishedAt": "2025-01-28T13:45:36.188Z",
+    "slug": "aspiration-sustainable-banking",
+    "image": [
+      {
+        "id": 393,
+        "documentId": "cs99entlumd91zte3fb9y07o",
+        "name": "aspiration-phone.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 337,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/aspiration_phone_b3e57b81a8.webp",
+            "hash": "thumbnail_aspiration_phone_b3e57b81a8",
+            "mime": "image/webp",
+            "name": "thumbnail_aspiration-phone.webp",
+            "path": null,
+            "size": 4.89,
+            "width": 196,
+            "height": 156,
+            "sizeInBytes": 4890
+          }
+        },
+        "hash": "aspiration_phone_b3e57b81a8",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 19.2,
+        "url": "/uploads/aspiration_phone_b3e57b81a8.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-28T13:45:14.211Z",
+        "updatedAt": "2025-01-28T13:45:14.211Z",
+        "publishedAt": "2025-01-28T13:45:14.211Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 937,
+        "text": "See Full Case Study",
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 606,
+      "documentId": "d1lz2akp15rnbnf7vzn6k0rt",
+      "createdAt": "2025-01-17T12:11:34.575Z",
+      "updatedAt": "2025-02-01T05:53:23.909Z",
+      "publishedAt": "2025-02-01T05:53:24.166Z",
+      "slug": "aspiration-sustainable-banking"
+    }
+  },
+  {
+    "id": 226,
+    "documentId": "rxgfj5pfhhjhvigypafmyivu",
+    "title": "Smart Helpdesk Agent Swarm for SaaS Support",
+    "description": "High support ticket volume overwhelmed human agents and slowed response times.\nAgent System: A team of agents specializing in triage, resolution suggestion, escalation detection, and customer sentiment analysis.",
+    "categories": "agent architecture ",
+    "createdAt": "2025-06-17T05:30:22.314Z",
+    "updatedAt": "2025-06-17T05:30:26.909Z",
+    "publishedAt": "2025-06-17T05:30:26.995Z",
+    "slug": "smart-helpdesk-agent-swarm-for-sass-support",
+    "image": [
+      {
+        "id": 1065,
+        "documentId": "yyv1p417p1sjgo0n9dxrpxb5",
+        "name": "Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+            "hash": "large_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+            "path": null,
+            "size": 86.46,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 86458
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+            "hash": "small_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+            "path": null,
+            "size": 30.18,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 30177
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+            "hash": "medium_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+            "path": null,
+            "size": 55.29,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 55290
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+            "hash": "thumbnail_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+            "path": null,
+            "size": 7.57,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 7570
+          }
+        },
+        "hash": "Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 304.54,
+        "url": "/uploads/Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T05:25:09.528Z",
+        "updatedAt": "2025-06-17T05:25:09.528Z",
+        "publishedAt": "2025-06-17T05:25:09.530Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 870,
+      "documentId": "g3tqsel6y2xb5j6fibbb1jnc",
+      "createdAt": "2025-06-17T07:18:43.708Z",
+      "updatedAt": "2025-06-17T08:28:19.124Z",
+      "publishedAt": "2025-06-17T08:28:19.473Z",
+      "slug": "autonomous-financial-report-generator-agents"
+    }
+  },
+  {
+    "id": 247,
+    "documentId": "skdybpnpadojwjdiicgudcf4",
+    "title": "Autonomous Financial Report Generator Agents",
+    "description": "FinSimplify deployed a fully automated multi-agent system to eliminate manual financial reporting. The AI agents extract data from internal databases, analyze financial metrics, and generate dynamic reports aligned with regulatory standards. Integrated with tools like Notion, Google Sheets, and internal dashboards, the solution delivers investor-ready insights at scale. With support for custom logic, compliance checks, and multi-format exports, teams now gain faster visibility with zero bottlenecks and minimal analyst involvement.",
+    "categories": "agent architecture ",
+    "createdAt": "2025-06-17T07:06:10.540Z",
+    "updatedAt": "2025-06-17T08:23:42.568Z",
+    "publishedAt": "2025-06-17T08:23:42.615Z",
+    "slug": "autonomous-financial-report-generator-agents",
+    "image": [
+      {
+        "id": 1091,
+        "documentId": "xa1e1ncji2r3ygn27epbeeva",
+        "name": "Firefly_Cartoon-style illustration of AI agents automating financial reporting. Show multiple 144368.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d.jpg",
+            "hash": "large_Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_Cartoon-style illustration of AI agents automating financial reporting. Show multiple 144368.jpg",
+            "path": null,
+            "size": 97.56,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 97557
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d.jpg",
+            "hash": "small_Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_Cartoon-style illustration of AI agents automating financial reporting. Show multiple 144368.jpg",
+            "path": null,
+            "size": 36.07,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 36069
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d.jpg",
+            "hash": "medium_Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_Cartoon-style illustration of AI agents automating financial reporting. Show multiple 144368.jpg",
+            "path": null,
+            "size": 63.85,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 63852
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d.jpg",
+            "hash": "thumbnail_Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_Cartoon-style illustration of AI agents automating financial reporting. Show multiple 144368.jpg",
+            "path": null,
+            "size": 8.98,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 8975
+          }
+        },
+        "hash": "Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 306.09,
+        "url": "/uploads/Firefly_Cartoon_style_illustration_of_AI_agents_automating_financial_reporting_Show_multiple_144368_0bbd9de32d.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T08:23:36.401Z",
+        "updatedAt": "2025-06-17T08:23:36.401Z",
+        "publishedAt": "2025-06-17T08:23:36.402Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 1473,
+        "text": null,
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 253,
+    "documentId": "oa2e90qr5k5xcdc3tb2qmlac",
+    "title": "AI-Powered Agile Project Manager for Engineering Teams",
+    "description": "We engineered a multi-agent AI system to support agile development teams by automating daily standups, sprint tracking, blocker detection, and reporting. This AI project manager integrates seamlessly with Jira, GitHub, Slack, and Notion—providing engineering leaders with instant insights, improved team velocity, and drastically reduced manual overhead.",
+    "categories": "agent architecture ",
+    "createdAt": "2025-06-02T11:43:17.651Z",
+    "updatedAt": "2025-06-17T13:22:29.684Z",
+    "publishedAt": "2025-06-17T13:22:29.742Z",
+    "slug": "ai-powered-agile-project-manageer-for-engineering-teams",
+    "image": [
+      {
+        "id": 1112,
+        "documentId": "s9fwnc31omiosl4ystu6pflg",
+        "name": "Firefly_Cartoon-style illustration of an AI assistant summarizing large documents, slide deck 695666.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c.jpg",
+            "hash": "large_Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_Cartoon-style illustration of an AI assistant summarizing large documents, slide deck 695666.jpg",
+            "path": null,
+            "size": 71.41,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 71413
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c.jpg",
+            "hash": "small_Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_Cartoon-style illustration of an AI assistant summarizing large documents, slide deck 695666.jpg",
+            "path": null,
+            "size": 27.93,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 27934
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c.jpg",
+            "hash": "medium_Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_Cartoon-style illustration of an AI assistant summarizing large documents, slide deck 695666.jpg",
+            "path": null,
+            "size": 48.66,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 48659
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c.jpg",
+            "hash": "thumbnail_Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_Cartoon-style illustration of an AI assistant summarizing large documents, slide deck 695666.jpg",
+            "path": null,
+            "size": 7.68,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 7679
+          }
+        },
+        "hash": "Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 213.63,
+        "url": "/uploads/Firefly_Cartoon_style_illustration_of_an_AI_assistant_summarizing_large_documents_slide_deck_695666_dd167a050c.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T11:34:44.503Z",
+        "updatedAt": "2025-06-17T11:34:44.503Z",
+        "publishedAt": "2025-06-17T11:34:44.504Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 1479,
+        "text": null,
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 899,
+      "documentId": "y4f8yb0200exw3b0hueqtsd8",
+      "createdAt": "2025-06-17T08:02:35.884Z",
+      "updatedAt": "2025-06-17T13:23:54.530Z",
+      "publishedAt": "2025-06-17T13:23:54.940Z",
+      "slug": "ai-powered-agile-project-manageer-for-engineering-teams"
+    }
+  },
+  {
+    "id": 221,
+    "documentId": "e0n2hbhu0wft8r5mg4qgukb2",
+    "title": "Enterprise document assistant with secure MCP integration",
+    "description": "An AI-powered assistant that accesses internal documents (PDF, Word, Confluence) via MCP servers. Users query hidden knowledge, while MCP enforces access controls and audit logs, ensuring context-aware compliance.",
+    "categories": "MCP",
+    "createdAt": "2025-06-13T12:27:03.236Z",
+    "updatedAt": "2025-06-17T04:55:58.231Z",
+    "publishedAt": "2025-06-17T04:55:58.280Z",
+    "slug": "enterprise-document-assistant-mcp",
+    "image": [
+      {
+        "id": 1059,
+        "documentId": "e4jp8fll6pn1ozb83eay6hjl",
+        "name": "Firefly_Create a professional, high-tech digital illustration of a revolutionary modular whit 330230.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366.jpg",
+            "hash": "large_Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_Create a professional, high-tech digital illustration of a revolutionary modular whit 330230.jpg",
+            "path": null,
+            "size": 67.12,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 67124
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366.jpg",
+            "hash": "small_Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_Create a professional, high-tech digital illustration of a revolutionary modular whit 330230.jpg",
+            "path": null,
+            "size": 26.91,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 26910
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366.jpg",
+            "hash": "medium_Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_Create a professional, high-tech digital illustration of a revolutionary modular whit 330230.jpg",
+            "path": null,
+            "size": 45.87,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 45865
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366.jpg",
+            "hash": "thumbnail_Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_Create a professional, high-tech digital illustration of a revolutionary modular whit 330230.jpg",
+            "path": null,
+            "size": 7.29,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 7291
+          }
+        },
+        "hash": "Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 197.62,
+        "url": "/uploads/Firefly_Create_a_professional_high_tech_digital_illustration_of_a_revolutionary_modular_whit_330230_435cfbe366.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T04:55:50.148Z",
+        "updatedAt": "2025-06-17T04:55:50.148Z",
+        "publishedAt": "2025-06-17T04:55:50.149Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 871,
+      "documentId": "ogkw2rk63w4t2g9z5y3usve5",
+      "createdAt": "2025-06-13T14:19:46.629Z",
+      "updatedAt": "2025-06-17T08:30:45.142Z",
+      "publishedAt": "2025-06-17T08:30:45.971Z",
+      "slug": "enterprise-document-assistant-mcp"
+    }
+  },
+  {
+    "id": 222,
+    "documentId": "orbk4l04qglgbulysv8llxwx",
+    "title": "Developer IDE helper with real-time code context",
+    "description": "A coding assistant embedded in IDEs (VS Code, IntelliJ). It uses MCP to fetch code snippets, documentation, and CI logs dynamically, enabling context-aware autocompletion and inline debugging.",
+    "categories": "MCP",
+    "createdAt": "2025-06-13T12:53:50.634Z",
+    "updatedAt": "2025-06-17T05:06:24.936Z",
+    "publishedAt": "2025-06-17T05:06:24.985Z",
+    "slug": "ide-code-assistant-mcp",
+    "image": [
+      {
+        "id": 1061,
+        "documentId": "gffpjrznorqlcb126u5phcsv",
+        "name": "Firefly_-Create an image depicting a modern developer's workspace featuring a sleek digital i 490242.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3.jpg",
+            "hash": "large_Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_-Create an image depicting a modern developer's workspace featuring a sleek digital i 490242.jpg",
+            "path": null,
+            "size": 91.91,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 91905
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3.jpg",
+            "hash": "small_Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_-Create an image depicting a modern developer's workspace featuring a sleek digital i 490242.jpg",
+            "path": null,
+            "size": 32.06,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 32055
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3.jpg",
+            "hash": "medium_Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_-Create an image depicting a modern developer's workspace featuring a sleek digital i 490242.jpg",
+            "path": null,
+            "size": 58.63,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 58629
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3.jpg",
+            "hash": "thumbnail_Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_-Create an image depicting a modern developer's workspace featuring a sleek digital i 490242.jpg",
+            "path": null,
+            "size": 7.87,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 7869
+          }
+        },
+        "hash": "Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 343.04,
+        "url": "/uploads/Firefly_Create_an_image_depicting_a_modern_developer_s_workspace_featuring_a_sleek_digital_i_490242_a2627e9dc3.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T05:06:17.978Z",
+        "updatedAt": "2025-06-17T05:06:17.978Z",
+        "publishedAt": "2025-06-17T05:06:17.978Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 888,
+      "documentId": "d2nn1iapuepjcpvku7ajkfu1",
+      "createdAt": "2025-06-16T05:50:23.018Z",
+      "updatedAt": "2025-06-17T12:22:58.393Z",
+      "publishedAt": "2025-06-17T12:22:58.668Z",
+      "slug": "ide-code-assistant-mcp"
+    }
+  },
+  {
+    "id": 223,
+    "documentId": "aqsycmhcq8ggcm7qycruuppc",
+    "title": "Data query assistant over SQL and NoSQL databases",
+    "description": "Natural-language query engine enabling users to query MySQL, PostgreSQL, MongoDB via MCP. Translates user intent into secure SQL/NoSQL queries, formats results, and prevents SQL injection.",
+    "categories": "MCP",
+    "createdAt": "2025-06-13T13:58:29.590Z",
+    "updatedAt": "2025-06-17T05:16:12.883Z",
+    "publishedAt": "2025-06-17T05:16:12.941Z",
+    "slug": "data-query-assistant-mcp",
+    "image": [
+      {
+        "id": 1063,
+        "documentId": "x39i886thm9ed42pgxrsb078",
+        "name": "Firefly_-Create a sleek, professional illustration of a data query assistant interface. The s 394488.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e.jpg",
+            "hash": "large_Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_-Create a sleek, professional illustration of a data query assistant interface. The s 394488.jpg",
+            "path": null,
+            "size": 71.26,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 71257
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e.jpg",
+            "hash": "small_Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_-Create a sleek, professional illustration of a data query assistant interface. The s 394488.jpg",
+            "path": null,
+            "size": 26.03,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 26028
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e.jpg",
+            "hash": "medium_Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_-Create a sleek, professional illustration of a data query assistant interface. The s 394488.jpg",
+            "path": null,
+            "size": 45.91,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 45909
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e.jpg",
+            "hash": "thumbnail_Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_-Create a sleek, professional illustration of a data query assistant interface. The s 394488.jpg",
+            "path": null,
+            "size": 7.03,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 7033
+          }
+        },
+        "hash": "Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 251.66,
+        "url": "/uploads/Firefly_Create_a_sleek_professional_illustration_of_a_data_query_assistant_interface_The_s_394488_80b5b04e6e.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T05:16:05.822Z",
+        "updatedAt": "2025-06-17T05:16:05.822Z",
+        "publishedAt": "2025-06-17T05:16:05.823Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 224,
+    "documentId": "erlbiikdhxgppjvkihchp5n1",
+    "title": "Windows file-system AI explorer in desktop apps",
+    "description": "A Windows desktop agent (e.g. in Windows AI Foundry) that, via MCP, can search, summarize, and open user-approved files. Acts as a conversational interface to local and cloud documents.",
+    "categories": "MCP",
+    "createdAt": "2025-06-13T13:59:09.618Z",
+    "updatedAt": "2025-06-17T05:25:15.312Z",
+    "publishedAt": "2025-06-17T05:25:15.371Z",
+    "slug": "windows-file-explorer-mcp",
+    "image": [
+      {
+        "id": 1065,
+        "documentId": "yyv1p417p1sjgo0n9dxrpxb5",
+        "name": "Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+            "hash": "large_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+            "path": null,
+            "size": 86.46,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 86458
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+            "hash": "small_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+            "path": null,
+            "size": 30.18,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 30177
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+            "hash": "medium_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+            "path": null,
+            "size": 55.29,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 55290
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+            "hash": "thumbnail_Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_-Create a professional image of a sleek desktop interface showcasing an AI assistant  692934.jpg",
+            "path": null,
+            "size": 7.57,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 7570
+          }
+        },
+        "hash": "Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 304.54,
+        "url": "/uploads/Firefly_Create_a_professional_image_of_a_sleek_desktop_interface_showcasing_an_AI_assistant_692934_8b24d9af6b.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T05:25:09.528Z",
+        "updatedAt": "2025-06-17T05:25:09.528Z",
+        "publishedAt": "2025-06-17T05:25:09.530Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 234,
+    "documentId": "twm0olnxkllqnjzqkajgk2gm",
+    "title": "Customer Service Automation with Dynamic Data Access",
+    "description": "Lasyaaitech's Customer Service Automation platform is built to enhance support efficiency by integrating dynamic data access into customer interaction workflows. Designed for fast-paced enterprise environments, the system enables support teams to instantly retrieve order history, status updates, and personalized insights without toggling between systems.\n\nBy leveraging AI-driven routing and pre-populated suggestions, the platform automates routine queries and escalates complex issues to the right agents with full context. With integrated CRM and API access to third-party systems, businesses can reduce resolution time, improve customer satisfaction, and maintain a consistent support experience across all channels.\n\nWhether it's chat, email, or call-based service, this dynamic solution transforms fragmented support into a unified, intelligent process.",
+    "categories": "MCP",
+    "createdAt": "2025-06-16T11:09:42.067Z",
+    "updatedAt": "2025-06-17T07:18:38.930Z",
+    "publishedAt": "2025-06-17T07:18:39.027Z",
+    "slug": "customer-service-automation-with-dynamic-data-access",
+    "image": [
+      {
+        "id": 1077,
+        "documentId": "mtc1731v8k8sgziyovkvyvqw",
+        "name": "Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+            "hash": "large_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+            "path": null,
+            "size": 87.45,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 87450
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+            "hash": "small_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+            "path": null,
+            "size": 30.55,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 30550
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+            "hash": "medium_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+            "path": null,
+            "size": 55.7,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 55702
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+            "hash": "thumbnail_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+            "path": null,
+            "size": 7.47,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 7474
+          }
+        },
+        "hash": "Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 313.12,
+        "url": "/uploads/Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T07:18:31.055Z",
+        "updatedAt": "2025-06-17T07:18:31.055Z",
+        "publishedAt": "2025-06-17T07:18:31.055Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 234,
+    "documentId": "twm0olnxkllqnjzqkajgk2gm",
+    "title": "Customer Service Automation with Dynamic Data Access",
+    "description": "Lasyaaitech's Customer Service Automation platform is built to enhance support efficiency by integrating dynamic data access into customer interaction workflows. Designed for fast-paced enterprise environments, the system enables support teams to instantly retrieve order history, status updates, and personalized insights without toggling between systems.\n\nBy leveraging AI-driven routing and pre-populated suggestions, the platform automates routine queries and escalates complex issues to the right agents with full context. With integrated CRM and API access to third-party systems, businesses can reduce resolution time, improve customer satisfaction, and maintain a consistent support experience across all channels.\n\nWhether it's chat, email, or call-based service, this dynamic solution transforms fragmented support into a unified, intelligent process.",
+    "categories": "MCP",
+    "createdAt": "2025-06-16T11:09:42.067Z",
+    "updatedAt": "2025-06-17T07:18:38.930Z",
+    "publishedAt": "2025-06-17T07:18:39.027Z",
+    "slug": "customer-service-automation-with-dynamic-data-access",
+    "image": [
+      {
+        "id": 1077,
+        "documentId": "mtc1731v8k8sgziyovkvyvqw",
+        "name": "Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+            "hash": "large_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+            "path": null,
+            "size": 87.45,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 87450
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+            "hash": "small_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+            "path": null,
+            "size": 30.55,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 30550
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+            "hash": "medium_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+            "path": null,
+            "size": 55.7,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 55702
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+            "hash": "thumbnail_Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_-Create a vibrant and engaging visual that represents LasyaAitech's Customer Service  132381.jpg",
+            "path": null,
+            "size": 7.47,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 7474
+          }
+        },
+        "hash": "Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 313.12,
+        "url": "/uploads/Firefly_Create_a_vibrant_and_engaging_visual_that_represents_Lasya_Aitech_s_Customer_Service_132381_73770dea82.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T07:18:31.055Z",
+        "updatedAt": "2025-06-17T07:18:31.055Z",
+        "publishedAt": "2025-06-17T07:18:31.055Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": null
+  },
+  {
+    "id": 243,
+    "documentId": "ozso9vt4xlz1wd5iamgqd3oi",
+    "title": "Cloud Admin with Multi‑Service Resource Queries",
+    "description": "An MCP-based AI ops tool interfaces with AWS, Azure, and GCP via MCP servers. Engineers use natural language to query resource usage, monitor costs, and manage services without writing complex CLI commands. ",
+    "categories": "MCP",
+    "createdAt": "2025-06-17T04:35:58.448Z",
+    "updatedAt": "2025-06-17T08:12:34.104Z",
+    "publishedAt": "2025-06-17T08:12:34.160Z",
+    "slug": "cloud-admin-ops-mcp",
+    "image": [
+      {
+        "id": 1085,
+        "documentId": "fl48gv4nz76daqlifgkpgxkg",
+        "name": "Firefly_Create a visual representation of cloud computing resources spread across AWS, Azure, 144368.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19.jpg",
+            "hash": "large_Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_Create a visual representation of cloud computing resources spread across AWS, Azure, 144368.jpg",
+            "path": null,
+            "size": 87.72,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 87716
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19.jpg",
+            "hash": "small_Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_Create a visual representation of cloud computing resources spread across AWS, Azure, 144368.jpg",
+            "path": null,
+            "size": 30.83,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 30827
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19.jpg",
+            "hash": "medium_Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_Create a visual representation of cloud computing resources spread across AWS, Azure, 144368.jpg",
+            "path": null,
+            "size": 56.9,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 56904
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19.jpg",
+            "hash": "thumbnail_Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_Create a visual representation of cloud computing resources spread across AWS, Azure, 144368.jpg",
+            "path": null,
+            "size": 6.95,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 6951
+          }
+        },
+        "hash": "Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 289.62,
+        "url": "/uploads/Firefly_Create_a_visual_representation_of_cloud_computing_resources_spread_across_AWS_Azure_144368_1eb7d58f19.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T08:12:27.746Z",
+        "updatedAt": "2025-06-17T08:12:27.746Z",
+        "publishedAt": "2025-06-17T08:12:27.747Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 864,
+      "documentId": "n4agflpo1geoe2p8tjmpqug8",
+      "createdAt": "2025-06-17T04:37:07.692Z",
+      "updatedAt": "2025-06-17T08:19:25.470Z",
+      "publishedAt": "2025-06-17T08:19:26.003Z",
+      "slug": "cloud-admin-ops-mcp"
+    }
+  },
+  {
+    "id": 229,
+    "documentId": "xogwr9rdiu6esmkey1s2ganh",
+    "title": "Secure Knowledge Retrieval Integration for Policy-Accurate Responses",
+    "description": "This feature enables real-time grounding of LLM outputs by integrating a secure retrieval layer with internal HR and legal documentation. Designed for enterprise environments, the system fetches the latest policy texts, SOPs, and compliance rules during chatbot interactions—ensuring every response is up-to-date, role-relevant, and audit-compliant. It supports access controls, document versioning, and multilingual content handling across global teams.",
+    "categories": "LLM",
+    "createdAt": "2025-06-16T05:35:17.352Z",
+    "updatedAt": "2025-06-17T06:22:32.674Z",
+    "publishedAt": "2025-06-17T06:22:32.730Z",
+    "slug": "secure-knowledge-retrieval-integration-for-policy-accurate-response",
+    "image": [
+      {
+        "id": 1069,
+        "documentId": "b0yv7n6bgrs15ddwew7bjyor",
+        "name": "Firefly_-Create a professional and modern visual representation of 'Secure Knowledge Retrieva 32545.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a.jpg",
+            "hash": "large_Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_-Create a professional and modern visual representation of 'Secure Knowledge Retrieva 32545.jpg",
+            "path": null,
+            "size": 80.47,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 80470
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a.jpg",
+            "hash": "small_Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_-Create a professional and modern visual representation of 'Secure Knowledge Retrieva 32545.jpg",
+            "path": null,
+            "size": 29.26,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 29264
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a.jpg",
+            "hash": "medium_Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_-Create a professional and modern visual representation of 'Secure Knowledge Retrieva 32545.jpg",
+            "path": null,
+            "size": 52.26,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 52260
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a.jpg",
+            "hash": "thumbnail_Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_-Create a professional and modern visual representation of 'Secure Knowledge Retrieva 32545.jpg",
+            "path": null,
+            "size": 7.25,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 7252
+          }
+        },
+        "hash": "Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 288.19,
+        "url": "/uploads/Firefly_Create_a_professional_and_modern_visual_representation_of_Secure_Knowledge_Retrieva_32545_21fb14239a.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T06:22:19.659Z",
+        "updatedAt": "2025-06-17T06:22:19.659Z",
+        "publishedAt": "2025-06-17T06:22:19.659Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 1464,
+        "text": null,
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 883,
+      "documentId": "agixh9n3zt7u05o7f2yg6ai6",
+      "createdAt": "2025-06-16T06:48:42.529Z",
+      "updatedAt": "2025-06-17T11:38:28.562Z",
+      "publishedAt": "2025-06-17T11:38:28.956Z",
+      "slug": "secure-knowledge-retrieval-integration-for-policy-accurate-response"
+    }
+  },
+  {
+    "id": 233,
+    "documentId": "jzlvg5c6zikecsiaq8eu62zh",
+    "title": "SmartBrief: LLM-Based Document Summarizer for Executive Reporting",
+    "description": "InsightGenie is an NLQ-powered assistant designed to help business teams quickly access and interpret sales, operations, and performance data without writing SQL or using complex BI tools. By translating natural language queries into actionable insights from internal dashboards, InsightGenie empowers non-technical users to make data-driven decisions faster.\n\n",
+    "categories": "LLM",
+    "createdAt": "2025-06-16T11:18:56.376Z",
+    "updatedAt": "2025-06-17T07:15:41.100Z",
+    "publishedAt": "2025-06-17T07:15:41.155Z",
+    "slug": "smart-brief-llm-based-document-summarizer-for-executive-reporting",
+    "image": [
+      {
+        "id": 1075,
+        "documentId": "x5070a2rvqu6epynroej3vte",
+        "name": "Firefly_A modern executive AI assistant interface displaying a sleek dashboard summary. Busin 144368.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81.jpg",
+            "hash": "large_Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_A modern executive AI assistant interface displaying a sleek dashboard summary. Busin 144368.jpg",
+            "path": null,
+            "size": 102.07,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 102069
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81.jpg",
+            "hash": "small_Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_A modern executive AI assistant interface displaying a sleek dashboard summary. Busin 144368.jpg",
+            "path": null,
+            "size": 36.1,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 36099
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81.jpg",
+            "hash": "medium_Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_A modern executive AI assistant interface displaying a sleek dashboard summary. Busin 144368.jpg",
+            "path": null,
+            "size": 65.95,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 65953
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81.jpg",
+            "hash": "thumbnail_Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_A modern executive AI assistant interface displaying a sleek dashboard summary. Busin 144368.jpg",
+            "path": null,
+            "size": 8.46,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 8463
+          }
+        },
+        "hash": "Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 336.29,
+        "url": "/uploads/Firefly_A_modern_executive_AI_assistant_interface_displaying_a_sleek_dashboard_summary_Busin_144368_4c37159c81.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T07:15:32.504Z",
+        "updatedAt": "2025-06-17T07:15:32.504Z",
+        "publishedAt": "2025-06-17T07:15:32.505Z"
+      }
+    ],
+    "button": [],
+    "lapl_case_dashdev": {
+      "id": 882,
+      "documentId": "mqe4mx5tj3yisxhxzgzk1rgw",
+      "createdAt": "2025-06-16T10:42:31.246Z",
+      "updatedAt": "2025-06-17T11:29:33.009Z",
+      "publishedAt": "2025-06-17T11:29:33.337Z",
+      "slug": "smart-brief-llm-based-document-summarizer-for-executive-reporting"
+    }
+  },
+  {
+    "id": 138,
+    "documentId": "lm4coiccyjpfkmwd9oxpzf7m",
+    "title": "AI-driven Document Generation on AWS infrastructure",
+    "description": "This solution leverages the power of AWS to automate intelligent document generation for enterprises. Designed to streamline workflows, the system dynamically creates contracts, reports, letters, and legal documents based on user inputs, templates, and real-time data.\n\nBuilt on AWS Lambda, S3, and Textract, it supports high-volume processing, seamless data extraction, and secure storage. The system enables role-based access control, audit trails, and customizable templates—ensuring compliance, speed, and accuracy at scale.\n\nThe platform has been successfully integrated into HR, legal, and financial departments, significantly reducing manual work and increasing turnaround time for document workflows.\n\n",
+    "categories": "AI",
+    "createdAt": "2025-06-02T10:22:59.036Z",
+    "updatedAt": "2025-06-02T10:42:29.289Z",
+    "publishedAt": "2025-06-02T10:42:29.335Z",
+    "slug": "ai-driven-document-generation-on-aws-infrastructure",
+    "image": [
+      {
+        "id": 960,
+        "documentId": "ghtsb3bi0bi2k7nymavolyz6",
+        "name": "document-generation-on-aws-1.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1920,
+        "height": 560,
+        "formats": {
+          "large": {
+            "ext": ".webp",
+            "url": "/uploads/large_document_generation_on_aws_1_b4f948d90b.webp",
+            "hash": "large_document_generation_on_aws_1_b4f948d90b",
+            "mime": "image/webp",
+            "name": "large_document-generation-on-aws-1.webp",
+            "path": null,
+            "size": 18.1,
+            "width": 1000,
+            "height": 292,
+            "sizeInBytes": 18104
+          },
+          "small": {
+            "ext": ".webp",
+            "url": "/uploads/small_document_generation_on_aws_1_b4f948d90b.webp",
+            "hash": "small_document_generation_on_aws_1_b4f948d90b",
+            "mime": "image/webp",
+            "name": "small_document-generation-on-aws-1.webp",
+            "path": null,
+            "size": 8.37,
+            "width": 500,
+            "height": 146,
+            "sizeInBytes": 8366
+          },
+          "medium": {
+            "ext": ".webp",
+            "url": "/uploads/medium_document_generation_on_aws_1_b4f948d90b.webp",
+            "hash": "medium_document_generation_on_aws_1_b4f948d90b",
+            "mime": "image/webp",
+            "name": "medium_document-generation-on-aws-1.webp",
+            "path": null,
+            "size": 12.93,
+            "width": 750,
+            "height": 219,
+            "sizeInBytes": 12928
+          },
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/uploads/thumbnail_document_generation_on_aws_1_b4f948d90b.webp",
+            "hash": "thumbnail_document_generation_on_aws_1_b4f948d90b",
+            "mime": "image/webp",
+            "name": "thumbnail_document-generation-on-aws-1.webp",
+            "path": null,
+            "size": 3.5,
+            "width": 245,
+            "height": 71,
+            "sizeInBytes": 3498
+          }
+        },
+        "hash": "document_generation_on_aws_1_b4f948d90b",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 37.65,
+        "url": "/uploads/document_generation_on_aws_1_b4f948d90b.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-02T10:20:56.028Z",
+        "updatedAt": "2025-06-02T10:25:03.772Z",
+        "publishedAt": "2025-06-02T10:20:56.029Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 1267,
+        "text": null,
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 699,
+      "documentId": "i28tpim3a6admlq3ah1ct5oo",
+      "createdAt": "2025-06-03T06:22:05.287Z",
+      "updatedAt": "2025-06-03T16:32:13.558Z",
+      "publishedAt": "2025-06-03T16:32:13.872Z",
+      "slug": "ai-driven-document-generation-on-aws-infrastructure"
+    }
+  },
+  {
+    "id": 228,
+    "documentId": "x5kxlnathhr8j3tf78y07fjn",
+    "title": "AI-Powered Customer Support Chatbot",
+    "description": "The AI-Powered Chatbot is an LLM-based virtual assistant that handles tier-1 customer inquiries, slashing response times by 70% and deflecting 40% of tickets from human agents. Available 24/7 across web, mobile and social channels, it maintains a consistent brand voice in six languages…",
+    "categories": "LLM",
+    "createdAt": "2025-06-13T12:09:30.301Z",
+    "updatedAt": "2025-06-17T06:19:45.940Z",
+    "publishedAt": "2025-06-17T06:19:45.992Z",
+    "slug": "ai-powered-customer-support-chatbot",
+    "image": [
+      {
+        "id": 1068,
+        "documentId": "dhsr62tpyn70cm7rf9tivodd",
+        "name": "Firefly_-Create a sleek, modern illustration of an Internal LLM Chatbot interface designed fo 349513.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2304,
+        "height": 1792,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655.jpg",
+            "hash": "large_Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655",
+            "mime": "image/jpeg",
+            "name": "large_Firefly_-Create a sleek, modern illustration of an Internal LLM Chatbot interface designed fo 349513.jpg",
+            "path": null,
+            "size": 55.11,
+            "width": 1000,
+            "height": 778,
+            "sizeInBytes": 55110
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655.jpg",
+            "hash": "small_Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655",
+            "mime": "image/jpeg",
+            "name": "small_Firefly_-Create a sleek, modern illustration of an Internal LLM Chatbot interface designed fo 349513.jpg",
+            "path": null,
+            "size": 22.79,
+            "width": 500,
+            "height": 389,
+            "sizeInBytes": 22788
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655.jpg",
+            "hash": "medium_Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655",
+            "mime": "image/jpeg",
+            "name": "medium_Firefly_-Create a sleek, modern illustration of an Internal LLM Chatbot interface designed fo 349513.jpg",
+            "path": null,
+            "size": 37.67,
+            "width": 750,
+            "height": 583,
+            "sizeInBytes": 37674
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655.jpg",
+            "hash": "thumbnail_Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Firefly_-Create a sleek, modern illustration of an Internal LLM Chatbot interface designed fo 349513.jpg",
+            "path": null,
+            "size": 6.34,
+            "width": 201,
+            "height": 156,
+            "sizeInBytes": 6343
+          }
+        },
+        "hash": "Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 161.55,
+        "url": "/uploads/Firefly_Create_a_sleek_modern_illustration_of_an_Internal_LLM_Chatbot_interface_designed_fo_349513_c771752655.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-17T06:19:36.773Z",
+        "updatedAt": "2025-06-17T06:19:36.773Z",
+        "publishedAt": "2025-06-17T06:19:36.774Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 1463,
+        "text": null,
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 891,
+      "documentId": "ncz8iic0diynbir76pp18hsj",
+      "createdAt": "2025-06-13T12:31:17.897Z",
+      "updatedAt": "2025-06-17T12:27:31.795Z",
+      "publishedAt": "2025-06-17T12:27:32.076Z",
+      "slug": "ai-powered-customer-support-chatbot"
+    }
+  },
+  {
+    "id": 174,
+    "documentId": "sluc2rogvlrbgt52oivhrvlm",
+    "title": "Comprehensive Mobility and Express Delivery Solution",
+    "description": "This solution is a comprehensive app that combines taxi, food, and grocery delivery services into one seamless platform. Originally developed by merging separate taxi and delivery apps, it features a modular architecture and essential integrations. With this unified software, DashDevs’ clients aim to consolidate all their services into a single digital solution, enhance functionality with new features, provide an updated visual experience, and elevate their customer service to new heights.",
+    "categories": "Mobile Application",
+    "createdAt": "2025-01-30T21:12:37.086Z",
+    "updatedAt": "2025-06-05T06:17:39.989Z",
+    "publishedAt": "2025-06-05T06:17:40.068Z",
+    "slug": "super-taxi-and-express-delivery",
+    "image": [
+      {
+        "id": 802,
+        "documentId": "l2342s5myw1aw1ze1949jgpt",
+        "name": "taxi-app-cover.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 424,
+        "height": 318,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/assets/imgs/casestudies/home/taxi-app-cover.webp",
+            "hash": "thumbnail_taxi_app_cover_52aa2e8e0a",
+            "mime": "image/webp",
+            "name": "thumbnail_taxi-app-cover.webp",
+            "path": null,
+            "size": 5.61,
+            "width": 208,
+            "height": 156,
+            "sizeInBytes": 5614
+          }
+        },
+        "hash": "taxi_app_cover_52aa2e8e0a",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 18.06,
+        "url": "/uploads/taxi_app_cover_52aa2e8e0a.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-01-30T21:12:27.624Z",
+        "updatedAt": "2025-01-30T21:12:27.624Z",
+        "publishedAt": "2025-01-30T21:12:27.625Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 1453,
+        "text": null,
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 722,
+      "documentId": "sh00eemzbw4uhm8iqz7ryfpk",
+      "createdAt": "2025-06-05T05:39:31.038Z",
+      "updatedAt": "2025-06-05T06:26:09.739Z",
+      "publishedAt": "2025-06-05T06:26:10.105Z",
+      "slug": "super-taxi-and-express-delivery"
+    }
+  },
+  {
+    "id": 136,
+    "documentId": "pw24ir4bwst4i3608f9j39ci",
+    "title": "Passenger Experience AI Assistance Bot",
+    "description": "The Passenger Experience AI Assistance Bot is an intelligent, real-time conversational assistant designed specifically for airport and airline passengers. It helps travelers with tasks like tracking luggage, receiving gate change alerts, accessing flight schedules, and managing travel documents—all via voice or chat interface.\n\nThe bot integrates seamlessly with airline databases and digital twin systems to provide proactive notifications, contextual support, and multilingual assistance. With AI-driven personalization, the system improves traveler satisfaction and operational efficiency across terminals, especially during delays or disruptions.\n\nPassengers benefit from quicker resolutions, fewer manual inquiries, and a more informed travel experience—all delivered through mobile, kiosk, or web platforms.",
+    "categories": "AI",
+    "createdAt": "2025-06-02T09:36:57.891Z",
+    "updatedAt": "2025-06-02T10:05:01.257Z",
+    "publishedAt": "2025-06-02T10:05:01.328Z",
+    "slug": "passenger-experience-ai-assistance-bot",
+    "image": [
+      {
+        "id": 959,
+        "documentId": "vqe4am68r2igowfbhf9cekc4",
+        "name": "Text-Summarization-with-the-OpenAI-API-featured-image-1.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1920,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".webp",
+            "url": "/uploads/large_Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b.webp",
+            "hash": "large_Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b",
+            "mime": "image/webp",
+            "name": "large_Text-Summarization-with-the-OpenAI-API-featured-image-1.webp",
+            "path": null,
+            "size": 146.16,
+            "width": 1000,
+            "height": 562,
+            "sizeInBytes": 146156
+          },
+          "small": {
+            "ext": ".webp",
+            "url": "/uploads/small_Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b.webp",
+            "hash": "small_Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b",
+            "mime": "image/webp",
+            "name": "small_Text-Summarization-with-the-OpenAI-API-featured-image-1.webp",
+            "path": null,
+            "size": 46.6,
+            "width": 500,
+            "height": 281,
+            "sizeInBytes": 46602
+          },
+          "medium": {
+            "ext": ".webp",
+            "url": "/uploads/medium_Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b.webp",
+            "hash": "medium_Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b",
+            "mime": "image/webp",
+            "name": "medium_Text-Summarization-with-the-OpenAI-API-featured-image-1.webp",
+            "path": null,
+            "size": 90.96,
+            "width": 750,
+            "height": 422,
+            "sizeInBytes": 90962
+          },
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "/uploads/thumbnail_Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b.webp",
+            "hash": "thumbnail_Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b",
+            "mime": "image/webp",
+            "name": "thumbnail_Text-Summarization-with-the-OpenAI-API-featured-image-1.webp",
+            "path": null,
+            "size": 13.12,
+            "width": 245,
+            "height": 138,
+            "sizeInBytes": 13122
+          }
+        },
+        "hash": "Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 413.22,
+        "url": "/uploads/Text_Summarization_with_the_Open_AI_API_featured_image_1_ba553c996b.webp",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-06-02T09:40:56.495Z",
+        "updatedAt": "2025-06-02T09:43:09.806Z",
+        "publishedAt": "2025-06-02T09:40:56.496Z"
+      }
+    ],
+    "button": [
+      {
+        "id": 1265,
+        "text": null,
+        "link": null
+      }
+    ],
+    "lapl_case_dashdev": {
+      "id": 701,
+      "documentId": "xsc0sjozsv6wu9c7ktm5bwhr",
+      "createdAt": "2025-06-03T06:21:38.410Z",
+      "updatedAt": "2025-06-03T16:42:42.867Z",
+      "publishedAt": "2025-06-03T16:42:43.239Z",
+      "slug": "passenger-experience-ai-assistance-bot"
+    }
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "id": 7,
+      "documentId": "yjo3h97aq22nsca9bfevh7qw",
+      "createdAt": "2024-12-11T08:14:29.293Z",
+      "updatedAt": "2025-02-03T08:56:53.259Z",
+      "publishedAt": "2025-02-03T08:56:53.299Z",
+      "question_form": {
+        "id": 7,
+        "title": "AI Project Form",
+        "Questions": {
+          "questions": [
+            {
+              "title": "I am looking for",
+              "options": [
+                {
+                  "label": "AI developers or data scientists",
+                  "value": "ai_developers"
+                },
+                {
+                  "label": "Building an AI-powered team",
+                  "value": "ai_team"
+                },
+                {
+                  "label": "A custom AI solution",
+                  "value": "custom_ai_project"
+                }
+              ],
+              "isRequired": true,
+              "stepNumber": 1,
+              "description": "Choose one option",
+              "questionType": "single_select"
+            },
+            {
+              "title": "I want AI solutions for",
+              "options": [
+                {
+                  "label": "Machine Learning Models",
+                  "value": "machine_learning"
+                },
+                {
+                  "label": "AI Chatbots & Virtual Assistants",
+                  "value": "chatbots"
+                },
+                {
+                  "label": "Data Analytics & Prediction",
+                  "value": "data_analytics"
+                },
+                {
+                  "label": "Computer Vision",
+                  "value": "computer_vision"
+                },
+                {
+                  "label": "Process Automation (AI/ML)",
+                  "value": "automation"
+                }
+              ],
+              "isRequired": true,
+              "stepNumber": 2,
+              "description": "Choose as many as you like",
+              "questionType": "multi_select"
+            },
+            {
+              "title": "AI project brief",
+              "isRequired": true,
+              "stepNumber": 3,
+              "description": "Describe your AI idea, problem statement, or goals",
+              "questionType": "text"
+            },
+            {
+              "title": "Upload AI project documents or datasets",
+              "isRequired": false,
+              "stepNumber": 4,
+              "description": "Attach requirement files, datasets, or references if available",
+              "questionType": "file_upload",
+              "fileSizeLimitMB": 10
+            },
+            {
+              "title": "What is your estimated AI project budget?",
+              "options": [
+                {
+                  "label": "Below 10,000 USD",
+                  "value": "below_10000"
+                },
+                {
+                  "label": "$10,001 to $20,000",
+                  "value": "10001_20000"
+                },
+                {
+                  "label": "$20,001 to $50,000",
+                  "value": "20001_50000"
+                },
+                {
+                  "label": "$50,000+",
+                  "value": "50000_plus"
+                },
+                {
+                  "label": "Not sure yet",
+                  "value": "not_sure"
+                }
+              ],
+              "isRequired": true,
+              "stepNumber": 5,
+              "description": "Estimated investment for your AI solution",
+              "questionType": "single_select"
+            },
+            {
+              "title": "Your Name",
+              "isRequired": true,
+              "stepNumber": 6,
+              "description": "Let us know your name",
+              "questionType": "text"
+            },
+            {
+              "title": "Your Email Address",
+              "isRequired": true,
+              "stepNumber": 7,
+              "description": "We will contact you regarding your AI project",
+              "questionType": "text"
+            },
+            {
+              "title": "Captcha Verification",
+              "isRequired": true,
+              "stepNumber": 8,
+              "description": "Confirm you are not a robot",
+              "questionType": "captcha"
+            }
+          ],
+          "formDescription": "Share your AI project requirements and our experts will provide a free consultation and cost estimate."
+        }
+      },
+      "seo": [
+        {
+          "id": 254,
+          "meta_title": "Get a Free Quote for AI Solutions & Artificial Intelligence Services | LasyaAitech",
+          "meta_description": "Request a free quote for AI and machine learning solutions with LasyaAitech. We deliver intelligent automation, predictive analytics, chatbots, and custom AI systems tailored to your business needs.",
+          "meta_keywords": "artificial intelligence services, AI development, machine learning solutions, AI automation, AI chatbot development, custom AI projects, AI consulting, data science services, LasyaAitech, AI company, intelligent systems, AI technology solutions"
+        }
+      ],
+      "free_quote_hero": [
+        {
+          "id": 16,
+          "title": "Ready to Build with AI?",
+          "subtitle": "Get a free AI project quote from our experts today",
+          "description": "We help businesses leverage Artificial Intelligence to automate processes, gain insights, and drive innovation with cutting-edge AI solutions."
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 1
+    }
+  }
+}
