@@ -4,18 +4,5 @@
       "main": true,
       "*": false
     }
-  },
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://lasyaaitech.com/$1",
-      "has": [
-        {
-          "type": "host",
-          "value": "^lasya-ai-tech-landing-page-site(?:-git-main-[^.]+)?\\.vercel\\.app$"
-        }
-      ],
-      "permanent": true
-    }
-  ]
+  }
 }
