@@ -4,5 +4,12 @@
       "main": true,
       "*": false
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://lasyaaitech.com/$1",
+      "permanent": true
+    }
+  ]
 }
