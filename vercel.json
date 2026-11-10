@@ -9,6 +9,12 @@
     {
       "source": "/(.*)",
       "destination": "https://lasyaaitech.com/$1",
+      "has": [
+        {
+          "type": "host",
+          "value": "lasya-ai-tech-landing-page-site.vercel.app"
+        }
+      ],
       "permanent": true
     }
   ]
